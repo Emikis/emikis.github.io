@@ -1,37 +1,11 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: O blogu
+date: 2017-06-18
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
-
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
-
-## Preview
-
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+_Pokarmlove to poradnik jak zaprzyjaźnić się z alergią pokarmową._
+ 
+Nie jest to strona o medycznych aspektach chorób autoimmunologicznych, ani blog kulinarny. Jest to miejsce, w którym dzielę się moimi doświadczeniami jak odkryć, że to właśnie Nas dotyczy problem alergii pokarmowych, jak je potwierdzić, a przede wszystkim -  jak po otrzymaniu wyników pozytywnych żyć tak, aby zmiana diety i przyzwyczajeń Nas nie przerosła. Bo diagnoza nie jest końcem, a początkiem trudności, ponieważ jedynym “lekarstwem” na alergię pokarmową jest unikanie alergenów. Musimy wyeliminować to, co nam szkodzi, a to łączy się między innymi z czytaniem drobnego druczku na opakowaniach żywności (możemy być naprawdę w głębokim szoku po tym co tam znajdziemy), czy uciążliwym pytaniem kelnerów o skład każdego dania w menu.
+Jednak wiedza o tym, że Nasze ciało nie toleruje konkretnego składnika z naszej diety jest prawdziwym błogosławieństwem! Dzięki temu możemy znowu żyć bez bólu, wysypki i wszelkich innych okropnych skutków alergii. Czy warto pomęczyć się w trakcie zmiany diety, aby wreszcie żyć normalnie? Oczywiście! A ja Wam w tym pomogę.
