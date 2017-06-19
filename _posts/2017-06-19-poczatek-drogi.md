@@ -23,6 +23,6 @@ Najważniejsze w tym kroku jest po prostu zdać sobie sprawę, że to co mówi n
 2. Nie daj się zbyć pierwszą lepszą diagnozą. Zadawaj dużo pytań, opowiedz ze szczegółami co Cię dręczy, nawet drobna rzecz, pozornie bez znaczenia, może nakierować lekarza na właściwy trop.
 3. Zastosuj się do wskazań lekarza w 100% - jeśli przepisze leki - pamiętaj, że niektóre działają dopiero po jakimś czasie - odczekaj chwilę zanim zrezygnowany rzucisz je w kąt. Jeśli zaleci dietę - nie oszukuj! To przecież dla Twojego dobra.
 4. Nie załamuj się jeśli nawet kolejna diagnoza się nie potwierdzi. Lekarzy jest dużo, któryś na pewno sobie poradzi z Twoim przypadkiem!
-5. Na początku zdecydowanie najważniejsze jest pozytywne myślenie. Już przekonanie samego siebie, że leczenie zadziała może zadziałać jak efekt placebo i skutkować poprawą samopoczucia!
+5. Na początku zdecydowanie najważniejsze jest pozytywne myślenie. Już przekonanie samego siebie, że terapia się uda może zadziałać jak efekt placebo i skutkować poprawą samopoczucia!
 
 
