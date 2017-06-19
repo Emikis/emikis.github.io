@@ -18,7 +18,7 @@ Dodatkowo oprócz wykluczenia uczulającej żywności lekarz zalecił mi zażywa
  
 Najważniejsze w tym kroku jest po prostu zdać sobie sprawę, że to co mówi nawet polecany, znany lekarz nie zawsze musi być prawdziwe. Często wolą oni postawić najłatwiejszą diagnozę jak nieregularne spożywanie posiłków, bo jest to dla nich najwygodniejsze, a często być może faktycznie w tym właśnie tkwi problem pacjenta. Jeśli to jednak nie zadziałało, nie jest to koniec poszukiwań, a jedynie początek. Warto poświęcić dla siebie czas, bo zdrowie i dobre samopoczucie jest kluczem do sukcesu. A z własnego doświadczenia wiem, że potwierdzenie alergii lub nietolerancji nie jest wyrokiem, a wybawieniem! 
 
-### **NOTATNIK** 
+### **PORADNIK** 
 1. Jeśli źle się czujesz idź do lekarza. Ani mój blog, ani Wujek Google go nie zastąpi.
 2. Nie daj się zbyć pierwszą lepszą diagnozą. Zadawaj dużo pytań, opowiedz ze szczegółami co Cię dręczy, nawet drobna rzecz, pozornie bez znaczenia, może nakierować lekarza na właściwy trop.
 3. Zastosuj się do wskazań lekarza w 100% - jeśli przepisze leki - pamiętaj, że niektóre działają dopiero po jakimś czasie - odczekaj chwilę zanim zrezygnowany rzucisz je w kąt. Jeśli zaleci dietę - nie oszukuj! To przecież dla Twojego dobra.
