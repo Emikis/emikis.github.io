@@ -2,7 +2,7 @@
 layout: post
 title:  "Początek drogi."
 date:   2017-06-19
-project: truess
+project: true
 comments: false
 ---
 
