@@ -19,10 +19,10 @@ Dodatkowo oprócz wykluczenia uczulającej żywności lekarz zalecił mi zażywa
 Najważniejsze w tym kroku jest po prostu zdać sobie sprawę, że to co mówi nawet polecany, znany lekarz nie zawsze musi być prawdziwe. Często wolą oni postawić najłatwiejszą diagnozę jak nieregularne spożywanie posiłków, bo jest to dla nich najwygodniejsze, a często być może faktycznie w tym właśnie tkwi problem pacjenta. Jeśli to jednak nie zadziałało, nie jest to koniec poszukiwań, a jedynie początek. Warto poświęcić dla siebie czas, bo zdrowie i dobre samopoczucie jest kluczem do sukcesu. A z własnego doświadczenia wiem, że potwierdzenie alergii lub nietolerancji nie jest wyrokiem, a wybawieniem! 
 
 ### **NOTATNIK** 
-1. Jeśli źle się czujesz idź do lekarza. Ani mój blog, ani Wujek Google nie pomoże tak jak on.
-2. Nie daj się zbyć diagnozą, co do której jesteś pewny, że Ciebie nie dotyczy! Zadawaj dużo pytań, opowiedz ze szczegółami co Cię dręczy, nawet drobna rzecz, pozornie bez znaczenia może nakierować lekarza na właściwy trop.
-3. Zastosuj się do wskazań lekarza w 100% - jeśli przepisze leki - spróbuj czy działają zanim zrezygnowany rzucisz je w kąt, niektóre działają dopiero po pewnym czasie. Jeśli zaleci dietę - nie oszukuj! To przecież dla Twojego dobra.
+1. Jeśli źle się czujesz idź do lekarza. Ani mój blog, ani Wujek Google go nie zastąpi.
+2. Nie daj się zbyć pierwszą lepszą diagnozą. Zadawaj dużo pytań, opowiedz ze szczegółami co Cię dręczy, nawet drobna rzecz, pozornie bez znaczenia, może nakierować lekarza na właściwy trop.
+3. Zastosuj się do wskazań lekarza w 100% - jeśli przepisze leki - pamiętaj, że niektóre działają dopiero po jakimś czasie - odczekaj chwilę zanim zrezygnowany rzucisz je w kąt. Jeśli zaleci dietę - nie oszukuj! To przecież dla Twojego dobra.
 4. Nie załamuj się jeśli nawet kolejna diagnoza się nie potwierdzi. Lekarzy jest dużo, któryś na pewno sobie poradzi z Twoim przypadkiem!
-5. Na początku zdecydowanie najważniejsze jest pozytywne myślenie. Już przekonanie samego siebie, że leczenie zadziała może skutkować poprawą samopoczucia, wykorzystajmy zatem efekt placebo.
+5. Na początku zdecydowanie najważniejsze jest pozytywne myślenie. Już przekonanie samego siebie, że leczenie zadziała może zadziałać jak efekt placebo i skutkować poprawą samopoczucia!
 
 
