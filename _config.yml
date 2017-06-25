@@ -40,6 +40,7 @@ disqus_shortname:   taylantatli
 #email:
 twitter:            pokarmlove
 facebook:           pokarmlove
+facebook_image:     'assets/img/facebook_img.png'
 #github-url:         username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
