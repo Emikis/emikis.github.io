@@ -5,10 +5,9 @@
     {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:image" content="{% if page.twitter_image %}{{ page.twitter_image }}{% else %}{{ site.url }}/{{ site.logo }}{% endif %}">
+    <meta name="twitter:image" content="{% if page.twitter %}{{ site.url }}/{{ page.twitter }}{% else %}{{ site.url }}/{{ site.logo }}{% endif %}">
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
     <meta name="twitter:description" content="{% if page.subtitle %}{{ page.subtitle }}{% else %}{{ site.description }}{% endif %}" />
-    {% if page.excerpt %}<meta name="twitter:description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if site.twitter %}<meta name="twitter:site" content="@{{ site.twitter }}">
     <meta name="twitter:creator" content="@{{ site.twitter }}">{% endif %}
     <!-- Open Graph -->
@@ -18,7 +17,7 @@
     <meta property="og:description" content="{% if page.subtitle %}{{ page.subtitle }}{% else %}{{ site.description }}{% endif %}" />
     <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
     <meta property="og:site_name" content="{{ site.title }}">
-    <meta property="og:image" content="{% if page.facebook_image %}{{ page.facebook_image }}{% else %}{{ site.url }}/{{ site.facebook_image }}{% endif %}">
+    <meta property="og:image" content="{% if page.facebook %}{{ site.url }}/{{ page.facebook }}{% else %}{{ site.url }}/{{ site.facebook_image }}{% endif %}">
     {% if site.google.verify %}
     <!-- Webmaster Tools verfication -->
     <meta name="google-site-verification" content="{{ site.google.verify }}">{% endif %}
