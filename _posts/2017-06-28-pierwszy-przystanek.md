@@ -4,7 +4,7 @@ title:  "Pierwszy przystanek."
 subtitle: "Po drugie: lista przydatnych badań."
 date:   2017-06-28
 project: true
-comments: false
+comments: true
 ---
 
 Od razu zaznaczam, że każdy lekarz może zlecić zrobienie różnych badań, według mojego gastrologa ten pakiet jest jednak pakietem koniecznym i podstawowym, ponieważ zanim zagłębimy się w diagnostykę alergii pokarmowych należy wykluczyć inne poważne schorzenia układu pokarmowego.
@@ -18,14 +18,14 @@ Pierwsza wizyta:
 4. mykologia i pasożyty
 5. helicobacter pylori
 
-Druga wizyta 
+Druga wizyta
 1. badania w kierunku wykluczenia celiakii - immunoglobuliny kl. a (IgA), przeciwciała p. endomysium (EmA) IgA, przeciwciała p. transglutaminazie tkankowej (anty-tGT) w klasie IgG i igA met. ELISA
 
 Trzecia wizyta
 1. panel alergenów pokarmowych w surowicy (36 podstawowych alergenów)
 2. wodorowy test oddechowy z laktulozą w kierunku wykluczenia SIBO
 
-Dodatkowo jak już wcześniej wspominałam, od początku leczenia przestrzegałam bardzo skrupulatnie diety FODMAP oraz wykluczyłam z jadłospisu laktozę - zgodnie z zaleceniami lekarza.  
+Dodatkowo jak już wcześniej wspominałam, od początku leczenia przestrzegałam bardzo skrupulatnie diety FODMAP oraz wykluczyłam z jadłospisu laktozę - zgodnie z zaleceniami lekarza.
 
 ### **Poradnik:**
 1. Każdy wynik należy skonsultować z lekarzem.
