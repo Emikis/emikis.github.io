@@ -4,7 +4,7 @@ title:  "Początek drogi."
 subtitle: "Po pierwsze: zdać sobie sprawę, że codzienny ból nie jest czymś normalnym."
 date:   2017-06-19
 project: true
-comments: false
+comments: true
 ---
 
 Ból brzucha, uczucie przelewania, biegunki, niestrawność, bóle głowy, senność, osłabienie. Lekarz za lekarzem: "wyniki badań dobre - nic się przecież Pani nie dzieje. Wystarczą regularne posiłki (koniecznie co 3h jak w zegarku!) i wszystko będzie w porządku." Czy też to słyszeliście? Być może kiedyś komuś taka terapia pomogła. Nie mnie. Zaczęłam podejrzewać Zespół Jelita Drażliwego - wszystkie objawy się zgadzały. Potwierdzenie tej choroby nie byłoby najlepszą wiadomością, ale przynajmniej wiedziałabym na czym stoję. Tym bardziej, że zaczynało mi już brakować sił by radzić sobie z codzienną niepewnością - czy uda mi się wyjść z domu, czy znów brzuch tak będzie mnie bolał, że będę musiała zrobić sobie wolne?

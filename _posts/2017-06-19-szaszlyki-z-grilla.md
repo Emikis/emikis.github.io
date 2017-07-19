@@ -4,7 +4,7 @@ title:  "Szaszłyki z grilla."
 subtitle: “Nie wiesz co zjeść w gorący dzień a czasu masz pod dostatkiem? Grill!”
 date:   2017-06-22
 facebook: assets/img/szaszlyki/facebook-img.png
-comments: false
+comments: true
 tags:
 - wegetariańskie
 - wegańskie
