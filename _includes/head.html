@@ -52,3 +52,27 @@
     {% unless feature contains 'http://' or feature contains 'https://' %}{% capture feature %}{{ site.url }}/{{ feature }}{% endcapture %}{% endunless %}
     <style type="text/css">.feature {background-image:url({{ feature }});}</style>
     {% endif %}
+    <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+    <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+    <script>
+        window.addEventListener("load", function(){
+        window.cookieconsent.initialise({
+            "palette": {
+                "popup": {
+                    "background": "#bae2a0",
+                    "text": "#282828"
+                },
+                "button": {
+                    "background": "#ffffff",
+                    "text": "#282828"
+                }
+            },
+            "theme": "classic",
+            "content": {
+                "message": "Ten serwis wykorzystuje pliki cookies. Korzystanie z witryny oznacza zgodę na ich zapis lub odczyt wg ustawień przeglądarki",
+                "dismiss": "Rozumiem",
+                "link": "Więcej",
+                "href": "/polityka-prywatnosci"
+            }
+})});
+</script>
