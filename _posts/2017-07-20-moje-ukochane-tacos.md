@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Moje ukochane tacos,"
-subtitle: “czyli slow fast food.”
+subtitle: czyli slow fast food.
 date:   2017-07-20
 facebook: assets/img/tacoski/img9.png
 comments: true
