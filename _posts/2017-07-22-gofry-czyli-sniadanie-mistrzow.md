@@ -29,7 +29,6 @@ Lista zakupów:
 * 3 jajka
 * olej kokosowy 2 łyżki
 * bezglutenowy proszek do pieczenia - kopiata łyżeczka (można go pominąć, jednak dzięki niemu gofry są lżejsze i bardziej puszyste)
-
 * przygotuj też 150ml wody
 
 Wszystkie składniki miksujemy, nakładamy porcję ciasta do rozgrzanej gofrownicy i smażymy. Najlepsze są z syropem klonowym lub dżemem (pamiętajmy, by przy diecie FODMAP wybrać taki smak, jakie owoce możemy jeść, czyli np. truskawkowy, borówkowy lub malinowy i bez żadnych innych dodatków niż cukier; syrop klonowy możemy spożywać) i świeżymi owocami (maliny, truskawki, borówki).
