@@ -51,7 +51,7 @@ Opcjonalnie:
 * cebula
 * ketchup (Develey Premium nie zawiera “przypraw” w których może czaić się czosnek, glutenu, ani syropu glukozowo-fruktozowego, którego wykluczamy w diecie FODMAP)
 musztarda (Develey Dijon - bezglutenowa, bez “przypraw” j.w.)
-* majonez (tu niestety nie znalazłam żadnego, który byłby odpowiedni dla diety FODMAP, można jednak zrobić go samemu w domu)
+* majonez (niestety nie znalazłam jeszcze żadnego, który byłby odpowiedni dla diety FODMAP, można jednak zrobić go samemu w domu)
 
 Batata z łupce zawijamy w folię aluminiową i pieczemy w 220 stopniach aż będzie miękki. W tym czasie gotujemy kaszę jaglaną (zgodnie z instrukcją na opakowaniu), kroimy cebulę, zioła, prażymy sezam. Batata po lekkim wystudzeniu obieramy i przeciskamy przez praskę do ziemniaków lub blendujemy. Dodajemy pozostałe składniki. Jeśli mamy blender - blendujemy, jeśli nie, nie jest to konieczne, choć burgery będą wtedy dużo bardziej sypkie (na zdjęciach właśnie taki “niezblendowany” kotlet, gdyż nasz biedny blender poszedł do sanatorium). Formujemy kotlety i grilujemy na elektrycznym grillu (myślę, że taki na węgiel sprawdziłby się jeszcze lepiej lub pieczemy w piekarniku (tego wariantu nie próbowałam, lecz Jadłonomia poleca, by rozgrzać piekarnik do 200 stopni i piec przez ok. 20 minut, później przewrócić i piec kolejne 10 minut)
 
