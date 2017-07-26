@@ -57,7 +57,7 @@ Batata z łupce zawijamy w folię aluminiową i pieczemy w 220 stopniach aż bę
 
 ![zdjecie]({{ site.url }}/assets/img/burger/batat.png)
 
-Tu odsyłam do oryginalnego przepisu, jeśli ktoś miałby ochotę :) →  http://www.jadlonomia.com/przepisy/bezglutenowe-burgery-z-batatow/ 
+Tu odsyłam do oryginalnego przepisu, jeśli ktoś miałby ochotę :) →  [http://www.jadlonomia.com/przepisy/bezglutenowe-burgery-z-batatow/](http://www.jadlonomia.com/przepisy/bezglutenowe-burgery-z-batatow/)
 
 2. Burger z buraka i fasoli.
 Na tego kotleta natrafiłam w przywoływanej już na Blogu książce Kuchnia polska bez pszenicy. Burger jest przemyślany pod względem doprawienia, jednak trochę za suchy do bułki. Za pierwszym razem “farszu” wyszło mi tak dużo, że musieliśmy jeść kotlety dwa dni z rzędu, dzięki temu jednak spróbowaliśmy ich na dwa sposoby - w bułce i na talerzu z pieczonymi ziemniakami i sałatką. Druga propozycja podania w tym wypadku przypadła mi bardziej do gustu.
