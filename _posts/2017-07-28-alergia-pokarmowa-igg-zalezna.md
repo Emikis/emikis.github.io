@@ -3,12 +3,12 @@ layout: post
 title:  "Alergia pokarmowa IgG zależna."
 subtitle: Nietolerancja pokarmowa typu III, alergia opóźniona, alergia IgG zależna. Nazw jest wiele, a wszystkie określają najbardziej tajemniczą alergię pokarmową, na którą podobno cierpieć może nawet 50% społeczeństwa państw wysoko rozwiniętych ...
 date:   2017-07-28
-facebook: assets/img/alergia/tytul.png
+facebook: assets/img/alergia/tytul1.png
 project: true
 comments: true
 ---
 
-![zdjecie]({{ site.url }}/assets/img/alergia/tytul.png)
+![zdjecie]({{ site.url }}/assets/img/alergia/tytul1.png)
 
 Nietolerancja pokarmowa typu III, alergia opóźniona, alergia IgG zależna. Nazw jest wiele, a wszystkie określają najbardziej tajemniczą alergię pokarmową, na którą podobno cierpieć może nawet 50% społeczeństwa państw wysoko rozwiniętych. W odróżnieniu od “standardowej” alergii pokarmowej IgA zależnej, której skutki widzimy w organizmie praktycznie od razu, ta opóźniona potrafi dać o sobie znać nawet po 96 godzinach. To oznacza, że odgadnięcie co nas uczuliło jest bardzo mało prawdopodobne, a wręcz niemożliwe. Powoduje ona też zupełnie inne dolegliwości. Uczulenie na orzechy może nas zabić, natomiast alergia opóźniona na cebulę może “tylko” wywołać bóle brzucha, wysypkę, zawroty głowy, czy biegunkę. “Tylko”?! Można by raczej powiedzieć “aż. Gdy w dzieciństwie zjemy orzechy i zaczniemy się dusić, do końca życia omijamy je z daleka, a na wszelki wypadek w pobliżu trzymamy strzykawkę z adrenaliną, kilkuletnie bóle brzucha jednak nie kojarzą się początkowo z alergią, bo alergia przecież pojawia się natychmiastowo. Takie jest nasze myślenie, ale jest ono błędne. Niestety trzeba się namęczyć, aby domyślić się, że nasze objawy biorą się z jedzenia czegoś, co nam szkodzi. Bo szkodzić może nawet przebadana, ekologiczna żywność.
 
