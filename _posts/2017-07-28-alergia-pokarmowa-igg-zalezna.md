@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Alergia pokarmowa IgG zależna."
-subtitle: Czas na same fakty.
+subtitle: Nietolerancja pokarmowa typu III, alergia opóźniona, alergia IgG zależna. Nazw jest wiele, a wszystkie określają najbardziej tajemniczą alergię pokarmową, na którą podobno cierpieć może nawet 50% społeczeństwa państw wysoko rozwiniętych ...
 date:   2017-07-28
 facebook: assets/img/alergia/tytul.png
 project: true
