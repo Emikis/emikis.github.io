@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Joga"
-subtitle: Czy to dobra metoda w walce z objawami IBS?
+subtitle: Czy to dobra metoda w walce z objawami IBS? Sprawdziłam na własnej skórze.
 date:   2017-08-06
 facebook: assets/img/joga/joga.png
 project: true
