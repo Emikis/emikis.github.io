@@ -14,6 +14,7 @@ tags:
 - bezglutenowe
 - bezpszeniczne
 - bezlaktozowe
+- FODMAP
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/tacoski/img9.png)
@@ -42,7 +43,7 @@ Wszystkie składniki pakujemy do taco w dowolnych proporcjach.
 
 ![zdjecie]({{ site.url }}/assets/img/tacoski/img11.png)
 
-#### Przepis II
+#### Przepis II (nie dla diety FODMAP)
 
 Lista zakupów:
 * paczka taco

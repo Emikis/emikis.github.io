@@ -15,6 +15,7 @@ tags:
 - bezglutenowe
 - bezpszeniczne
 - bezlaktozowe
+- FODMAP
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/burger/tytul.png)
@@ -33,7 +34,7 @@ Przepis
 * tahini 45ml
 * prażony sezam 45ml 
 * prażona (lub zwykła) mąka z amarantusa 1 łyżka
-* czerwona cebula ½ małej
+* czerwona cebula ½ małej (przy FODMAP pomijamy)
 * świeża mięta 1 łyżka
 * kolendra świeża lub suszona 1 łyżka
 * ziarna kolendry ¼ łyżeczki

@@ -12,6 +12,7 @@ tags:
 - bezglutenowe
 - bezpszeniczne
 - bezlaktozowe
+- FODMAP
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/gofry/tytul.png)
