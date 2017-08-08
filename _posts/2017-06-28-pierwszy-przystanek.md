@@ -3,6 +3,7 @@ layout: post
 title:  "Pierwszy przystanek."
 subtitle: "Po drugie: lista przydatnych badań."
 date:   2017-06-28
+facebook: assets/img/dieta/Blue Wood.png
 project: true
 comments: true
 ---
