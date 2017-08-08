@@ -7,6 +7,8 @@ project: true
 comments: true
 ---
 
+![zdjecie]({{ site.url }}/assets/img/badania/Blue Wood.png)
+
 Od razu zaznaczam, że każdy lekarz może zlecić zrobienie różnych badań, według mojego gastrologa ten pakiet jest jednak pakietem koniecznym i podstawowym, ponieważ zanim zagłębimy się w diagnostykę alergii pokarmowych należy wykluczyć inne poważne schorzenia układu pokarmowego.
 
 ### Lista przydatnych badań:
