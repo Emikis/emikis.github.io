@@ -25,4 +25,4 @@ Menu:
 
 ![zdjecie]({{ site.url }}/assets/img/piekarnia/4.png)
 
-Więcej informacji ➡️ [BEZ Piekarnia Bezglutenowa Kraków] (https://www.facebook.com/BEZ-Piekarnia-Bezglutenowa-Krak%C3%B3w-321670218268430/) 🤗
+Więcej informacji ➡️ [BEZ Piekarnia Bezglutenowa Kraków](https://www.facebook.com/BEZ-Piekarnia-Bezglutenowa-Krak%C3%B3w-321670218268430/) 🤗
