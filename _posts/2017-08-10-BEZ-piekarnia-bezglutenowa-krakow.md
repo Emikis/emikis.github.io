@@ -7,11 +7,11 @@ project: true
 comments: true
 ---
 
-![zdjecie]({{ site.url }}/assets/img/piekarnia/1.png)
+![zdjecie]({{ site.url }}/assets/img/piekarnia/1.jpg)
 
 Muszę przyznać, że w żadnym miejscu poza domem nie kupuję jedzenia tak często, jak w BEZ Piekarnia Bezglutenowa Kraków. Kiedy już nie miałam nadziei na to, że kiedykolwiek zjem jeszcze pieczywo, znalazłam piekarnię idealną. I to nie tylko dla osób, które nie jedzą glutenu czy pszenicy, ale też dla tych, którzy chcą się zdrowiej zdrowiej odżywiać (wypieki nie zawierają konserwantów, barwników ani innych sztuczności). 
 
-Oprócz różnych rodzajów chleba i bułek🍞🥖, Piekarnia proponuje zależnie od dnia różne rodzaje słodkich wypieków (na zdjęciu bezglutenowy i bezlaktozowy murzynek 🥧🍫).
+Oprócz różnych rodzajów chleba i bułek🍞🥖, Piekarnia proponuje zależnie od dnia różne rodzaje słodkich wypieków (na zdjęciu bezglutenowy i bezlaktozowy murzynek).
 
 ![zdjecie]({{ site.url }}/assets/img/piekarnia/2.png)
 
@@ -23,6 +23,6 @@ Jeśli się już zdecydujecie na wypróbowanie, polecam zadzwonić i zarezerwowa
 
 Menu:
 
-![zdjecie]({{ site.url }}/assets/img/piekarnia/4.png)
+![zdjecie]({{ site.url }}/assets/img/piekarnia/4.jpg)
 
 Więcej informacji ➡️ [BEZ Piekarnia Bezglutenowa Kraków](https://www.facebook.com/BEZ-Piekarnia-Bezglutenowa-Krak%C3%B3w-321670218268430/) 🤗
