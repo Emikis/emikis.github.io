@@ -20,7 +20,7 @@ tags:
 
 Największym problemem na diecie bezpszenicznej, a wcześniej w trakcie stosowania diety FODMAP, przynajmniej dla mnie, był brak możliwości pójścia do sklepu i kupienia batonika. Tak. Zwłaszcza w trakcie nauki zawsze podjadałam słodycze. Ciasteczka z cukrem, czekoladowe czy kokosowe. Mniam. Ale to minęło bezpowrotnie. Początkowo miałam tak wielką ochotę na coś słodkiego, że satysfakcjonowały mnie wafle ryżowe sowicie polane syropem klonowym. Z czasem jednak (mniej więcej po miesiącu) mój cukrowy głód opadł i trochę się opanowałam. Co nie znaczy, że wciąż nie sprawia mi przyjemności zjedzenia pysznego ciasta, które na dodatek szybko się piecze (lub chłodzi w lodówce). Oto kilka przepisów na placki, które każdy potrafi zrobić.
 
-##**I. Mocno czekoladowe brownie:**
+**##I. Mocno czekoladowe brownie:**
 
 ![zdjecie]({{ site.url }}/assets/img/słodycze/1.png)
  
@@ -36,7 +36,7 @@ Lista zakupów:
  
 Rozgrzewamy piekarnik do 160 stopni. Czekoladę rozpuszczamy na małym ogniu razem z olejem kokosowym i studzimy (ale tak, żeby masa wciąż była płynna). Miksujemy jajka z cukrem, dodajemy czekoladową masę, mąki i szczyptę soli. Wykładamy keksówkę papierem do pieczenia, wlewamy ciasto i wkładamy do piekarnika. Pieczemy ok. 35 minut (ciasto ciągle będzie mokre, bo to murzynek, trzeba zachować umiar, na tyle, żeby się nie spalił, ale nie był surowy).
  
-##**II. Jagielnik owocowo-kokosowy:**
+**##II. Jagielnik owocowo-kokosowy:**
 
 ![zdjecie]({{ site.url }}/assets/img/słodycze/2.png)
 
@@ -54,7 +54,7 @@ Płuczemy kilkakrotnie kaszę, gotujemy ją w dwóch szklankach mleka i szklance
 ![zdjecie]({{ site.url }}/assets/img/słodycze/3.png)
 ![zdjecie]({{ site.url }}/assets/img/słodycze/4.png)
 
-##**III. Ciasto czekoladowo-bananowe:**
+**##III. Ciasto czekoladowo-bananowe:**
 
 Lista zakupów:
 
