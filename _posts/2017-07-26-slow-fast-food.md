@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Slow fast food,"
-subtitle: czyli obiad, który posmakuje każdemu.
+title:  "Burgery warzywne"
+subtitle: Slow fast food, czyli obiad, który posmakuje każdemu.
 date:   2017-07-26
 facebook: assets/img/burger/tytul.png
 comments: true
@@ -22,7 +22,7 @@ tags:
 
 Tak to jest z tym “zdrowym” fast foodem, że wcale nie jest taki “fast” jakby się można było spodziewać po nazwie. Po pierwsze w mojej kuchni nie ma miejsca na mięso, które przecież jest typowym składnikiem każdego burgera, więc szukanie zamiennika innego niż rzucające się od razu na myśl tofu może być nieco kłopotliwe. W poszukiwaniu idealnego kotleta przejrzałam mnóstwo różnych książek kucharskich i stron internetowych, ale największe uznanie zdobyły u mnie trzy zupełnie odmienne propozycje.
 
-1. Burger z batatów a’la Jadłonomia.
+##**I. Burger z batatów a’la Jadłonomia.**
 Ten burger jest niesamowity! Rozpływa się w ustach, jest idealnie zwarty i soczysty. Całkowity czas jego przygotowywania to ok. 1,5 godziny, ponieważ trzeba upiec bataty w piekarniku. 
 
 Przepis
@@ -58,9 +58,11 @@ Batata z łupce zawijamy w folię aluminiową i pieczemy w 220 stopniach aż bę
 
 ![zdjecie]({{ site.url }}/assets/img/burger/batat.png)
 
-Tu odsyłam do oryginalnego przepisu, jeśli ktoś miałby ochotę :) →  [http://www.jadlonomia.com/przepisy/bezglutenowe-burgery-z-batatow/](http://www.jadlonomia.com/przepisy/bezglutenowe-burgery-z-batatow/)
+Tu odsyłam do oryginalnego przepisu, jeśli ktoś miałby ochotę :) →  
 
-2. Burger z buraka i fasoli.
+[http://www.jadlonomia.com/przepisy/bezglutenowe-burgery-z-batatow/](http://www.jadlonomia.com/przepisy/bezglutenowe-burgery-z-batatow/)
+
+##**II. Burger z buraka i fasoli.**
 Na tego kotleta natrafiłam w przywoływanej już na Blogu książce Kuchnia polska bez pszenicy. Burger jest przemyślany pod względem doprawienia, jednak trochę za suchy do bułki. Za pierwszym razem “farszu” wyszło mi tak dużo, że musieliśmy jeść kotlety dwa dni z rzędu, dzięki temu jednak spróbowaliśmy ich na dwa sposoby - w bułce i na talerzu z pieczonymi ziemniakami i sałatką. Druga propozycja podania w tym wypadku przypadła mi bardziej do gustu.
 
 Przepis
@@ -93,7 +95,7 @@ Fasolę gotujemy ok. 2h (aż będzie miękka w środku), na koniec gotowania sol
 ![zdjecie]({{ site.url }}/assets/img/burger/burak.png)
 
 
-3. Klasyczny burger z tofu.
+##**III. Klasyczny burger z tofu.**
 Stare, dobre tofu. Tym daniem przekonałam swoją siostrę do jedzenia wegetariańskich burgerów, więc jest on dla mnie wyjątkowo ważny. Dodatkowo przepis jest w pełni autorski.
 
 Przepis
