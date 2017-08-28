@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Brownie, jagielnik... Słodycze dla alerkików."
-subtitle: Szybkie, proste ciasta, które zaspokoją ochotę na cukier.
+title:  "Brownie, jagielnik..."
+subtitle: Szybkie, proste ciasta, które zaspokoją ochotę na cukier każdego alergika.
 date:   2017-08-28
 facebook: assets/img/słodycze/tytul.png
 comments: true
