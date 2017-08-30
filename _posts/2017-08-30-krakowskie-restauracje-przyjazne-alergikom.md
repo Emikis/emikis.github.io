@@ -15,7 +15,7 @@ Poniższe krakowskie lokale znalazły się w zestawieniu ze względu na przyjazn
 
 **Oto subiektywna lista krakowskich kawiarnii i restauracji, w których jadam poza domem:**
 
-##Krowarzywa
+## Krowarzywa
 
 ![zdjecie]({{ site.url }}/assets/img/restauracje/1.png)
 
@@ -25,7 +25,7 @@ Wegańska burgerownia. Kilka “kotletów”, w tym przepyszny **burger z tofu**
 
 ![zdjecie]({{ site.url }}/assets/img/restauracje/2.png)
 
-##Calavera
+## Calavera
 
 ![zdjecie]({{ site.url }}/assets/img/restauracje/5.png)
 
@@ -33,13 +33,13 @@ O tej meksykańskiej knajpce pisałam już wcześniej w związku z festiwalem Ż
 
 [Menu](//calavera.pl/menu-calavera/)
 
-##Miyako Sushi
+## Miyako Sushi
 
 Ach sushi! Mogłabym je jeść ciągle, a ZWŁASZCZA to z Miyako. Zawsze świeża ryba i pyszne warzywa (duży plus za zawsze dojrzałe awokado). A teraz najważniejsza sprawa - każdy może dowolnie skomponować swoją rolkę (futomaki lub uramaki)! Restauracja jest oblegana, najlepiej zrobić rezerwację! 
 
 [Menu](http://miyakosushi.pl/)
 
-##Miąższ
+## Miąższ
 
 ![zdjecie]({{ site.url }}/assets/img/restauracje/3.png)
 
@@ -49,7 +49,7 @@ Bezglutenowa ciabatta do **kanapki** z pastą jajeczną! Do tego świeżo wycisk
 
 ![zdjecie]({{ site.url }}/assets/img/restauracje/4.png)
 
-##Wesoła Cafe
+## Wesoła Cafe
 
 ![zdjecie]({{ site.url }}/assets/img/restauracje/6.png)
 
@@ -57,7 +57,7 @@ Zaglądam tam po drodze do pracy. Najlepszy bezglutenowy i bezlaktozowy snickers
 
 [Menu](http://wesolacafe.pl/) 
 
-##Aqua e Vino
+## Aqua e Vino
 
 Na koniec **elegancka restauracja włoska** na specjalne okazje. W menu pieczona dorada, którą jadłam już kilkanaście razy i za każdym tak samo mi smakowała. Od czwartku do wyczerpania zapasów owoce morza i ryby spoza karty, każdy wielbiciel śródziemnomorskiej kuchni znajdzie coś dla siebie. 
 
