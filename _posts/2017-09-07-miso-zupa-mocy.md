@@ -22,7 +22,7 @@ Zupa miso jest wyjątkowa. Głównym jej składnikiem jest pasta z ziaren soi, c
 
 I jak, zachęciłam Was do zrobienia zupy miso na obiad?
 
-####Przepis:
+#### Przepis:
 
 Lista zakupów:
 
