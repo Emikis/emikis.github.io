@@ -12,6 +12,7 @@ tags:
 - gulasz
 - warzywa
 - ziemniaki
+- FODMAP
 - kuchnia polska
 - bezglutenowe
 - bezpszeniczne
