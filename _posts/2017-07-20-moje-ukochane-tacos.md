@@ -56,5 +56,5 @@ Lista zakupów:
 
 Fasolę i kukurydzę odsączamy z zalewy, pomidory kroimy w kostkę. Smażymy na małym ogniu do uzyskania zwartej, odparowanej masy. Doprawiamy papryką i kolendrą. Odrobiną majonezu i gulaszem nadziewamy taco.
 
-
-
+![zdjecie]({{ site.url }}/assets/img/tacoski/1.png)
+![zdjecie]({{ site.url }}/assets/img/tacoski/2.png)

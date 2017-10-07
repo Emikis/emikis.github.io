@@ -69,3 +69,5 @@ Lista zakupów:
 * sól ½ łyżeczki
 
 Rozgrzewamy piekarnik do 180 stopni. Banany rozgniatamy praską do ziemniaków, albo blendujemy. Mieszamy z resztą składników. Keksówkę wykładamy papierem do pieczenia i przelewamy masę, ciasto pieczemy ok. 40 minut (po 20 minutach sprawdzamy, czy nie jest już upieczone, bo to ciasto czasem lubi upiec się za szybko). 
+
+![zdjecie]({{ site.url }}/assets/img/słodycze/5.png)
