@@ -92,7 +92,7 @@ Mamy możliwość jedzenia większości ryb, a łosoś czy pstrąg jest dość p
 - solone chipsy Lays
 
 Lista do pobrania tu:
-##[Lista]({{ site.url }}/assets/documents/podreczna-lista-zakupow-dieta-FODMAP.pdf)
+## [Lista]({{ site.url }}/assets/documents/podreczna-lista-zakupow-dieta-FODMAP.pdf)
 
 
 Sama niedawno zmuszona byłam wrócić na tydzień do diety FODMAP i muszę przyznać, że za drugim razem idealnie zadziałała ona jako dieta oczyszczająca (ból brzucha przeszedł po trzech dniach od wyeliminowania ciężkostrawnych elementów - roślin strączkowych, cebuli, słodzików).
