@@ -13,7 +13,7 @@ Jak już wspominałam w [poście](http://pokarmlove.com.pl/FODMAP/) o diecie FOD
 Wiedząc, że jest to takie ciężkie przeżycie, w oparciu o moje zapiski jedzeniowe z pierwszego miesiąca stosowania FODMAPu, opracowałam listę zakupów, dla nawet najwybredniejszego pacjenta. Skąd to wiem? Sama ją stosowałam i choć często do oczu cisnęły mi się łzy, gdy po raz kolejny w przerwie na uczelni musiałam jeść wafle ryżowe, na nic bardziej pomysłowego do dziś nie wpadłam. 
 Lista podzielona jest pod względem posiłków, niestety ilości kupowanych produktów każdy musi dostosować do swoich potrzeb. Można też traktować ją, jako jadłospis:)
 
-##I. ŚNIADANIE:
+## I. ŚNIADANIE:
 - płatki ryżowe
 - mleko migdałowe/kokosowe
 - płatki kukurydziane (czekoladowe z Nestle są bezglutenowe i bezpieczne, niestety te z miodem i orzechami są zakazane!)
@@ -28,23 +28,23 @@ Lista podzielona jest pod względem posiłków, niestety ilości kupowanych prod
 - musztarda (Develey - Dijon bez “przypraw”, w dodatku bezglutenowa!)
 - olej kokosowy
 
-###1. PŁATKI RYŻOWE NA MLEKU 
+### 1. PŁATKI RYŻOWE NA MLEKU 
 Z płatków ryżowych i mleka roślinnego (tylko nie sojowego, bo jest zakazane, natomiast zdaniem moim i wszystkich moich najbliższych jedyne znośne roślinne mleko to mleko migdałowe, dlatego innego nigdy nie kupuję); do smaku dodajemy do niej odrobinę konfitury z truskawek, malin lub borówek, która w swoim składzie oprócz tego zawiera tylko cukier.
 
-###2. KANAPKI
+### 2. KANAPKI
 Tak, stare, dobre kanapki, tylko pieczywo ograniczamy do chleba chrupkiego z ryżu lub kukurydzy, chyba że jak ja macie szczęście mieszkać w pobliżu bezglutenowej piekarni (BEZ piekarnia bezglutenowa Kraków 
 
-###3. JAJECZNICA/OMLET
+### 3. JAJECZNICA/OMLET
 Tu prawie nic się nie zmienia, z wyjątkiem tego, że nie smażymy na maśle, jeśli nam szkodzi, a na oleju kokosowym.
 
-##II. PRZEKĄSKA
+## II. PRZEKĄSKA
 - wafle ryżowe
 - murzynek bezglutenowy
 
 Murzynek bezglutenowy i bez nabiału dostępny jest w BEZ piekarni bezglutenowej, jak również można znaleźć w sklepie gotową mieszankę do jego upieczenia - ja znalazłam ją w MACRO (Uwaga, należy zwracać szczególną uwagę na skład gotowych mieszanek!)
 Murzynka można również samodzielnie upiec od podstaw - przepis tu → [http://pokarmlove.com.pl/slodkosci-dla-alergikow-brownie-jagielnik/](http://pokarmlove.com.pl/slodkosci-dla-alergikow-brownie-jagielnik/)
 
-##III. OBIAD/KOLACJA
+## III. OBIAD/KOLACJA
 - kilka puszek pomidorów
 - marchewki
 - pietruszki
@@ -69,23 +69,23 @@ Murzynka można również samodzielnie upiec od podstaw - przepis tu → [http:/
 
 Tu dochodzimy do prawdziwego problemu. Sama dieta FODMAP to nic, ale gdy nie je się mięsa, sprawa staje się nie do zniesienia. Ale mój przykład pokazuje, że się da, więc zabieramy się do roboty.
 
-###1. ZUPA KREM Z POMIDORÓW
+### 1. ZUPA KREM Z POMIDORÓW
 Zupa krem z pomidorów i marchewki nie schodziła z mojego jadłospisu przez kilka tygodni, dopóki już nie mogłam się na nią patrzeć. Jest prosta do zrobienia, szybka do odgrzania i nawet nieźle można się nią najeść. Gotujemy wywar (bez pora!), podsmażamy pomidory, dodajemy wywar, marchewkę z wywaru i miksujemy. Doprawiamy czymś, co nam smakuje, bo sama zupa jest dość mdła.
 
-###2. RYBY
+### 2. RYBY
 Mamy możliwość jedzenia większości ryb, a łosoś czy pstrąg jest dość powszechnie dostępny (tylko co do świeżości - naprawdę trzeba uważać!) Możemy podać je z ziemniakami lub frytkami (uważając przy tym na ich skład).
 
-###3. TACOS → [http://pokarmlove.com.pl/moje-ukochane-tacos/](http://pokarmlove.com.pl/moje-ukochane-tacos/)
+### 3. TACOS → [http://pokarmlove.com.pl/moje-ukochane-tacos/](http://pokarmlove.com.pl/moje-ukochane-tacos/)
 
-###4. MAKARON Z CUKINIĄ → [http://pokarmlove.com.pl/lunche-do-pracy/](http://pokarmlove.com.pl/lunche-do-pracy/)
+### 4. MAKARON Z CUKINIĄ → [http://pokarmlove.com.pl/lunche-do-pracy/](http://pokarmlove.com.pl/lunche-do-pracy/)
 
-###5. CHIŃSKI LUNCH → [http://pokarmlove.com.pl/lunche-do-pracy/](http://pokarmlove.com.pl/lunche-do-pracy/)
+### 5. CHIŃSKI LUNCH → [http://pokarmlove.com.pl/lunche-do-pracy/](http://pokarmlove.com.pl/lunche-do-pracy/)
 
-###6. PIECZONE PLACKI ZIEMNIACZANE → [http://pokarmlove.com.pl/placki-ziemniaczane-z-ratatouille/](http://pokarmlove.com.pl/placki-ziemniaczane-z-ratatouille/)
+### 6. PIECZONE PLACKI ZIEMNIACZANE → [http://pokarmlove.com.pl/placki-ziemniaczane-z-ratatouille/](http://pokarmlove.com.pl/placki-ziemniaczane-z-ratatouille/)
 
-###7. ZAPIEKANKA ZIEMNIACZANA → [http://pokarmlove.com.pl/zapiekanka-ziemniaczana-Ani/](http://pokarmlove.com.pl/zapiekanka-ziemniaczana-Ani/)
+### 7. ZAPIEKANKA ZIEMNIACZANA → [http://pokarmlove.com.pl/zapiekanka-ziemniaczana-Ani/](http://pokarmlove.com.pl/zapiekanka-ziemniaczana-Ani/)
 
-##IV. WIECZORNE PRZEKĄSKI
+## IV. WIECZORNE PRZEKĄSKI
 - popcorn/prażona kukurydza
 - nachos (solone z Carrefoura bez oleju palmowego!)
 - frytki
