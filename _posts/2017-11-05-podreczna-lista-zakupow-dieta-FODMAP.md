@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dieta FODMAP - podręczna lista zakupów."
-subtitle: Co jeść w trakcie stosowania diety i nie umrzeć z nudów.
+subtitle: Co jeść w trakcie stosowania diety, żeby nie umrzeć z nudów.
 date:   2017-11-05
 facebook: assets/img/dieta/tytul.png
 project: true
