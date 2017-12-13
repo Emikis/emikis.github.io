@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title:  "Wegański sos seczuański"
 subtitle: Pikantny, sycący chiński "gulasz" idealny na zimowe wieczory.
