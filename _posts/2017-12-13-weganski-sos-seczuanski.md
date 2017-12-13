@@ -21,15 +21,7 @@ tags:
 
 ![zdjecie]({{ site.url }}/assets/img/seczuanski/tytul.png)
 
-Zawsze, kiedy na straganach jesienią zaczynają pojawiać się dynie 
-kombinuję co by tu z nich dobrego przyrządzić. Co roku kończy się to 
-rozczarowaniem kulinarnym. Czegokolwiek bym z dyni nie zrobiła, jest to mdłe, 
-bez smaku, za słodkie, albo po prostu niesmaczne. 
-Dlatego właśnie byłam wyjątkowo zaskoczona, kiedy w tym roku wreszcie wymyśliłam
-danie z dyni, które posmakowało nie tylko mi, ale też mojemy narzeczonemu, który
-co roku zawsze reagował śmiechem, kiedy przynosiłam do domu kolejną dynię :)
-Mam nadzieję, że i Wam posmakuje!
-Łapcie przepis na curry z dyni!!
+Kiedyś jadłam sos seczuański w Restauracji Pod Norenami, jednak w składzie dania był czosnek, więc spóbowałam oddtworzyć je w domu. Wyszło całkiem nieźle! Łapcie przepis :)
 
 ### Przepis na ok. 5 porcji
 
@@ -52,6 +44,7 @@ Mam nadzieję, że i Wam posmakuje!
 * przecier pomidorowy (4 łyżeczki)
 * ketchup (2 łyżki)
 * pietruszka zielona
+* ok. 100g fistaszków w łupkach
 * ryż lub makaron gryczany
 
 Warzywa obieramy (oprócz papryki). Kroimy na dość duże kawałki.
@@ -66,7 +59,7 @@ Na rozgrzanym oleju/oliwie na drugiej pateni smażymy cebulę (ok. 2 minut), nas
 
 Następnie dodajemy na patelnię przyprawy (sól, pieprz, imbir, słodką paprykę). W miseczce łączymy ketchup, przecier, chilli (chyba że używamy świeżej papryczki, wtedy smażymy ją razem z pozostałymi warzywami na patelni) i sos sojowy. Nastawiamy wodę na makaron/ryż (dodatki gotujemy zgodnie z instrukcją na opakowaniu). W szklance mieszamy 2 łyżki mąki kukurydzianej z wodą (ok. 1/2 szklanki), najlepiej blendujemy, żeby nie zrobiły się grudki. Na patelnię dodajemy przygotowany w miseczce sos, a następnie powoli (mieszając) mąkę. Najprawdopodobniej sos będzie później trzeba jeszcze trochę rozwodnić. 
 Sos jest gotowy, gdy jesteśmy zadowoleni z jego konsystencji:)
-Na koniec siekamy pietruszkę i posypujemy danie.
+Na koniec obieramy orzeszki, siekamy pietruszkę i posypujemy nimi danie.
 
 ![zdjecie]({{ site.url }}/assets/img/seczuanski/3.png)
 ![zdjecie]({{ site.url }}/assets/img/seczuanski/4.png)
