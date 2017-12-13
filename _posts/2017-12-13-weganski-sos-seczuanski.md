@@ -21,7 +21,7 @@ tags:
 
 ![zdjecie]({{ site.url }}/assets/img/seczuanski/tytul.png)
 
-Kiedyś jadłam sos seczuański w Restauracji Pod Norenami, o której pisałam [tu](http://pokarmlove.com.pl/pod-norenami-romantyczna-kolacja-w-krakowie/) jednak w składzie dania był czosnek, więc nie mogę już sobie na nie pozwolić. Spóbowałam jednak oddtworzyć je w domu i wyszło całkiem nieźle! Łapcie przepis :)
+Kiedyś jadłam sos seczuański w Restauracji Pod Norenami, o której pisałam [tu](http://pokarmlove.com.pl/pod-norenami-romantyczna-kolacja-w-krakowie/), jednak w składzie dania był czosnek, więc nie mogę już sobie na nie pozwolić. Spóbowałam jednak oddtworzyć je w domu i wyszło całkiem nieźle! Łapcie przepis :)
 
 ### Przepis na ok. 5 porcji
 
