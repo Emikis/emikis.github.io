@@ -21,7 +21,7 @@ tags:
 
 ![zdjecie]({{ site.url }}/assets/img/seczuanski/tytul.png)
 
-Kiedyś jadłam sos seczuański w Restauracji Pod Norenami, o której pisałam [tu](http://pokarmlove.com.pl/pod-norenami-romantyczna-kolacja-w-krakowie/), jednak w składzie dania był czosnek, więc nie mogę już sobie na nie pozwolić. Spóbowałam jednak oddtworzyć je w domu i wyszło całkiem nieźle! Łapcie przepis :)
+Kiedyś jadłam sos seczuański w Restauracji Pod Norenami, o której pisałam [tu](http://pokarmlove.com.pl/pod-norenami-romantyczna-kolacja-w-krakowie/), jednak w składzie dania był czosnek, co obecnie dyskwalifikuje je dla mnie z menu. Spóbowałam jednak odtworzyć je w domu i wyszło całkiem nieźle! Łapcie przepis :)
 
 ### Przepis na ok. 5 porcji
 
@@ -57,14 +57,16 @@ Na rozgrzanym oleju/oliwie na drugiej pateni smażymy cebulę (ok. 2 minut), nas
 
 ![zdjecie]({{ site.url }}/assets/img/seczuanski/2.png)
 
-Następnie dodajemy na patelnię przyprawy (sól, pieprz, imbir, słodką paprykę). W miseczce łączymy ketchup, przecier, chilli (chyba że używamy świeżej papryczki, wtedy smażymy ją razem z pozostałymi warzywami na patelni) i sos sojowy. Nastawiamy wodę na makaron/ryż (dodatki gotujemy zgodnie z instrukcją na opakowaniu). W szklance mieszamy 2 łyżki mąki kukurydzianej z wodą (ok. 1/2 szklanki), najlepiej blendujemy, żeby nie zrobiły się grudki. Na patelnię dodajemy przygotowany w miseczce sos, a następnie powoli (mieszając) mąkę. Najprawdopodobniej sos będzie później trzeba jeszcze trochę rozwodnić. 
+Następnie dodajemy na patelnię przyprawy (sól, pieprz, imbir, słodką paprykę). W miseczce łączymy ketchup, przecier, chilli (chyba że używamy świeżej papryczki, wtedy smażymy ją razem z pozostałymi warzywami na patelni) i sos sojowy. Nastawiamy wodę na makaron/ryż (dodatki gotujemy zgodnie z instrukcją na opakowaniu). W szklance mieszamy 2 łyżki mąki kukurydzianej z wodą (ok. 1/2 szklanki), najlepiej blendujemy, żeby nie zrobiły się grudki. Na patelnię dodajemy przygotowany w miseczce sos, a następnie powoli (mieszając) mąkę. Teraz wsypujemy usmażone wcześniej tofu. 
+
+Najprawdopodobniej sos będzie później trzeba jeszcze trochę rozwodnić. 
 Sos jest gotowy, gdy jesteśmy zadowoleni z jego konsystencji:)
 Na koniec obieramy orzeszki, siekamy pietruszkę i posypujemy nimi danie.
 
 ![zdjecie]({{ site.url }}/assets/img/seczuanski/3.png)
 ![zdjecie]({{ site.url }}/assets/img/seczuanski/4.png)
 
-PS. Za pierwszym razem, gdy robiłam to danie zdecydowanie przesadziłam z ilością ostrej papryki, także radzę na nią uważać! Przygotowanie sosu jest dość czasochłonne, jednak smakuje on zdecydowanie lepiej niż "gotowce" ze słoików, a przede wszystkim mamy pewność, że wszystkie produkty, jakie dodaliśmy na patelnię nam nie zaszkodzą!
+PS. Za pierwszym razem, gdy robiłam sos seczuański w domu zdecydowanie przesadziłam z ilością ostrej papryki, także radzę na nią uważać! Przygotowanie dania jest dość czasochłonne, jednak smakuje on zdecydowanie lepiej niż "gotowce" ze słoików, a przede wszystkim mamy pewność, że wszystkie produkty, jakie dodaliśmy na patelnię nam nie zaszkodzą!
 
 Bon appetit!
 
