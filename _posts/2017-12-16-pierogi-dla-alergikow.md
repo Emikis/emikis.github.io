@@ -32,7 +32,6 @@ Pierwszy - pierogi z mąki orkiszkowej - to prawdziwy strzał w dziesiątkę dla
 * mąka orkiszowa 100% typ 450 - 500g
 * jajko
 * olej (4 łyżki + do polania pierogów po gotowaniu)
-
 * dodatkowo przygotowujemy ok. 1 szklankę ciepłej, przegotowanej wody i mąkę do wałkowania 
 
 ## Przepis na farsz
@@ -48,11 +47,12 @@ Na stolnicy lub umytym blacie usypujemy górkę z mąki, robimy w niej dziurkę 
 Następnie wałkujemy je na dość cienkie płaty, pozostałe ciasto trzymając zawinięte w ściereczkę, żeby nie wyschło. Wykrawamy szklanką i sklejamy z farszem. Gotujemy w osolonej wodzie aż wszystkie pierogi wypłyną na wierzch i polewamy malutką ilością oleju, żeby się nie posklejały
 
 ![zdjecie]({{ site.url }}/assets/img/pierogi/3.png)
+
 ![zdjecie]({{ site.url }}/assets/img/pierogi/gif.gif)
 
-PS: Jeśli mamy zamiar je mrozić, po gotowaniu przelewamy je zimną wodą i wtedy polewamy większą ilością oleju.
+**PS:** Jeśli mamy zamiar je mrozić, po gotowaniu przelewamy je zimną wodą i wtedy polewamy większą ilością oleju.
 
-Drugi przepis - z mąki gryczanej - wypróbowałam już dawno temu, nie byłam jednak z niego do końca zadowolona. Z przepisu na 40 pierogów wyszło mi jedynie 20 - reszta rozkleiła się albo jeszcze w trakcie lepienia, albo w garnku. Dodatkowo pierogi nie były zbyt smayczne - mąka gryczana jest dużo bardziej gorzka od tradycyjnej pszennej, dlatego wyszły one dość cięćkie.
+Drugi przepis - **z mąki gryczanej** - wypróbowałam już dawno temu, nie byłam jednak z niego do końca zadowolona. Z przepisu na 40 pierogów wyszło mi jedynie 20 - reszta rozkleiła się albo jeszcze w trakcie lepienia, albo w garnku. Dodatkowo pierogi nie były zbyt smayczne - mąka gryczana jest dużo bardziej gorzka od tradycyjnej pszennej, dlatego wyszły one dość cięćkie.
 Kilka tygodni temu z zaprzyjaźnioną Panią, która z pewnością pierogi lepić umie (czego o sobie bym do dzisiaj nie powiedziała), podjęłyśmy kolejną próbę zrobienia pierogów gryczanych, jednak tym razem już samo ciasto nie chciało się rozwałkować (kruszyło się), więc szybko dałyśmy sobie z nim spokój.
 
 ## Przepis (ok. 25 pierogów jeśli umiemy je lepić tak, aby się nie rozpadały)
