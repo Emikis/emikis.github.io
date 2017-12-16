@@ -52,7 +52,7 @@ Następnie wałkujemy je na dość cienkie płaty, pozostałe ciasto trzymając 
 
 **PS:** Jeśli mamy zamiar je mrozić, po gotowaniu przelewamy je zimną wodą i wtedy polewamy większą ilością oleju.
 
-Drugi przepis - **z mąki gryczanej** - wypróbowałam już dawno temu, nie byłam jednak z niego do końca zadowolona. Z przepisu na 40 pierogów wyszło mi jedynie 20 - reszta rozkleiła się albo jeszcze w trakcie lepienia, albo w garnku. Dodatkowo pierogi nie były zbyt smayczne - mąka gryczana jest dużo bardziej gorzka od tradycyjnej pszennej, dlatego wyszły one dość cięćkie.
+Drugi przepis - **z mąki gryczanej** - wypróbowałam już dawno temu, nie byłam jednak z niego do końca zadowolona. Z przepisu na 40 pierogów wyszło mi jedynie 20 - reszta rozkleiła się albo jeszcze w trakcie lepienia, albo w garnku. Dodatkowo pierogi nie były zbyt smaczne - mąka gryczana jest dużo bardziej gorzka od tradycyjnej pszennej, dlatego wyszły one dość ciężkie.
 Kilka tygodni temu z zaprzyjaźnioną Panią, która z pewnością pierogi lepić umie (czego o sobie bym do dzisiaj nie powiedziała), podjęłyśmy kolejną próbę zrobienia pierogów gryczanych, jednak tym razem już samo ciasto nie chciało się rozwałkować (kruszyło się), więc szybko dałyśmy sobie z nim spokój.
 
 ## Przepis (ok. 25 pierogów jeśli umiemy je lepić tak, aby się nie rozpadały)
