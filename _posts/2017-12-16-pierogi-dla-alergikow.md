@@ -2,7 +2,7 @@
 layout: post
 title:  "Bezpszeniczne pierogi - zmora alergików."
 subtitle: Nie wyobrażacie sobie wigilii bez pierogów? Ja też nie, dlatego postanowiłam poeksperymentować...
-date:   2017-12-17
+date:   2017-12-16
 facebook: assets/img/pierogi/tytul.png
 comments: true
 tags:
