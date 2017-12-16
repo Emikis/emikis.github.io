@@ -12,7 +12,7 @@ tags:
 - wigilia
 - kasza gryczana
 - bezpszeniczne
-- bezlaktozowe
+- bezlaktozowe 
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/pierogi/tytul.png)
