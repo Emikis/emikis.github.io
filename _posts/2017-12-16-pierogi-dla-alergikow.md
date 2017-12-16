@@ -38,7 +38,7 @@ Ziemniaki obieramy i gotujemy do miękkości. Studzimy i ubijamy. W tym czasie p
 
 ## Przepis na ciasto
 
-Na stolnicy lub umytym blacie usypujemy górkę z mąki, robimy w niej dziurkę i wbijamy w nią jajko. Dodajemy sól i wyrabiamy dodając po trochę wody (ciasto musi być sprężyste - nie kleić się, ale też nie być za twarde).
+Na stolnicy lub umytym blacie usypujemy górkę z mąki, robimy w niej dziurkę i wbijamy w nią jajko. Dodajemy sól, olej i wyrabiamy dodając po trochę wody (ciasto musi być sprężyste - nie kleić się, ale też nie być za twarde).
 
 ![zdjecie]({{ site.url }}/assets/img/pierogi/1.png)
 
