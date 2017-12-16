@@ -17,9 +17,7 @@ tags:
 
 ![zdjecie]({{ site.url }}/assets/img/pierogi/tytul.png)
 
-Ponieważ dużymi krokami zbliża się wigilia, mam dla Was dzisiaj dwa przepisy na pierogi dla alergików. 
-
-![zdjecie]({{ site.url }}/assets/img/pierogi/2.png)
+## Ponieważ dużymi krokami zbliża się wigilia, mam dla Was dzisiaj dwa przepisy na pierogi dla alergików. 
 
 Pierwszy - pierogi z mąki orkiszkowej - to prawdziwy strzał w dziesiątkę dla osób, które (tak jak ja) mają alergię na mąkę pszenną a nie na gluten (niestety mąka orkiszowa go zawiera, dzięki czemu jednak bardzo prosto zlepić z niej pierogi). Przepis jest bardzo klasyczny zarówno jeśli chodzi o ciasto, jak i o farsz. 
 
@@ -46,6 +44,8 @@ Na stolnicy lub umytym blacie usypujemy górkę z mąki, robimy w niej dziurkę 
 
 Następnie wałkujemy je na dość cienkie płaty, pozostałe ciasto trzymając zawinięte w ściereczkę, żeby nie wyschło. Wykrawamy szklanką i sklejamy z farszem. Gotujemy w osolonej wodzie aż wszystkie pierogi wypłyną na wierzch i polewamy malutką ilością oleju, żeby się nie posklejały
 
+![zdjecie]({{ site.url }}/assets/img/pierogi/2.png)
+
 ![zdjecie]({{ site.url }}/assets/img/pierogi/3.png)
 
 ![zdjecie]({{ site.url }}/assets/img/pierogi/gif.gif)
@@ -58,21 +58,23 @@ Kilka tygodni temu z zaprzyjaźnioną Panią, która z pewnością pierogi lepi�
 ## Przepis (ok. 25 pierogów jeśli umiemy je lepić tak, aby się nie rozpadały)
 
 ## Lista zakupów:
-250g mąki gryczanej
-100g mąki ziemniaczanej
-100g kaszy gryczanej prażonej
-50g wegańskiej mozzarelli [Serotoniny](https://www.facebook.com/serotoninacheeze/) (myślę, że z fetą farsz byłby smaczniejszy, więc jeśli nie jesteś weganinem, nie cierpisz na nietolerancję laktozy lub alergię na mleko warto wypróbować)
-pół pęczka zielonej cebulki
-łyżka świeżej mięty
-pieprz
-sól
-przygotowujemy 250ml wrzątku
+* 250g mąki gryczanej
+* 100g mąki ziemniaczanej
+* 100g kaszy gryczanej prażonej
+* 50g wegańskiej mozzarelli [Serotoniny](https://www.facebook.com/serotoninacheeze/) (myślę, że z fetą farsz byłby smaczniejszy, więc jeśli nie jesteś weganinem, nie cierpisz na nietolerancję laktozy lub alergię na mleko warto wypróbować)
+* pół pęczka zielonej cebulki
+* łyżka świeżej mięty
+* pieprz
+* sól
+* przygotowujemy 250ml wrzątku
 
 ![zdjecie]({{ site.url }}/assets/img/pierogi/img.png)
 
 Gotujemy kaszę gryczaną zgodnie z instrukcją na opakowaniu. Mieszamy z serem, posiekanymi ziołami, solą i pieprzem.
 Wyrabiamy ciasto. Na blat wysypujemy zmieszane mąki, robimy dziurkę i wlewamy po trochę wrzątku. Masę mieszamy widelcem, a gdy cała woda wsiąknie zaczynamy wyrabiać rękami. Nie należy podsypywać mąką, ani dodawać jej więcej niż wskazane jest w przepisie, bo ciasto będzie się jeszcze bardziej rozklejać. Ciasto rozwałkowujemy (między dwoma arkuszami papieru do pieczenia, bo wtedy nie będzie się tak kleić) i wykrawamy kółka. Nakładamy farsz (na tyle mało, aby pierogi się nie rozdzierały) i sklejamy, najlepiej dociskając brzegi widelcem. Jak najszybciej gotujemy w osolonej wodzie, aż będą miękkie.
 Można podawać z roztopionym masłem.
+
+![zdjecie]({{ site.url }}/assets/img/pierogi/4.png)
 
 Przepis ten podaję Wam tylko ze względu na to, że z bezglutenowych mąk ten jest najbardziej popularny. Mam jednak wrażenie, że ludzie podają go na swoich stronach albo w książkach kucharskich bez wcześniejszego wypróbowania, ponieważ lepienie tych pierogów jest koszmarem.
 
