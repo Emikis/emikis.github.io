@@ -90,7 +90,7 @@ Winogrona kroimy na połówki. Ciecierzycę smażymy na oliwie, doprawiamy solą
 
 ## Przepis (na małą podłużną blaszkę) --> by WEGAN NERD (https://wegannerd.blogspot.com/)
 
-Fasolę i kaszę jaglaną przygotowujemy zgodnie z instrukcją na opakowaniu (PAMIĘTAJCIE O NAMACZANIU FASOLI!). Cebulę siekamy i smażymy z dodatkiem wszystkich przypraw (na koniec usuwamy liście i jagody jałowca). Gruszkę obieramy, wycinamy gniazda nasienne i kroimy na kawałeczki. Blendujemy wszystkie składniki (nie musi być dokładnie gładka masa). Jeśli masa jest zbyt sucha dodajemy trochę oleju. Wlewamy ją do wyłożonej papierem keksówki lub aluminiowej formy. Posypujemy bułką tartą i układamy na wierzchu suszone śliwki. Pieczemy ok. 40 minut w temperaturze 180 stopni - pasztet na ciepło będzie ciągle miękki, trzeba go dopiero schłodzić, żeby uzyskał bardziej stałą konsystencję/
+Fasolę i kaszę jaglaną przygotowujemy zgodnie z instrukcją na opakowaniu (PAMIĘTAJCIE O NAMACZANIU FASOLI!). Cebulę siekamy i smażymy z dodatkiem wszystkich przypraw (na koniec usuwamy liście i jagody jałowca). Gruszkę obieramy, wycinamy gniazda nasienne i kroimy na kawałeczki. Blendujemy wszystkie składniki (nie musi być dokładnie gładka masa). Jeśli masa jest zbyt sucha dodajemy trochę oleju. Wlewamy ją do wyłożonej papierem keksówki lub aluminiowej formy. Posypujemy bułką tartą i układamy na wierzchu suszone śliwki. Pieczemy ok. 40 minut w temperaturze 180 stopni - pasztet na ciepło będzie ciągle miękki, trzeba go dopiero schłodzić, żeby uzyskał bardziej stałą konsystencję.
 
 ![zdjecie]({{ site.url }}/assets/img/christmas/pasztet.png)
 
