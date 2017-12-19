@@ -19,7 +19,7 @@ tags:
 
 ## Ponieważ dużymi krokami zbliża się wigilia, mam dla Was dzisiaj dwa przepisy na pierogi dla alergików. 
 
-Pierwszy - pierogi z mąki orkiszkowej - to prawdziwy strzał w dziesiątkę dla osób, które (tak jak ja) mają alergię na mąkę pszenną a nie na gluten (niestety mąka orkiszowa go zawiera, dzięki czemu jednak bardzo prosto zlepić z niej pierogi). Przepis jest bardzo klasyczny zarówno jeśli chodzi o ciasto, jak i o farsz. 
+Pierwszy - **pierogi z mąki orkiszkowej** - to prawdziwy strzał w dziesiątkę dla osób, które (tak jak ja) mają alergię na mąkę pszenną a nie na gluten (niestety mąka orkiszowa go zawiera, dzięki czemu jednak bardzo prosto zlepić z niej pierogi). Przepis jest bardzo klasyczny zarówno jeśli chodzi o ciasto, jak i o farsz. 
 
 ## Lista zakupów (na ok. 60 pierogów):
 * ziemniaki 1kg
