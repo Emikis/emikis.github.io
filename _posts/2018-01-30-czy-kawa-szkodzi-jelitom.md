@@ -2,7 +2,7 @@
 layout: post
 title:  "Jak jest z tą kawą?"
 subtitle: Czy faktycznie źle wpływa na jelita?
-date:   2017-01-30
+date:   2018-01-30
 facebook: assets/img/kawa/kawa.jpg
 project: true
 comments: true
