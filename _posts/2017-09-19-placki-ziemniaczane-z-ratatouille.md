@@ -25,7 +25,7 @@ Niestety nie mogłam zjeść ich ze śmietaną, tak jak najbardziej lubię, a mi
 
 PS. Gulasz można oczywiście jeść z innym dodatkiem jak np. makaron, ale lojalnie mogę powiedzieć, że nic nie przebije placków :)
 
-#### Lista zakupów:
+## Lista zakupów:
 
 * ziemniaki 1kg
 * 1 jajko
@@ -43,7 +43,7 @@ PS. Gulasz można oczywiście jeść z innym dodatkiem jak np. makaron, ale loja
 * tymianek
 * rozmaryn
 
-#### Przepis:
+## Przepis:
 
 **Placki:** 
 

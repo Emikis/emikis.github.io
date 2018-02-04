@@ -23,9 +23,7 @@ tags:
 
 Kiedyś jadłam sos seczuański w Restauracji Pod Norenami, o której pisałam [tu](http://pokarmlove.com.pl/pod-norenami-romantyczna-kolacja-w-krakowie/), jednak w składzie dania był czosnek, co obecnie dyskwalifikuje je dla mnie z menu. Spóbowałam jednak odtworzyć je w domu i wyszło całkiem nieźle! Łapcie przepis :)
 
-### Przepis na ok. 5 porcji
-
-#### Lista zakupów:
+## Lista zakupów (na ok. 5 porcji)
 
 * papryki: żółta, czerwona i zielona 
 * marchewka
@@ -46,6 +44,8 @@ Kiedyś jadłam sos seczuański w Restauracji Pod Norenami, o której pisałam [
 * pietruszka zielona
 * ok. 100g fistaszków w łupkach
 * ryż lub makaron gryczany
+
+## Przepis:
 
 Warzywa obieramy (oprócz papryki). Kroimy na dość duże kawałki.
 

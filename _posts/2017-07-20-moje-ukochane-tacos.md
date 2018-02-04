@@ -21,9 +21,9 @@ tags:
 
 Taco są po prostu pyszne i kropka. A do tego szybkie, łatwe i nie chcą się znudzić. Można je jeść z nieskończoną ilością różnych dodatków od ryb, przez mięso, po tofu. Dzielę się z Wami dwoma moimi ulubionymi połączeniami - tofu ze świeżymi warzywami i meksykańska fasolka. Składników wystarcza na ok. 6 taco.
 
-#### Przepis I
+## Przepis I
 
-Lista zakupów
+## Lista zakupów
 * paczka taco (opcjonalnie te same składniki można zawinąć w kukurydzianą tortillę)
 * pomidor
 * ogórek
@@ -43,9 +43,9 @@ Wszystkie składniki pakujemy do taco w dowolnych proporcjach.
 
 ![zdjecie]({{ site.url }}/assets/img/tacoski/img11.png)
 
-#### Przepis II (nie dla diety FODMAP)
+## Przepis II (nie dla diety FODMAP)
 
-Lista zakupów:
+## Lista zakupów:
 * paczka taco
 * puszka czerwonej fasoli
 * puszka kukurydzy

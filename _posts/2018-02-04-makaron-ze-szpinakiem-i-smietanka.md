@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Szpinak w roli głownej,"
-subtitle: Czyli błyskawiczny kukurydziany makaron ze śmietanką, szpinakiem i suszonymi pomidorami...
+subtitle: czyli błyskawiczny kukurydziany makaron ze śmietanką, szpinakiem i suszonymi pomidorami...
 date:   2018-02-04
 facebook: assets/img/makaron/tytul.png
 comments: true
@@ -13,6 +13,7 @@ tags:
 - śmietanka
 - suszone pomidory
 - bezpszeniczne
+- bezglutenowe
 - bezlaktozowe 
 ---
 

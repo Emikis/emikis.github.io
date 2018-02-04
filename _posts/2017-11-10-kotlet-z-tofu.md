@@ -25,9 +25,7 @@ tags:
 Ręka w górę, kto lubi proste dania, nad którymi nie trzeba siedzieć pół dnia! A gdy do tego są kolorowe i pyszne, nie może istnieć nic lepszego!
 Podzielę się z Wami przepisem na nieco unowocześnioną wersję polskiego, typowego kotleta.
 
-### Przepis
-
-#### Lista zakupów:
+## Lista zakupów:
 
 * tofu
 * ketchup
@@ -53,6 +51,8 @@ Podzielę się z Wami przepisem na nieco unowocześnioną wersję polskiego, typ
 
 Dzień wcześniej marynujemy pokrojone w "kotlety" tofu. Marynatę przygotowujemy z ketchupu, cząbru, ostrej i słodkiej papryki oraz ok. 2 łyżeczek sosu sojowego.
 Tofu zamykamy w pojemniku i wkładamy do lodówki.
+
+## Przepis:
 
 #### Ziemniaki:
 

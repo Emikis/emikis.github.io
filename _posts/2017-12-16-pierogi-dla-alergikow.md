@@ -19,9 +19,11 @@ tags:
 
 ## Ponieważ dużymi krokami zbliża się wigilia, mam dla Was dzisiaj dwa przepisy na pierogi dla alergików. 
 
-Pierwszy - **pierogi z mąki orkiszkowej** - to prawdziwy strzał w dziesiątkę dla osób, które (tak jak ja) mają alergię na mąkę pszenną a nie na gluten (niestety mąka orkiszowa go zawiera, dzięki czemu jednak bardzo prosto zlepić z niej pierogi). Przepis jest bardzo klasyczny zarówno jeśli chodzi o ciasto, jak i o farsz. 
+Pierwszy - **pierogi z mąki orkiszkowej** - to prawdziwy strzał w dziesiątkę dla osób, które (tak jak ja) mają alergię na mąkę pszenną a nie na gluten (niestety mąka orkiszowa go zawiera, dzięki czemu jednak bardzo prosto zlepić z niej pierogi). Przepis jest bardzo klasyczny zarówno jeśli chodzi o ciasto, jak i o farsz. Drugi - **pierogi z mąki gryczanej** - proponuję tylko ludziom o mocnych nerwach, którzy nie wpadają w histerię, gdy coś w kuchni im nie wyjdzie (czyli nie dla mnie :D).
 
-## Lista zakupów (na ok. 60 pierogów):
+## Przepis nr 1 (ok. na ok. 60 pierogów)
+
+## Lista zakupów:
 * ziemniaki 1kg
 * cebula
 * twaróg wiejski półtłusty bez laktozy (ok. 100g - jeśli ktoś lubi bardziej serowe pierogi, wtedy dodajemy go więcej)
@@ -42,6 +44,10 @@ Na stolnicy lub umytym blacie usypujemy górkę z mąki, robimy w niej dziurkę 
 
 ![zdjecie]({{ site.url }}/assets/img/pierogi/1.png)
 
+![zdjecie]({{ site.url }}/assets/img/pierogi/1a.png)
+
+![zdjecie]({{ site.url }}/assets/img/pierogi/1b.png)
+
 Następnie wałkujemy je na dość cienkie płaty, pozostałe ciasto trzymając zawinięte w ściereczkę, żeby nie wyschło. Wykrawamy szklanką i sklejamy z farszem. Gotujemy w osolonej wodzie aż wszystkie pierogi wypłyną na wierzch i polewamy malutką ilością oleju, żeby się nie posklejały
 
 ![zdjecie]({{ site.url }}/assets/img/pierogi/2.png)
@@ -55,7 +61,7 @@ Następnie wałkujemy je na dość cienkie płaty, pozostałe ciasto trzymając 
 Drugi przepis - **z mąki gryczanej** - wypróbowałam już dawno temu, nie byłam jednak z niego do końca zadowolona. Z przepisu na 40 pierogów wyszło mi jedynie 20 - reszta rozkleiła się albo jeszcze w trakcie lepienia, albo w garnku. Dodatkowo pierogi nie były zbyt smaczne - mąka gryczana jest dużo bardziej gorzka od tradycyjnej pszennej, dlatego wyszły one dość ciężkie.
 Kilka tygodni temu z zaprzyjaźnioną Panią, która z pewnością pierogi lepić umie (czego o sobie bym do dzisiaj nie powiedziała), podjęłyśmy kolejną próbę zrobienia pierogów gryczanych, jednak tym razem już samo ciasto nie chciało się rozwałkować (kruszyło się), więc szybko dałyśmy sobie z nim spokój.
 
-## Przepis (ok. 25 pierogów jeśli umiemy je lepić tak, aby się nie rozpadały)
+## Przepis nr 2 (ok. 25 pierogów jeśli umiemy je lepić tak, aby się nie rozpadały)
 
 ## Lista zakupów:
 * 250g mąki gryczanej

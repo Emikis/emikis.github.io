@@ -22,9 +22,7 @@ Zupa miso jest wyjątkowa. Głównym jej składnikiem jest pasta z ziaren soi, c
 
 I jak, zachęciłam Was do zrobienia zupy miso na obiad?
 
-#### Przepis:
-
-Lista zakupów:
+## Lista zakupów:
 
 * marchewki 3
 * pietruszki 2
@@ -36,6 +34,8 @@ Lista zakupów:
 * glony wakame
 * zielona pietruszka/glony nori
 * pasta miso
+
+## Przepis:
 
 Marchewki i pietruszki kroimy w słupki. Dodajemy selera i pora (odrobinę odkrajamy, kroimy na cieniutkie plasterki i posypujemy gotową zupę w misce), zalewamy ok. 3l wody i gotujemy. Grzyby przygotowujemy zgodnie z instrukcją (najczęściej zalewamy wrzątkiem i zostawiamy na ok. 15 minut; kroimy w kostkę). Obieramy cebulę i kroimy w kostkę. Podsmażamy razem z grzybami i dodajemy do bulionu. Następnie dodajemy ok. łyżkę glonów wakame (suszone bardzo zwiększą swoją objętość). Na 15 minut przed końcem gotowania dodajemy tofu (łososia na ok. 10 minut). Po odstawieniu z palnika dodajemy 3 spore łyżki miso (zupę należy próbować, aby była odpowiednio doprawiona, najważniejsze, by miso dodawać dopiero gdy zupa przestanie się gotować, bo po zagotowaniu pasta traci swoje dobroczynne właściwości). Wyjmujemy z zupy pora i selera. Posypujemy glonami nori albo zieloną pietruszką.
 

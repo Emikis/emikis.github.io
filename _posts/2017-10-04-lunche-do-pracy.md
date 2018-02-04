@@ -18,7 +18,7 @@ I. **RYŻ Z WARZYWAMI PO CHIŃSKU**
 
 W pracy to danie wywołało same zachwyty - jakie ono śliczne, jakie ono na pewno trudne do zrobienia! Nic bardziej mylnego.
 
-#### Lista zakupów:
+## Lista zakupów:
 
 * 2 torebki ryżu
 * warzywa na patelnię Hortex (mieszanka chińska)
@@ -26,7 +26,7 @@ W pracy to danie wywołało same zachwyty - jakie ono śliczne, jakie ono na pew
 * mieszanka przypraw dodana do mrożonych warzyw (jeśli nie szkodzi Wam czosnek, tak jak mi) lub kumin, papryka, kurkuma, cynamon i imbir.
 * ½ kostki tofu (ok. 70 g)
 
-#### Przepis:
+## Przepis:
 
 Gotujemy ryż według instrukcji. Na oliwie podsmażamy pokrojone w kostkę tofu. Dodajemy zamrożoną mieszankę warzyw. Doprawiamy do smaku przyprawami i zalewamy sosem sojowym. Smażymy do miękkości.
 Dodajemy ryż. Danie nadaje się zarówno do odgrzania na patelni jak i w mikrofalówce.
@@ -35,7 +35,7 @@ Dodajemy ryż. Danie nadaje się zarówno do odgrzania na patelni jak i w mikrof
 
 II. **MAKARON RYŻOWY PO CHIŃSKU**
 
-#### Lista zakupów:
+## Lista zakupów:
 
 * 100g makaronu ryżowego 
 * 2 marchewki
@@ -44,7 +44,7 @@ II. **MAKARON RYŻOWY PO CHIŃSKU**
 * ok. 50g tofu
 * imbir, kumin, kurkuma i odrobina cynamonu
 
-#### Przepis:
+## Przepis:
 
 Na oliwie podsmażamy pokrojone w kostę tofu (tofu warto odrobinę doprawić np. papryką, bo czasem wychodzi mdłe w smaku). Dodajemy pokrojoną w słupki marchewkę i odsączone pędy bambusa. Doprawiamy i dodajemy sos sojowy. Smażymy aż marchewka zmięknie. Gotujemy makaron ryżowy zgodnie z instrukcją i dodajemy na patelnię. Smaczne po podgrzaniu zarówno na patelni jak i w mikrofalówce.
 
@@ -53,7 +53,7 @@ Na oliwie podsmażamy pokrojone w kostę tofu (tofu warto odrobinę doprawić np
 
 III. **KREM Z BURAKÓW**
 
-#### Lista zakupów:
+## Lista zakupów:
 
 * marchewka
 * pietruszka
@@ -65,7 +65,7 @@ III. **KREM Z BURAKÓW**
 * tymianek
 * sól, pieprz
 
-#### Przepis:
+## Przepis:
 
 Z marchewki, pietruszki, selera i pora gotujemy wywar (dodając ok. 2 litry wody). Buraki pokrojone na mniejsze kawałki pieczemy ok. 30min w piekarniku w temperaturze 180 stopni (aż będą miękkie), następnie obieramy je ze skórki. Kroimy cebulę na drobną kostkę i smażymy na oliwie. Po chwili dodajemy pokrojonego w kostkę buraka, dodajemy sól, pieprz i tymianek. Zawartość patelni dorzucamy do garnka z wywarem, gotujemy i blendujemy. Podajemy z jogurem naturalnym (bez laktozy).
 
@@ -73,7 +73,7 @@ Z marchewki, pietruszki, selera i pora gotujemy wywar (dodając ok. 2 litry wody
 
 IV. **MAKARON Z POMIDORAMI I CUKINIĄ**
 
-#### Lista zakupów:
+## Lista zakupów:
 
 * 100g makaronu kukurydzianego
 * puszka pomidorów
@@ -81,7 +81,7 @@ IV. **MAKARON Z POMIDORAMI I CUKINIĄ**
 * tymianek
 * sól, pieprz
 
-#### Przepis:
+## Przepis:
 
 Cukinię obieramy, wydrążamy pestki i kroimy na drobniutką kostkę. Smażymy na rozgrzanej oliwie. Dodajemy puszkę pomidorów i przyprawy. Gotujemy makaron (na kukurydzianym makaronie po odcedzeniu zostaje gorzki osad, dlatego ja zawsze przelewam go w zlewie wrzącą wodą z czajnika).
 
@@ -92,7 +92,7 @@ V. **NAPOLI**
 
 To danie jest najprostsze, najszybsze i niezawodne, jeśli ktoś potrzebuje posiłku na już (może być z tego nawet niezła, romantyczna kolacja ;)).
 
-#### Lista zakupów:
+## Lista zakupów:
 
 * puszka pomidorów
 * bazylia

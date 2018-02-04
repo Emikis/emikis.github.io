@@ -31,9 +31,7 @@ co roku zawsze reagował śmiechem, kiedy przynosiłam do domu kolejną dynię :
 Mam nadzieję, że i Wam posmakuje!
 Łapcie przepis na curry z dyni!!
 
-### Przepis
-
-#### Lista zakupów:
+## Lista zakupów:
 
 * dynia  (po obraniu i wydrążeniu ok. 350g, czyli ok. 0,5kg należy kupić)
 * batat (jeden średniej wielkości)
@@ -47,6 +45,8 @@ Mam nadzieję, że i Wam posmakuje!
 * oliwa
 * kurkuma
 * ostra i słodka papryka
+
+## Przepis
 
 Przygotowujemy dynię. Najprościej jest przekroić ją na pół, wydrążyć, obrać, 
 a następnie pokroić w kostkę. W kostkę kroimy też obranego batata i cebulę.

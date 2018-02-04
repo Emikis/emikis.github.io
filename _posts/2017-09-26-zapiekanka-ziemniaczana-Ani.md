@@ -20,9 +20,7 @@ tags:
 
 Przepis na to “jednogarnkowe” danie wymyśliła moja siostra, w momencie gdy prawie nic nie mogłam jeść (bo byłam na diecie FODMAP), a szykował się rodzinny obiad w domu, który ona miała ugotować. Jest prosta, nie pracochłonna, choć nieco czasochłonna (niestety długo się piecze), ale przepyszna, a najlepiej smakuje odgrzewana na drugi dzień, choć trzeba przyznać, że bardzo rzadko zostają jakiekolwiek resztki. :)
 
-### Przepis
-
-Lista zakupów:
+## Lista zakupów:
 
 * cukinia
 * bakłażan
@@ -34,6 +32,8 @@ Lista zakupów:
 * tymianek
 * rozmaryn
 * majeranek
+
+## Przepis:
 
 Wszystkie składniki obieramy i kroimy na dość cienkie plastry. Rozgrzewamy piekarnik do 220 stopni. Cukinię i bakłażana grillujemy na patelni grillowej podlewając oliwą zwykłą lub (lepiej) pikantną. W naczyniu żaroodpornym posmarowanym oliwą (lub innym tłuszczem) układamy warstwami: ziemniaki (każdą warstwę posypujemy solą i majerankiem), bakłażan (warstwy warzywne doprawiamy tymiankiem i rozmarynem), ziemniaki, cukinia, marchewka, cebula, ziemniaki. Wszystko zalewamy puszką pomidorów. Przykrywamy folią lub zamykamy naczynie. Pieczemy ok. godziny (aż ziemniaki będą miękkie). Bon appetit!
 

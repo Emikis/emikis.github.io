@@ -24,7 +24,7 @@ Największym problemem na diecie bezpszenicznej, a wcześniej w trakcie stosowan
 
 ![zdjecie]({{ site.url }}/assets/img/słodycze/1.png)
  
-Lista zakupów:
+## Lista zakupów:
  
 * olej kokosowy 170g
 * gorzka czekolada 300g (trzeba uważać na skład, i kupić taką bez mleka np. gorzka 70% Wawel, gorzka E.Wedel)
@@ -35,12 +35,14 @@ Lista zakupów:
 * mąka ziemniaczana 35g
  
 Rozgrzewamy piekarnik do 160 stopni. Czekoladę rozpuszczamy na małym ogniu razem z olejem kokosowym i studzimy (ale tak, żeby masa wciąż była płynna). Miksujemy jajka z cukrem, dodajemy czekoladową masę, mąki i szczyptę soli. Wykładamy keksówkę papierem do pieczenia, wlewamy ciasto i wkładamy do piekarnika. Pieczemy ok. 35 minut (ciasto ciągle będzie mokre, bo to murzynek, trzeba zachować umiar, na tyle, żeby się nie spalił, ale nie był surowy).
+
+![zdjecie]({{ site.url }}/assets/img/słodycze/1.png)
  
 **II. Jagielnik owocowo-kokosowy:**
 
 ![zdjecie]({{ site.url }}/assets/img/słodycze/2.png)
 
-Lista zakupów:
+## Lista zakupów:
 
 * kasza jaglana 250 ml (szklanka)
 * mleko sojowe 3 szklanki
@@ -56,7 +58,7 @@ Płuczemy kilkakrotnie kaszę, gotujemy ją w dwóch szklankach mleka i szklance
 
 **III. Ciasto czekoladowo-bananowe:**
 
-Lista zakupów:
+## Lista zakupów:
 
 * mąka ryżowa 200g
 * cukier 100g

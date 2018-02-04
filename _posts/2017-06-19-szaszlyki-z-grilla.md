@@ -22,9 +22,7 @@ A koniecznie szaszłyki inspirowane [Jadłonomią](http://www.jadlonomia.com/). 
 Moje szaszłyki są kompozycją z papryki, cukinii, pomidorków koktajlowych i tofu. Marynata została pozbawiona oryginalnie użytego w przepisie czosnku, nie jest to niestety idealna propozycja dla stosujących dietę FODMAP, gdyż zalewa składa się w dużej części z miodu, który nie jest w niej dozwolony.
 Uwaga! Tofu zamarynować należy dzień wcześniej!
 
-#### Przepis
-
-Lista zakupów:
+## Lista zakupów:
 * ok. 100g tofu
 * ½ papryki (u mnie czerwona, ale żółta też się sprawdzi)
 * ½ cukinii zielonej
@@ -46,6 +44,8 @@ Opcjonalnie:
 * cytryna
 * 1kg ziemniaków
 * tymianek
+
+## Przepis
 
 Wieczorem zabieramy się za tofu. Kroimy na dość dużą kostkę tak, aby wygodnie można było nabić je później na patyczek. W pojemniku mieszamy musztardę, miód, łyżkę oliwy, rozmaryn i gorczycę. Wkładamy tofu, zamykamy pojemnik i energicznie mieszamy. Umieszczamy na noc w lodówce.
 Tofu ma tą wspaniałą właściwość, że przyjmuje taki smak, jaki chcemy mu nadać. Dlatego właśnie noc w marynacie pozwoli mu uzyskać świetny, musztardowy smak.
