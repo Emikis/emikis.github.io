@@ -24,6 +24,7 @@ Wegańska burgerownia. Kilka “kotletów”, w tym przepyszny **burger z tofu**
 [Menu](http://krowarzywa.pl/menu/)
 
 ![zdjecie]({{ site.url }}/assets/img/restauracje/2.png)
+![zdjecie]({{ site.url }}/assets/img/restauracje/1a.jpg)
 
 ## Calavera
 
