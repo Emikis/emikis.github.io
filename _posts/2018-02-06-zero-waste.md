@@ -16,6 +16,8 @@ Zacznijmy jednak od tego, co to w ogóle jest **"zero waste"**. W wielkim skróc
 
 Jak każdą nowinkę, potraktowałam jednak **"zero waste"** po swojemu. Nie byłabym w stanie korzystać z własnego, domowego kompostownika (a takowe istnieją!), nie przemawia też do mnie konieczność kupowania kosztownych kosmetyków, które nie są zapakowane w plastikowe lub szklane pojemniczki, jednak wiele trików stosowałam już wcześniej, niejako podświadomie. Nigdy nie korzystam z plastikowych jednorazówek, staram się też nie pakować do nich warzyw, by je zważyć. Ostatnio jednak zwracam uwagę też na to, by również świeżo kupione ciuchy lądowały w materiałowych torbach! Segreguję śmieci korzystając z podobno szybko rozkładajacych się worków, nigdy nie drukuję czegoś, czego koniecznie nie potrzebuję, są jednak dwie szczególne propozycje **"zero waste"**, które skradły moje serce.
 
+# #1
+
 ![zdjecie]({{ site.url }}/assets/img/waste/1.jpg)
 
 **Bulion z resztek** może zrobić naprawdę każdy i w każdych warunkach, bo przecież każdy używa warzyw i standardowo wyrzuca resztki do śmieci! Zamiast tego jednak proponuję dokładnie umyte ścinki, skrawki i obierki, a także niezużyte części warzyw schować do zamrażarki, a gdy uzbiera się ich wystarczająco dużo, zrobić aromatyczny bulion, który można później również zamrozić i wykorzystać do sosów, zup, czy gulaszów. 
@@ -39,6 +41,8 @@ Wywar oczywiście należy doprawić solą, liściem laurowym, czy zielem angiels
 ![zdjecie]({{ site.url }}/assets/img/waste/5.jpg)
 
 ![zdjecie]({{ site.url }}/assets/img/waste/6.jpg)
+
+# #2
 
 **Peeling kawowy** z resztek (z grubo zmielonej, zaparzonej kawy) działa podobnie do tego kupionego w sklepie. Do fusów warto dodać olejki np. kokosowy albo brązowy cukier. Skóra po peelingu jest gładka i napięta!
 
