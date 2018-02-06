@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""Zero waste" po mojemu,"
+title:  "\"Zero waste\" po mojemu,"
 subtitle: czyli jak jeszcze raz wykorzystać zużyte produkty.
 date:   2018-02-06
 facebook: assets/img/waste/tytul.jpg
