@@ -40,9 +40,9 @@ Wywar oczywiście należy doprawić solą, liściem laurowym, czy zielem angiels
 
 ![zdjecie]({{ site.url }}/assets/img/waste/5.jpg)
 
-![zdjecie]({{ site.url }}/assets/img/waste/6.jpg)
-
 # #2
+
+![zdjecie]({{ site.url }}/assets/img/waste/6.jpg)
 
 **Peeling kawowy** z resztek (z grubo zmielonej, zaparzonej kawy) działa podobnie do tego kupionego w sklepie. Do fusów warto dodać olejki np. kokosowy albo brązowy cukier. Skóra po peelingu jest gładka i napięta!
 
