@@ -17,13 +17,13 @@ Jak więc radzić sobie z objawami? Cóż. Na to pytanie każdy niestety musi od
     Mała rada na początek! Dobrze jest wypracować sobie pewne stałe metody radzenia sobie ze stresem,
     
     lękami, czy niepokojem, ale również doraźne środki, które pomogą w momencie nasilonego ataku!
-    
+
 
 # 1. JOGA
 
 ![zdjecie]({{ site.url }}/assets/img/joga/joga.png)
 
-W poście dostępnym [tu](http://pokarmlove.com.pl/joga-ulga-w-ibs/) opisywałam jaki joga ma wpływ na ciało i umysł. Muszę przyznać, że po ponad roku regularnego praktykowania (staram się ćwiczyć 2 razy w tygodniu, ale czasem niestety mi się to nie udaje) czuję się dużo bardziej pewna siebie. Joga pozwala mi się odprężyć ale też spalić zbędne kilogramy i czuć się pięknie i zdrowo! Dodatkowo, jeśli opuszczam więcej niż 2 zajęcia pod rząd zauważam u siebie częstsze problemy z jelitami i ukłucia niepokoju.
+W poście dostępnym [tu](http://pokarmlove.com.pl/joga-ulga-w-ibs/) opisywałam jaki joga ma wpływ na ciało i umysł. Muszę przyznać, że po ponad roku regularnego praktykowania (staram się ćwiczyć 2 razy w tygodniu, ale czasem niestety mi się to nie udaje), czuję się dużo bardziej pewna siebie. Joga pozwala mi się odprężyć, ale też spalić zbędne kilogramy i czuć się pięknie i zdrowo! Dodatkowo, jeśli opuszczam więcej niż 2 zajęcia pod rząd zauważam u siebie częstsze problemy z jelitami i ukłucia niepokoju, dlatego wiem, że praktykowanie pomaga.
 
 Jeśli więc mój poprzedni post o jodze nie zachęcił Was do praktyki, mam nadzieję, że ten to uczyni. Jeśli boicie się zacząć, piszcie śmiało, a rozwieję wszelkie Wasze wątpliwości! Najciężej jest zacząć!
 
