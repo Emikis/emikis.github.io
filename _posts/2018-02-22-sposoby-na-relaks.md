@@ -35,7 +35,7 @@ PS: Jeśli mieszkacie w Krakowie, z całego serca polecam szkołę [Mayura](http
 
 Stara, dobra miętowa herbata. Kiedyś stosowałam ją tylko przy zatruciach pokarmowych, dziś jest stałym elementem mojej diety. Powszechnie wiadome jest, że herbata miętowa pomaga zwalczać niepokój (spożywana na gorąco), a także przynosi ulgę w dolegliwościach żołądkowo-jelitowych.
 
-Jej nałogowe picie zaczęło się u mnie, gdy w liceum miałam ogromne problemy z wieczornymi mdłościami po posiłkach. Teraz miętowa herbata (względnie **imbirowa**, choć tę mniej lubię) jest moim nieodłącznym towarzyszem w podróżach małych i dużych, zawsze staram się mieć ją przy sobie, bo sam jej zapach mnie uspokaja. Można powiedzieć, że mój termiczny kubek z sercem stał się już moim atrybutem  doczekał się nawet żartów ze strony prowadzących zajęcia na moich studiach :D 
+Jej nałogowe picie zaczęło się u mnie, gdy w liceum miałam ogromne problemy z wieczornymi mdłościami po posiłkach. Teraz miętowa herbata (względnie **imbirowa**, choć tę mniej lubię) jest moim nieodłącznym towarzyszem w podróżach małych i dużych, zawsze staram się mieć ją przy sobie, bo sam jej zapach mnie uspokaja. Można powiedzieć, że termiczny kubek z sercem stał się już moim atrybutem.
 Jeśli jednak jest za gorąco lub wychodzę na chwilę staram się zawsze mieć przy sobie bidon z wodą. Mam wtedy pewność, że na przykład zawsze będę mieć możliwość popicia tabletki lub po prostu schłodzenia się, gdy zrobi mi się słabo.
 
 # 3. OLEJEK LAWENDOWY
