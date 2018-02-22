@@ -17,6 +17,7 @@ Jak więc radzić sobie z objawami? Cóż. Na to pytanie każdy niestety musi od
     Mała rada na początek! Dobrze jest wypracować sobie pewne stałe metody radzenia sobie ze stresem,
     
     lękami, czy niepokojem, ale również doraźne środki, które pomogą w momencie nasilonego ataku!
+    
 
 # 1. JOGA
 
