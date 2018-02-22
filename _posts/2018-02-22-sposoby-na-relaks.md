@@ -14,9 +14,7 @@ Zespół jelita drażliwego, tak jak stało się w moim przypadku, może często
 
 Jak więc radzić sobie z objawami? Cóż. Na to pytanie każdy niestety musi odpowiedzieć sobie sam. To Ty znasz siebie najlepiej i wiesz, co może się sprawdzić w Twoim przypadku. Ja mogę tylko opisać kilka sprawdzonych przeze mnie metod, które odpowiadają mojemu ciału i umysłowi. 
 
-    Mała rada na początek! Dobrze jest wypracować sobie pewne stałe metody radzenia sobie ze stresem,
-    
-    lękami, czy niepokojem, ale również doraźne środki, które pomogą w momencie nasilonego ataku!
+> Mała rada na początek! Dobrze jest wypracować sobie pewne stałe metody radzenia sobie ze stresem, lękami, czy niepokojem, ale również doraźne środki, które pomogą w momencie nasilonego ataku!
 
 
 # 1. JOGA
