@@ -13,6 +13,8 @@ tags:
 - pomidory
 - śniadanie
 - lunch
+- bezpszeniczne
+- bezglutenowe
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/jajka/tytul.jpg)
