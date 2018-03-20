@@ -40,6 +40,7 @@ Wywar oczywiście należy doprawić solą, liściem laurowym, czy zielem angiels
 
 ![zdjecie]({{ site.url }}/assets/img/waste/5.jpg)
 
+![zdjecie]({{ site.url }}/assets/img/waste/7.jpg)
 # #2
 
 ![zdjecie]({{ site.url }}/assets/img/waste/6.jpg)
