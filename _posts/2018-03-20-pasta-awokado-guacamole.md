@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Hola! Guacamole!"
-subtitle: Najlepsza pasta z najlepszego warzywa!
+title:  "¡Hola, guacamole!"
+subtitle: Najlepsza pasta z najlepszego owoca!
 date:   2018-03-20
 facebook: assets/img/guacamole/tytul.jpg
 comments: true
