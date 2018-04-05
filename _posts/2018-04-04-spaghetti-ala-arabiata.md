@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spaghetti a'la arabiata"
-subtitle: Wegański, kukurydziany makaron z resztek.
+subtitle: Wegański, kukurydziany makaron.
 date:   2018-04-04
 facebook: assets/img/arabiata/tytul.jpg
 comments: true
