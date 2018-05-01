@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Warszawskie restauracje przyjazne alergikom",
-subtitle: czyli gdzie na prawdę warto udać się w Warszawie będąc alergikiem - moja subiektywna lista.
+subtitle: czyli gdzie na prawdę warto udać się w Warszawie będąc alergikiem - moja subiektywna lista. 
 date:   2018-05-01
 facebook: assets/img/warszawa/tytul.jpg
 project: true
