@@ -32,7 +32,7 @@ Pomyślicie sobie - phi, zmielone awokado, co to takiego - ale nie tak łatwo wy
 Dodatkowo:
 * pomidorki koktajlowe, ostra papryczka, kolendra (w tym miejscu możecie poeksperymentować:))
 
-![zdjecie]({{ site.url }}/assets/img/guacamole/2.png)
+![zdjecie]({{ site.url }}/assets/img/guacamole/2.jpg)
 
 ## Przepis:
 
