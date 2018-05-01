@@ -51,7 +51,7 @@ Najpierw skusiłam się na sajgonki na zimno, tyle że zamiast dedykowanego sosu
 
 Drugie danie - zielone curry z krewetkami również idealne (szczególnie krewetki, których już dawno nie jadłam tak dobrze przygotowanych).
 
-![zdjecie]({{ site.url }}/assets/img/warszawa/4.jpg)
+![zdjecie]({{ site.url }}/assets/img/warszawa/6.jpg)
 
 Restauracja z tych, do których zdecydowanie chce się wracać:)
 
