@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Restauracja Pod Norenami w Krakowie"
+title:  "Krakowskie restauracje przyjazne alergikom vol. 2 - Pod Norenami"
 subtitle: Zastanawiacie się gdzie w Krakowie zjeść romantyczną kolację lub spotkać się z przyjaciółmi czy rodziną w miłej, spokojnej atmosferze? Jeśli szukacie czegoś oryginalnego, zapraszam...
 date:   2017-12-08
 facebook: assets/img/noreny/tytul.png

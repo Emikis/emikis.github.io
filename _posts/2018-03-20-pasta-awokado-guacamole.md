@@ -32,6 +32,8 @@ Pomyślicie sobie - phi, zmielone awokado, co to takiego - ale nie tak łatwo wy
 Dodatkowo:
 * pomidorki koktajlowe, ostra papryczka, kolendra (w tym miejscu możecie poeksperymentować:))
 
+![zdjecie]({{ site.url }}/assets/img/guacamole/2.png)
+
 ## Przepis:
 
 Awokado obieramy i blendujemy razem z dodatkami. Solimy do smaku. Zjadamy z kukurydzianymi chipsami meksykańskimi. Nie dziękujcie!
