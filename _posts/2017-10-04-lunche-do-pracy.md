@@ -69,6 +69,8 @@ III. **KREM Z BURAKÓW**
 
 Z marchewki, pietruszki, selera i pora gotujemy wywar (dodając ok. 2 litry wody). Buraki pokrojone na mniejsze kawałki pieczemy ok. 30min w piekarniku w temperaturze 180 stopni (aż będą miękkie), następnie obieramy je ze skórki. Kroimy cebulę na drobną kostkę i smażymy na oliwie. Po chwili dodajemy pokrojonego w kostkę buraka, dodajemy sól, pieprz i tymianek. Zawartość patelni dorzucamy do garnka z wywarem, gotujemy i blendujemy. Podajemy z jogurem naturalnym (bez laktozy).
 
+![zdjecie]({{ site.url }}/assets/img/lunche/4a.jpg)
+
 ![zdjecie]({{ site.url }}/assets/img/lunche/4.png)
 
 IV. **MAKARON Z POMIDORAMI I CUKINIĄ**

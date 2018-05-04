@@ -47,6 +47,8 @@ UWAGA! Tofu najlepiej zamarynować dzień wcześniej!
 
 Przygotowujemy marynatę do tofu. Do ok. 2 łyżek przyprawy gyros (lub mieszanki przypraw przez nas przygotowanej) dodajemy ok. 2 łyżki oleju (taką ilość, żeby marynata była nie za rzadka, ale też łatwa do rozprowadzania). Tofu siekamy na drobne paseczki i zalewamy marynatą. Odstawiamy na noc do lodówki.
 
+![zdjecie]({{ site.url }}/assets/img/kebab/a.jpg)
+
 ![zdjecie]({{ site.url }}/assets/img/kebab/1.jpg)
 
 ![zdjecie]({{ site.url }}/assets/img/kebab/2.jpg)
