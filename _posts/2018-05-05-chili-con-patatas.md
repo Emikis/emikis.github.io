@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Chili con patatas"
-subtitle: Wegańskie chili idealne na Cinco de Mayo.
+subtitle: Wegańskie chili z ziemniakami.
 date:   2018-05-05
 facebook: assets/img/chili/tytul.jpg
 comments: true
@@ -21,7 +21,7 @@ tags:
 
 ![zdjecie]({{ site.url }}/assets/img/chili/tytul.jpg)
 
-Jak lepiej świętować Cinco de Mayo niż jedząc taco z chili? Szczególnie jeśli jest tak pyszne, a na dodatek banalne i szybkie w przygotowaniu jak Chili con patatas!
+Tacosy to jedno z moich ulubionych bezglutenowych posiłków ([Tutaj]() znajdziecie pomysły na tacosy z tofu). Dlaczego? Szybko i łatwo się je przygotowuje, a na dodatek są pyszne. Muszę jednak przyznać, że nadzienie z chili z ziemniakami jest naprawdę idealne - świetnie komponuje się ze smakiem kukurydzianych tacosów i cudownie pasuje na letni, ciepły posiłek.
 
 ## Lista zakupów:
 * puszka czerwonej fasoli (200g)
@@ -43,7 +43,7 @@ Jak lepiej świętować Cinco de Mayo niż jedząc taco z chili? Szczególnie je
 
 ## Przepis
 
-Ziemniaki obieramy (jeśli są młode, wystarczy je porządnie umyć lub oskrobać), kroimy w kostkę i gotujemy ok. 5-7 minut w osolonej wodzie (mają być lekko podgotowane, ale nie tak, żeby się rozpadały). 
+Ziemniaki obieramy (jeśli są młode, wystarczy je porządnie umyć lub oskrobać), kroimy w kostkę i gotujemy ok. 5-7 minut (od zagotowania) w osolonej wodzie (mają być lekko podgotowane, ale nie tak, żeby się rozpadały). 
 
 Rozgrzewamy oliwę na patelni, podsmażamy pokrojoną w kostkę cebulę, kukurydzę, fasolę i ziemniaki.
 
