@@ -1,0 +1,62 @@
+---
+layout: post
+title:  "Chili con patatas"
+subtitle: Wegańskie chili idealne na Cinco de Mayo.
+date:   2018-05-05
+facebook: assets/img/chili/tytul.jpg
+comments: true
+tags:
+- wegetariańskie
+- wegańskie
+- taco
+- meksykańskie
+- kolacja
+- obiad
+- bezglutenowe
+- bezpszeniczne
+- ziemniaki
+- fasola
+- kukurydza
+---
+
+![zdjecie]({{ site.url }}/assets/img/chili/tytul.jpg)
+
+Jak lepiej świętować Cinco de Mayo niż jedząc taco z chili? Szczególnie jeśli jest tak pyszne, a na dodatek banalne i szybkie w przygotowaniu jak Chili con patatas!
+
+## Lista zakupów:
+* puszka czerwonej fasoli (200g)
+* mała puszka kukurydzy (ok. 125g)
+* mała czerwona cebula
+* 3 duże ziemniaki
+* puszka pomidorów krojonych
+* świeża kolendra (ok. 10 listków)
+* suszone chili (ok. 2 małe papryczki)
+* oliwa
+* sól
+* pieprz
+
+## Dodatkowo:
+* kukurydziane tacosy/tortille
+* bezlaktozowa śmietana
+* starty żółty ser bez laktozy
+* awokado
+
+## Przepis
+
+Ziemniaki obieramy (jeśli są młode, wystarczy je porządnie umyć lub oskrobać), kroimy w kostkę i gotujemy ok. 5-7 minut w osolonej wodzie (mają być lekko podgotowane, ale nie tak, żeby się rozpadały). 
+
+Rozgrzewamy oliwę na patelni, podsmażamy pokrojoną w kostkę cebulę, kukurydzę, fasolę i ziemniaki.
+
+![zdjecie]({{ site.url }}/assets/img/chili/1.jpg)
+
+Dodajemy puszkę pomidorów oraz przyprawy. Odparowujemy na tyle, żeby chili nie wylewało się z tacosów.
+
+![zdjecie]({{ site.url }}/assets/img/chili/2.jpg)
+
+![zdjecie]({{ site.url }}/assets/img/chili/3.jpg)
+
+Podajemy razem ze świeżymi dodatkami np. śmietaną, serem żółtym czy awokado (najlepiej ze wszystkimi naraz)
+
+![zdjecie]({{ site.url }}/assets/img/chili/4.jpg)
+
+![zdjecie]({{ site.url }}/assets/img/chili/5.jpg)
