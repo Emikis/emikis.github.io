@@ -21,7 +21,7 @@ tags:
 
 ![zdjecie]({{ site.url }}/assets/img/chili/tytul.jpg)
 
-Tacosy to jedno z moich ulubionych bezglutenowych posiłków ([Tutaj]() znajdziecie pomysły na tacosy z tofu). Dlaczego? Szybko i łatwo się je przygotowuje, a na dodatek są pyszne. Muszę jednak przyznać, że nadzienie z chili z ziemniakami jest naprawdę idealne - świetnie komponuje się ze smakiem kukurydzianych tacosów i cudownie pasuje na letni, ciepły posiłek.
+Tacosy to jedno z moich ulubionych bezglutenowych posiłków ([Tutaj](http://pokarmlove.com.pl/moje-ukochane-tacos/) znajdziecie pomysły na tacosy z tofu). Dlaczego? Szybko i łatwo się je przygotowuje, a na dodatek są pyszne. Muszę jednak przyznać, że nadzienie z chili z ziemniakami jest naprawdę idealne - świetnie komponuje się ze smakiem kukurydzianych tacosów i cudownie pasuje na letni, ciepły posiłek.
 
 ## Lista zakupów:
 * puszka czerwonej fasoli (200g)
