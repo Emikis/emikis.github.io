@@ -38,3 +38,5 @@ Przepis na to “jednogarnkowe” danie wymyśliła moja siostra, w momencie gdy
 Wszystkie składniki obieramy i kroimy na dość cienkie plastry. Rozgrzewamy piekarnik do 220 stopni. Cukinię i bakłażana grillujemy na patelni grillowej podlewając oliwą zwykłą lub (lepiej) pikantną. W naczyniu żaroodpornym posmarowanym oliwą (lub innym tłuszczem) układamy warstwami: ziemniaki (każdą warstwę posypujemy solą i majerankiem), bakłażan (warstwy warzywne doprawiamy tymiankiem i rozmarynem), ziemniaki, cukinia, marchewka, cebula, ziemniaki. Wszystko zalewamy puszką pomidorów. Przykrywamy folią lub zamykamy naczynie. Pieczemy ok. godziny (aż ziemniaki będą miękkie). Bon appetit!
 
 ![zdjecie]({{ site.url }}/assets/img/zapiekanka/1.png)
+![zdjecie]({{ site.url }}/assets/img/zapiekanka/zapiekanka.jpg)
+
