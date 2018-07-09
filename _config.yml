@@ -26,13 +26,13 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:  pokarmlove
+#disqus_shortname:  pokarmlove
 
 # Social
 # if you don't have any of social below, comment the line.
-google:
+#google:
   #plus:            #username
-  analytics:        'UA-84167678-2'
+  #analytics:        'UA-84167678-2'
   #verify:
   #ad-client:
   #ad-slot:
