@@ -69,5 +69,5 @@ Gotujemy makaron według wskazówek na opakowaniu. Resztę składników wykłada
 
 ![zdjecie]({{ site.url }}/assets/img/budda/3.jpg)
 
-![zdjecie]({{ site.url }}/assets/img/chili/4.jpg)
+![zdjecie]({{ site.url }}/assets/img/budda/4.jpg)
 
