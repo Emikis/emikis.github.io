@@ -2,7 +2,7 @@
 layout: post
 title:  "Najlepszy niedzielny obiad"
 subtitle: Panierowany kotlet z tofu, młoda kapustka i ziemniaki z koperkiem.
-date:   2018-07-15
+date:   2018-07-16
 facebook: assets/img/niedziela/tytul.jpg
 comments: true
 tags:
