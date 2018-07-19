@@ -35,7 +35,7 @@ Opcjonalnie:
 
 ## Przepis 
 
-W garnku gotujemy makaron ryżowy zgodnie z instrukcjami na opakowaniu. Na patelni na odrobinie oliwy smażymy mrożoną miesznkę warzyw. Po ich częściowym rozmrożeniu doprawiamy warzywa kukrkumą, imbirem, kuminem, a po chwili dodajemy 2 łyżki sosu sojowego. 
+W garnku gotujemy makaron ryżowy zgodnie z instrukcjami na opakowaniu. Na patelni na odrobinie oliwy smażymy mrożoną mieszankę warzyw. Po ich częściowym rozmrożeniu doprawiamy warzywa kukrkumą, imbirem, kuminem, a po chwili dodajemy 2 łyżki sosu sojowego. 
 
 Po przestudzeniu warzywa i makaron mieszamy na desce razem i siekamy na mniejsze kawałki.
 
