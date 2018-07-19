@@ -45,7 +45,7 @@ Następnym krokiem jest zawijanie sajgonek. Zazwyczaj na opakowaniu papieru ryż
 
 ![zdjecie]({{ site.url }}/assets/img/sajgonki/2.jpg)
 
-Następnie zaginamy boki arkusza do środka i zwijamy sajgonki (w sumie traktujemy je jak dobre, polskie krokiety).
+Następnie zaginamy boki arkusza do środka i zwijamy sajgonki (w sumie traktujemy je jak stare dobre, polskie krokiety).
 
 ![zdjecie]({{ site.url }}/assets/img/sajgonki/3.jpg)
 
