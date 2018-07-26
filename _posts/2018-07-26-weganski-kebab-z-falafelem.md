@@ -35,9 +35,17 @@ To już drugi przepis na wegański kebab na Blogu ([tu](http://pokarmlove.com.pl
 * ogórek świeży
 * majonez (ok. 3 łyżek)
 * jogurt naturalny bez laktozy (ok. 3 łyżki) - majonez i jogurt w przypadku wersji wegańskiej możemy pominąć, ponieważ są potrzebne jedynie do sosów - zamiast tego można zrobić np. wegański majonez z aquafaby
-* 
-* 
-* 
+* ciecierzyca (200g suchej) - pamiętamy, żeby moczyć ją chociaż kilka godzin, wtedy jest bardziej lekkostrawna 
+* 1/2 cebuli
+* natka pietruszki (ok. 2 łyżek)
+* świeża kolendra (ok. 2 łyżek)
+* świeża mięta (k. 2 łyżek)
+* kumin (1 łyżeczka)
+* ½ łyżeczki mielonego kardamonu
+* ½ łyżeczki cynamonu
+* ½ łyżeczki chili
+* ½ łyżeczki sody oczyszczonej (można pominąć)
+* 1 łyżeczka soli
 * pieprz, sól
 * 1 i 3/4 szklanki mąki orkiszowej (koniecznie tortowa, nie pełnoziarnista) 
 * 1/4 opakowania suszonych drożdży 
