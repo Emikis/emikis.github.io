@@ -55,7 +55,7 @@ Cebulę siekamy na drobną kostkę. Bakłażana, cukinię i marchewkę obieramy 
 
 Przygotowujemy soczewicę zgodnie ze wzkazówkami z opakowania (ja gotowałam ok. 10 minut we wrzącej, osolonej wodzie).
 
-W głębokim garnku rozgrzewamy oliwę. Wrzucamy cebulę i smażymy ok. 2 minut. Później dodajemy marchewkę, cukinię i bakłażana. Smażymy ok. 10 minut. Zalewamy pomidorami i dodajemy ok. 2 szklanki wody. Dusimy ok. 20-30 minut, aż wszystkie składniki będą miękkie, pomidory się rozsmażą, i całość uzyska odpowiednią konsystencję (pamiętamy, że sos nie może być za suchy, bo wtedy cała lazania będzie sucha i spieczona. Jeśli przez nieuwagę sos odparował za bardzo, wystarczy wlać trochę wody). Dodajemy sól, pieprz, oregano i czosnek niedźwiedzi.
+W głębokim garnku rozgrzewamy oliwę. Wrzucamy cebulę i smażymy ok. 2 minut. Później dodajemy marchewkę, cukinię i bakłażana. Smażymy ok. 10 minut. Zalewamy pomidorami i dodajemy ok. 2 szklanki wody. Dodajemy ugotowaną soczewicę. Dusimy ok. 20-30 minut, aż wszystkie składniki będą miękkie, pomidory się rozsmażą, i całość uzyska odpowiednią konsystencję (pamiętamy, że sos nie może być za suchy, bo wtedy cała lazania będzie sucha i spieczona. Jeśli przez nieuwagę sos odparował za bardzo, wystarczy wlać trochę wody). Dodajemy sól, pieprz, oregano i czosnek niedźwiedzi.
 
 ![zdjecie]({{ site.url }}/assets/img/lazania/3.jpg)
 
