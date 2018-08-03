@@ -20,7 +20,7 @@ Poniżej zebrałam wszystkie te składniki, które w ostatnim czasie pojawiły s
 
 Garść faktów o czosnku niedźwiedzim:
 
-1. Niestety jest dość trudno dostępny jako świeża przyprawa - nie znalazłam go na targu, ani w żadnym sklepie - świeży przybył do mnie zerwany w "dzikim ogródku" koleżanki mojej mamy. Zbieranie go w lasach nie jest polecane jest on chroniony, więc grozi nam zapłata grzywny, ponadto łatwo pomylić go z konwalią, a wtedy zatrucie murowane - lepiej kupić sobie sadzonki i hodować go w ogrodzie.
+1. Niestety jest dość trudno dostępny jako świeża przyprawa - nie znalazłam go na targu, ani w żadnym sklepie - świeży przybył do mnie zerwany w "dzikim ogródku" koleżanki mojej mamy. Zbieranie go w lasach nie jest polecane - jest on chroniony, więc grozi nam zapłata grzywny, ponadto łatwo pomylić go z konwalią, a wtedy zatrucie murowane - lepiej kupić sobie sadzonki i hodować go w ogrodzie.
 2. Sezon na świeży czosnek niedźwiedzi trwa generalnie od marca do kwietnia, im wcześniej go zerwiemy tym będzie smaczniejszy (na pewno trzeba to zrobić nim czosnek zakwitnie).
 3. Na szczęście ostatnio w sklepach pojawia się nieśmiało suszony czosnek niedźwiedzi, który nie jest tak aromatyczny jak świeże liście (co jest zrozumiałe), jednak idealnie pasuje do wszystkich dań, których wcześniej nie robiłam unikając czosnku, a które bez niego były "puste" - sosy pomidorowe, pesto... 
 
@@ -44,7 +44,7 @@ Co imituje? Jak to co - smak wędzonej wędliny :D Niestety trzeba przyznać - w
 
 # 3 ![zdjecie]({{ site.url }}/assets/img/zamienniki/3.jpg)
 
-**Gruszki** nie są oczywiście żadnym odkryciem, ale jeśli ktoś ma uczulenie na jabłka, z pewnością chociaż raz w życiu poszukiwał jego zamiennika. Na mnie trafiło dwukrotnie. Raz - w czasie świąt, kiedy przygotowywałam [fasolowy pasztet](http://pokarmlove.com.pl/swiateczne-smakolyki/), drugi - ostatnio, kiedy naszła nas ochota na racuchy. W obu przypadkach gruszki sprawdziły się super. Pasztetowi nadały wilgotności i owocowej kwaskowości, w racuchach były słodziutkie i rozpieczone jak jabłka.
+**Gruszki** nie są oczywiście żadnym odkryciem, ale jeśli ktoś ma uczulenie na jabłka, z pewnością chociaż raz w życiu poszukiwał ich zamiennika. Na mnie trafiło dwukrotnie. Raz - w czasie świąt, kiedy przygotowywałam [fasolowy pasztet](http://pokarmlove.com.pl/swiateczne-smakolyki/), drugi - ostatnio, kiedy naszła nas ochota na racuchy. W obu przypadkach gruszki sprawdziły się super. Pasztetowi nadały wilgotności i owocowej kwaskowości, w racuchach były słodziutkie i rozpieczone, dokładnie jak jabłka.
 
 
 # 4 ![zdjecie]({{ site.url }}/assets/img/zamienniki/4.jpg)
