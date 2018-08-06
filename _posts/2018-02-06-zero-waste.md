@@ -34,7 +34,8 @@ Jakie warzywa można wykorzystać?
 * seler naciowy
 * koperek/pietruszka zielona/szczypiorek
 * cebula biała i czerwona
-* grzyby
+* grzyby (np. nieużywane często do potraw nóżki pieczarek)
+* kapusta (biała i czerwona)
 
 Wywar oczywiście należy doprawić solą, liściem laurowym, czy zielem angielskim, albo wykorzystać na przykład sos sojowy. Mrozić można korzystając z plastikowych pojemników wielorazowego użytku lub foremek na lód.
 
