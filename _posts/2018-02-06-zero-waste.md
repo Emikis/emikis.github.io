@@ -36,11 +36,12 @@ Jakie warzywa można wykorzystać?
 * cebula biała i czerwona
 * grzyby
 
-Wywar oczywiście należy doprawić solą, liściem laurowym, czy zielem angielskim, albo wykorzystać na przykład sos sojowy. Mrozić można korzystając z woreczków do mrożenia (choć nie jest to niestety zero waste) lub foremek na lód.
+Wywar oczywiście należy doprawić solą, liściem laurowym, czy zielem angielskim, albo wykorzystać na przykład sos sojowy. Mrozić można korzystając z plastikowych pojemników wielorazowego użytku lub foremek na lód.
 
 ![zdjecie]({{ site.url }}/assets/img/waste/5.jpg)
 
 ![zdjecie]({{ site.url }}/assets/img/waste/7.jpg)
+
 # #2
 
 ![zdjecie]({{ site.url }}/assets/img/waste/6.jpg)
