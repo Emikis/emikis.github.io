@@ -23,7 +23,7 @@ tags:
 
 ![zdjecie]({{ site.url }}/assets/img/pesto/tytul.jpg)
 
-Pesto bazyliowo-pistacjowe to jedno z tych dań, które praktycznie same się robi - wystarczy pozbierać składniki i zblendować. Jego wielką zaletą jest brak gotowania (no poza makaronem), więc idealnie nadaje się na upały, gdy nie mamy ochoty stać w kuchni przy włączonej kuchence lub piekarniku. 
+Pesto bazyliowo-pistacjowe to jedno z tych dań, które praktycznie samo się robi - wystarczy pozbierać składniki i zblendować. Jego wielką zaletą jest brak gotowania (no poza makaronem), więc idealnie nadaje się na upały, gdy nie mamy ochoty stać w kuchni przy włączonej kuchence lub piekarniku. 
 Pesto można przygotować wcześniej lub zrobić w większej ilości (na kilka obiadów), bo spokojnie może poleżeć w lodówce kilka dni. 
 To co - macie ochotę na kluchy? :)
 
