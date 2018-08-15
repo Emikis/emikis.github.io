@@ -23,7 +23,7 @@ tags:
 - bez nabiału
 ---
 
-![zdjecie]({{ site.url }}/assets/img/ciasto/tytul.jpg)
+![zdjecie]({{ site.url }}/assets/img/placek/tytul.jpg)
 
 Moja mama nie lubi piec i ciężko ją do tego namówić, jednak ten placek wychodzi z jej piekarnika z dużą częstotliwością przez całe lato - najpierw z truskawkami, później z malinami i borówkami, a na końcu właśnie ze śliwkami. 
 
