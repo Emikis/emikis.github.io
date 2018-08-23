@@ -41,7 +41,7 @@ Chociaż większość ludzi słysząc o przepisie na naleśniki pokręci głową
 
 ## Przepis
 
-Do miski wbijamy jajko, dodajemy przesianą mąkę, mleko, olej, wodę i ksylitol i miksujemy na gładką masę. Patelnię długo rozgrzewamy na małym ogniu (musi być dobrze i równomiernie ciepła) i dodajemy odrobinę oleju. Smażymy naleśniki z obu stron. 
+Do miski wbijamy jajko, dodajemy przesianą mąkę, mleko, olej, wodę i ksylitol, i miksujemy na gładką masę. Patelnię długo rozgrzewamy na małym ogniu (musi być dobrze i równomiernie ciepła) i dodajemy odrobinę oleju. Smażymy naleśniki z obu stron. 
 
 Podajemy z waniliowym twarogiem (najlepiej zrobić go samemu w domu, mieszając rozdrobniony twaróg z kawałkiem laski wanilii i odrobiną ksylitolu), dżemem lub innymi dodatkami, które lubimy.
 
