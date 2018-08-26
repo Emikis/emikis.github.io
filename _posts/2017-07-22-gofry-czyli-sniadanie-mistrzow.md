@@ -3,7 +3,7 @@ layout: post
 title:  "Gofry,"
 subtitle: czyli śniadanie mistrzów.
 date:   2017-07-22
-facebook: assets/img/gofry/tytul.png
+facebook: assets/img/gofry/polecane.jpg
 comments: true
 tags:
 - wegetariańskie
@@ -15,7 +15,7 @@ tags:
 - FODMAP
 ---
 
-![zdjecie]({{ site.url }}/assets/img/gofry/tytul.png)
+![zdjecie]({{ site.url }}/assets/img/gofry/tytul.jpg)
 
 Nic tak nie pobudza o poranku jak zapach świeżo smażonych gofrów. Kiedyś jadłam je praktycznie co weekend, jednak po odstawieniu mąki pszennej długo nie mogłam znaleźć przepisu, który choć trochę przypominał by te oryginalne. Na szczęście po długich poszukiwaniach udało mi się osiągnąć cel i zjeść pyszne, słodziutkie gofry na śniadanie. Sprawdzą się one również jako deser!
 Te inspirowane są przepisem z książki “Kuchnia polska bez pszenicy”.

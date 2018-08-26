@@ -3,7 +3,7 @@ layout: post
 title:  "Szaszłyki z grilla."
 subtitle: “Nie wiesz co zjeść w gorący dzień a czasu masz pod dostatkiem? Grill!”
 date:   2017-06-22
-facebook: assets/img/szaszlyki/facebook-img.png
+facebook: assets/img/szaszlyki/polecane.jpg
 comments: true
 tags:
 - wegetariańskie
@@ -15,7 +15,7 @@ tags:
 - bezpszeniczne
 ---
 
-![zdjecie]({{ site.url }}/assets/img/szaszlyki/img1.png)
+![zdjecie]({{ site.url }}/assets/img/szaszlyki/tytul.jpg)
 
 
 A koniecznie szaszłyki inspirowane [Jadłonomią](http://www.jadlonomia.com/). Na patyczek można nabić wszystko, jest to więc idealne danie dla alergików. Nawet jeśli każda z biesiadujących osób nie toleruje różnych produktów, każdy szaszłyk może być inny i to bez stania w pocie czoła przy kilku patelniach.

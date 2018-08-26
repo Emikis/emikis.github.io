@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Pierwszy przystanek."
-subtitle: "Po drugie: lista przydatnych badań."
+title:  Lista przydatnych badań
+subtitle: Jakie badania zrobić przy podejrzeniu występowania alergii pokarmowych?
 date:   2017-06-28
-facebook: assets/img/dieta/Blue Wood.png
+facebook: assets/img/dieta/polecane.jpg
 project: true
 comments: true
 ---
 
-![zdjecie]({{ site.url }}/assets/img/badania/Blue Wood.png)
+![zdjecie]({{ site.url }}/assets/img/badania/tytul.jpg)
 
 Od razu zaznaczam, że każdy lekarz może zlecić zrobienie różnych badań, według mojego gastrologa ten pakiet jest jednak pakietem koniecznym i podstawowym, ponieważ zanim zagłębimy się w diagnostykę alergii pokarmowych należy wykluczyć inne poważne schorzenia układu pokarmowego.
 

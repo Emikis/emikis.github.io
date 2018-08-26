@@ -3,7 +3,7 @@ layout: post
 title:  "Kotlet z tofu"
 subtitle: Wegańska i nowoczesna wersja klasycznego polskiego kotleta.
 date:   2017-11-10
-facebook: assets/img/obiad/tytul.png
+facebook: assets/img/obiad/polecane.jpg
 comments: true
 tags:
 - wegetariańskie
@@ -20,12 +20,12 @@ tags:
 - bezpszeniczne
 ---
 
-![zdjecie]({{ site.url }}/assets/img/obiad/1.png)
+![zdjecie]({{ site.url }}/assets/img/obiad/tytul.jpg)
 
 Ręka w górę, kto lubi proste dania, nad którymi nie trzeba siedzieć pół dnia! A gdy do tego są kolorowe i pyszne, nie może istnieć nic lepszego!
 Podzielę się z Wami przepisem na nieco unowocześnioną wersję polskiego, typowego kotleta.
 
-## Lista zakupów:
+## Lista zakupów
 
 * tofu
 * ketchup
@@ -45,6 +45,7 @@ Podzielę się z Wami przepisem na nieco unowocześnioną wersję polskiego, typ
 * pieprz
 
 ![zdjecie]({{ site.url }}/assets/img/obiad/2.png)
+
 ![zdjecie]({{ site.url }}/assets/img/obiad/3.png)
 
 !! WAŻNE!!
@@ -52,9 +53,9 @@ Podzielę się z Wami przepisem na nieco unowocześnioną wersję polskiego, typ
 Dzień wcześniej marynujemy pokrojone w "kotlety" tofu. Marynatę przygotowujemy z ketchupu, cząbru, ostrej i słodkiej papryki oraz ok. 2 łyżeczek sosu sojowego.
 Tofu zamykamy w pojemniku i wkładamy do lodówki.
 
-## Przepis:
+## Przepis
 
-#### Ziemniaki:
+#### Ziemniaki
 
 Ziemniaki obieramy i kroimy w kostkę. Doprawiamy solą, pieprzem, tymiankiem, rozmarynem, cząbrem i majerankiem oraz dodajemy oliwę (ok. 2 łyżki).
 Pieczemy ok. 30 min w nagrzanym do 180 stopni piekarniku.
@@ -69,4 +70,4 @@ Brokuła kroimy na różyczki i gotujemy ok. 5 minut w gotującej się, osolonej
 
 Smacznego!
 
-
+![zdjecie]({{ site.url }}/assets/img/obiad/1.png)

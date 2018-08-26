@@ -3,12 +3,12 @@ layout: post
 title:  "Joga"
 subtitle: Czy to dobra metoda w walce z objawami IBS? Sprawdziłam na własnej skórze.
 date:   2017-08-06
-facebook: assets/img/joga/joga.png
+facebook: assets/img/joga/polecane.jpg
 project: true
 comments: true
 ---
 
-![zdjecie]({{ site.url }}/assets/img/joga/joga.png)
+![zdjecie]({{ site.url }}/assets/img/joga/tytul.jpg)
 
 Przed wizytą u gastrologa podejrzewałam u siebie IBS. Cóż. Nie było to zbyt odkrywcze, bo moje objawy idealnie pokrywały się z symptomami zespołu jelita drażliwego i niestety pomimo wykluczenia z diety niektórych składników wciąż mi czasem dokuczają. Uznałam, że nie warto iść na łatwiznę, a za moimi problemami może stać jakaś niebezpieczna choroba, dlatego zgłosiłam się do lekarza, o czym już wielokrotnie wspominałam, a on nie rozpoznał u mnie ZJD. Pomimo tego dziś trochę na temat **IBS i naturalnemu lekarstwu - jodze.**
 Zespół jelita drażliwego to choroba, której przyczyna często związana jest z psychiką (podobno aż w ok. 80% przypadków) - objawy pojawiają się na przykład w przypływie stresu, towarzyszy im lęk. Stres powoduje zmiany we florze bakteryjnej jelit (które zwane są “drugim mózgiem”), a te wysyłają do mózgu fałszywe sygnały o bólu i konieczności wypróżnienia. Przypadłości tej nigdy nie można w stu procentach potwierdzić lub wykluczyć, bo schorzenie to nie polega na zmianie struktury jelita, dlatego nie da się go wykryć przy pomocy badań lekarskich (jak np. USG brzucha). 
@@ -16,3 +16,5 @@ Zespół jelita drażliwego to choroba, której przyczyna często związana jest
 Pomimo nie potwierdzenia u mnie tej dolegliwości, lekarz rodzinny zaopatrzył mnie w stos ulotek dotyczących IBS, bo skoro objawy są podobne, to istniała możliwość, że pomogą też analogiczne metody walki z bólem. Tu szczególnie zainteresował mnie fakt stosowania **medycyny alternatywnej** w celu wyeliminowania objawów. Nieczęsto u lekarzy można zauważyć sympatię do środków innych niż leki, co jednak ulega powolnej zmianie. W przypadku IBS te metody to między innymi akupunktura, psychoterapia (behawioralno-poznawcza) i… joga. Akupunktura wydawała mi się lekką przesadą, psychoterapia czymś, w co trzeba włożyć za dużo czasu i pieniędzy ale joga? Już dawno planowałam zapisać się na zajęcia, więc skoro miały mi one pomóc w walce z nieszczęsnymi problemami, był to świetny bodziec do działania - zapisałam się na lekcje, czytając jednak wcześniej o tej kwestii w Internecie. Dowiedziałam się, że **joga jest jedną z tradycyjnych metod przynoszących ulgę przy objawach IBS**, jako że pomaga pozbyć się energii zastałej w obrębie brzucha. Według Charlotte Watts, amerykańskiej instruktorki jogi, z którą wywiad przeprowadził portal oczymlekarze.pl, gdy energia w tych partiach jest zablokowana, zaczynamy odczuwać w nich niepokój oraz dyskomfort. Zapanowanie nad chronicznym stresem ma kluczowe znaczenie w leczeniu biegunek, ponieważ eliminuje bezwarunkowy odruch defekacji, towarzyszący poczuciu zagrożenia. Oprócz tego licznie przeprowadzone badania dowodzą, że **joga ogranicza zaburzenia funkcjonowania jelit oraz odczuwany przez pacjentów niepokój oraz inne objawy ze strony przewodu pokarmowego.**
 
 Zachęcona wybrałam kurs dla początkujących, aby nauczyć się techniki, a nie tylko bezmyślnie naśladować grupę. I tak po ponad półrocznym praktykowaniu jogi (średnio 2-3 razy w tygodniu w sesjach po 90 minut) mogę z czystym sumieniem powiedzieć, że **w moim przypadku zmniejszył się odczuwany niepokój i lęk związany z objawami, a dzięki temu ograniczyły się same zaburzenia.** Ponadto czuję się zdrowsza i szczęśliwsza, dlatego polecam zajęcia również całkowicie zdrowym osobom. Po 1.5h zajęć, kiedy cała grupa podnosi się z savasany, czyli pozycji nieboszczyka, którą zawsze kończymy lekcję, każdy po kolei, pomimo zmęczenia, ma na twarzy szeroki uśmiech. Tak właśnie działa joga. Dobre samopoczucie, mniej stresu i dzięki temu mniej bólów brzucha i biegunek. Czego chcieć więcej?
+
+![zdjecie]({{ site.url }}/assets/img/joga/1.jpg)

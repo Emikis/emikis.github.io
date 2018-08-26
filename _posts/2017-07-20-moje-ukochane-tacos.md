@@ -3,7 +3,7 @@ layout: post
 title:  "Moje ukochane tacos,"
 subtitle: czyli slow fast food.
 date:   2017-07-20
-facebook: assets/img/tacoski/img9.png
+facebook: assets/img/tacoski/polecane.jpg
 comments: true
 tags:
 - wegetariańskie
@@ -17,7 +17,7 @@ tags:
 - FODMAP
 ---
 
-![zdjecie]({{ site.url }}/assets/img/tacoski/img9.png)
+![zdjecie]({{ site.url }}/assets/img/tacoski/tytul.jpg)
 
 Taco są po prostu pyszne i kropka. A do tego szybkie, łatwe i nie chcą się znudzić. Można je jeść z nieskończoną ilością różnych dodatków od ryb, przez mięso, po tofu. Dzielę się z Wami dwoma moimi ulubionymi połączeniami - tofu ze świeżymi warzywami i meksykańska fasolka. Składników wystarcza na ok. 6 taco.
 

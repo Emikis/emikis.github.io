@@ -3,12 +3,12 @@ layout: post
 title:  "Co jeść na wakacjach"
 subtitle: Planowanie wakacji przy licznych alergiach pokarmowych może być prawdziwym koszmarem. Jak zmienić go w udany wypoczynek? Kilka rad...
 date:   2017-08-22
-facebook: assets/img/wakacje/tytul.png
+facebook: assets/img/wakacje/polecane.jpg
 project: true
 comments: true
 ---
 
-![zdjecie]({{ site.url }}/assets/img/wakacje/tytul.png)
+![zdjecie]({{ site.url }}/assets/img/wakacje/tytul.jpg)
 
 Planowanie wakacji przy licznych alergiach pokarmowych może być prawdziwym koszmarem. Praktycznie odpadają zorganizowane wczasy all inclusive, bo przecież nigdy nie wiadomo co zastaniemy na miejscu, nie mówiąc już o jedzeniu. Można polecieć do wynajętego apartamentu i gotować samemu, tyle że w tym przypadku albo zapłacimy bajońskie sumy za nadbagaż (wypakowany jedzeniem), albo zdajemy się na łut szczęścia, że znajdziemy sklep lub restaurację w której damy radę coś zjeść i się nie pochorować, ryzykując jednak wakacyjną głodówką w momencie braku takiego miejsca. Jako że w tym roku były to moje pierwsze wakacje z wykrytą alergią poszliśmy na łatwiznę i wybraliśmy trzecią możliwość - samochód + wynajęty domek + wałówka zakupiona w sprawdzonych sklepach.
 

@@ -3,11 +3,11 @@ layout: post
 title:  "Dieta FODMAP - podręczna lista zakupów."
 subtitle: Co jeść w trakcie stosowania diety, żeby nie umrzeć z nudów.
 date:   2017-11-05
-facebook: assets/img/dieta/tytul.png
+facebook: assets/img/dieta/polecane.jpg
 project: true
 comments: true
 ---
-![zdjecie]({{ site.url }}/assets/img/dieta/tytul.png)
+![zdjecie]({{ site.url }}/assets/img/dieta/tytul.jpg)
 
 Jak już wspominałam w [poście](http://pokarmlove.com.pl/FODMAP/) o diecie FODMAP, przez pierwszy tydzień leczenia traciłam mnóstwo czasu łażąc po supermarketach z pustym brzuchem i przeglądając półki w poszukiwaniu czegokolwiek, co będę mogła zjeść. Najgorsze były momenty, gdy musiałam coś z powrotem na nią odłożyć, gdyż po przeczytaniu etykiety okazywało się, że produkt nie powinien być spożywany nawet przez zdrowego człowieka. Tak. Syrop glukozowo-fruktozowy niedozwolony w diecie czai się wszędzie. Dokładnie tak samo jak nic nie mówiące słowo “przyprawy” w przetworach, po który sięgniemy, a za którym może stać czosnek, cebula czy por, których również nie można jeść w pierwszych fazach diety. 
 Wiedząc, że jest to takie ciężkie przeżycie, w oparciu o moje zapiski jedzeniowe z pierwszego miesiąca stosowania FODMAPu, opracowałam listę zakupów, dla nawet najwybredniejszego pacjenta. Skąd to wiem? Sama ją stosowałam i choć często do oczu cisnęły mi się łzy, gdy po raz kolejny w przerwie na uczelni musiałam jeść wafle ryżowe, na nic bardziej pomysłowego do dziś nie wpadłam. 

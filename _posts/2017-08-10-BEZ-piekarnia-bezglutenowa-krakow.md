@@ -3,11 +3,12 @@ layout: post
 title:  "BEZ Piekarnia Bezglutenowa Kraków"
 subtitle: Muszę przyznać, że w żadnym miejscu poza domem nie kupuję jedzenia tak często, jak w BEZ Piekarnia Bezglutenowa Kraków. Kiedy już nie miałam nadziei na to, że kiedykolwiek zjem jeszcze pieczywo, znalazłam piekarnię idealną.
 date:   2017-08-10
+facebook: assets/img/piekarnia/polecane.jpg
 project: true
 comments: true
 ---
 
-![zdjecie]({{ site.url }}/assets/img/piekarnia/1.jpg)
+![zdjecie]({{ site.url }}/assets/img/piekarnia/tytul.jpg)
 
 Muszę przyznać, że w żadnym miejscu poza domem nie kupuję jedzenia tak często, jak w BEZ Piekarnia Bezglutenowa Kraków. Kiedy już nie miałam nadziei na to, że kiedykolwiek zjem jeszcze pieczywo, znalazłam piekarnię idealną. I to nie tylko dla osób, które nie jedzą glutenu czy pszenicy, ale też dla tych, którzy chcą się zdrowiej zdrowiej odżywiać (wypieki nie zawierają konserwantów, barwników ani innych sztuczności). 
 

@@ -3,12 +3,12 @@ layout: post
 title:  "Zioła w kuchni"
 subtitle: Przydatne w łagodzeniu problemów trawiennych.
 date:   2017-09-12
-facebook: assets/img/ziola/tytul.png
+facebook: assets/img/ziola/polecane.jpg
 project: true
 comments: true
 ---
 
-![zdjecie]({{ site.url }}/assets/img/ziola/tytul.png)
+![zdjecie]({{ site.url }}/assets/img/ziola/tytul.jpg)
 
 Wczesna jesień jest porą, kiedy należy zbierać większość ziół, aby wysuszone służyły nam przez cały rok. Oczywiście dla tych, którzy nie mieli wystarczająco dużo samozaparcia by te zioła wysiać i podlewać tak, żeby przeżyły lato, gotowe, suszone zioła można przecież kupić w sklepie. Zioła od zamierzchłych czasów stosowane są jako lekarstwa oraz do doprawiania dań, co oczywiście nie musi się wzajemnie wykluczać. Wiele ziół stosowanych jest w kuchni w celu równoważenia swoim dobroczynnym wpływem skutków poszczególnych składników spożywczych. Wiedza na temat wpływu ziół i przypraw na organizm jest niezwykle przydatna szczególnie przy problemach trawiennych, ponieważ tym prostym sposobem możemy ułatwić sobie trawienie, czy ulżyć problemom z żołądkiem. Lista obejmuje te zioła, których ja najczęściej używam podczas gotowania. Miłej lektury i przyjemnego gotowania!
 

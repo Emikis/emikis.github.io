@@ -3,7 +3,7 @@ layout: post
 title:  "Delikatne curry z dyni"
 subtitle: Aromatyczne, jesienne i dobre na przeziębienia!
 date:   2017-11-19
-facebook: assets/img/curry/tytul.png
+facebook: assets/img/curry/polecane.jpg
 comments: true
 tags:
 - wegetariańskie
@@ -19,7 +19,7 @@ tags:
 - bezpszeniczne
 ---
 
-![zdjecie]({{ site.url }}/assets/img/curry/tytul.png)
+![zdjecie]({{ site.url }}/assets/img/curry/tytul.jpg)
 
 Zawsze, kiedy na straganach jesienią zaczynają pojawiać się dynie 
 kombinuję co by tu z nich dobrego przyrządzić. Co roku kończy się to 
@@ -31,7 +31,7 @@ co roku zawsze reagował śmiechem, kiedy przynosiłam do domu kolejną dynię :
 Mam nadzieję, że i Wam posmakuje!
 Łapcie przepis na curry z dyni!!
 
-## Lista zakupów:
+## Lista zakupów
 
 * dynia  (po obraniu i wydrążeniu ok. 350g, czyli ok. 0,5kg należy kupić)
 * batat (jeden średniej wielkości)
@@ -53,7 +53,9 @@ a następnie pokroić w kostkę. W kostkę kroimy też obranego batata i cebulę
 Obieramy imbir i ścieramy go na tarce. 
 
 ![zdjecie]({{ site.url }}/assets/img/curry/1.png)
+
 ![zdjecie]({{ site.url }}/assets/img/curry/3.png)
+
 ![zdjecie]({{ site.url }}/assets/img/curry/2.png)
 
 Do rozgrzanej w garnku oliwy wsypujemy cebulę, po zeszkleniu dodajemy dynię i batata. Smażymy ok. 10/15 min na średnim ogniu, po połowie czasu dodajemy imbir, solimy, dodajemy pieprz, kurkumę i papryki (dużą ilość tej słodkiej).

@@ -3,11 +3,12 @@ layout: post
 title:  "Tort urodzinowy bez pszenicy i laktozy"
 subtitle: BEZ Piekarnia Bezglutenowa Kraków - trafiony, zatopiony!
 date:   2017-10-08
+facebook: assets/img/urodziny/polecane.jpg
 project: true
 comments: true
 ---
 
-![zdjecie]({{ site.url }}/assets/img/urodziny/1.jpg)
+![zdjecie]({{ site.url }}/assets/img/urodziny/tytul.jpg)
 
 "To będą moje pierwsze urodziny bez tortu!" 
 Tak pomyślałam kilka miesięcy temu i pewnie dokładnie tak by było, 
@@ -29,5 +30,7 @@ gusta.
 Na prawdę polecam, zwłaszcza, że cena jest przystępna (jak na torty urodzinowe) :)
 
 ![zdjecie]({{ site.url }}/assets/img/urodziny/2.jpg)
+
 ![zdjecie]({{ site.url }}/assets/img/urodziny/3.jpg)
+
 ![zdjecie]({{ site.url }}/assets/img/urodziny/4.jpg)

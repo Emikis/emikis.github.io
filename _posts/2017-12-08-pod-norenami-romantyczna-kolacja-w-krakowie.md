@@ -3,10 +3,12 @@ layout: post
 title:  "Krakowskie restauracje przyjazne alergikom vol. 2 - Pod Norenami"
 subtitle: Zastanawiacie się gdzie w Krakowie zjeść romantyczną kolację lub spotkać się z przyjaciółmi czy rodziną w miłej, spokojnej atmosferze? Jeśli szukacie czegoś oryginalnego, zapraszam...
 date:   2017-12-08
-facebook: assets/img/noreny/tytul.png
+facebook: assets/img/noreny/polecane.jpg
 project: true
 comments: true
 ---
+
+![zdjecie]({{ site.url }}/assets/img/noreny/tytul.jpg)
 
 Wczoraj po raz trzeci odwiedziłam **Restaurację Pod Norenami** i dopiero ta wizyta skłoniła mnie do polecenia jej Wam - alergikom. 
 Za pierwszym razem, będąc jeszcze na diecie FODMAP, niestety nie miałam praktycznie z czego wybierać. Oczywiście to nie wina restauracji! Pozostałym gościom każde danie smakowało, dla mnie jednak karta była praktycznie pusta. Zjadłam wówczas **LOHAN CAI**, czyli smażone warzywa z ryżem, które kucharz, specjalnie dla mnie, przyrządził bez czosnku, co oczywiście jest dużym plusem dla restauracji!
@@ -16,6 +18,7 @@ Podczas drugiej wizyty byłam już na mojej standardowej diecie - bez pszenicy, 
 I tak dochodzimy do wczorajszej, trzeciej wizyty. Skusiłam sie na zupę **MISOSHIRU TOFU TO WAKAME**, która była najlepszym miso jakie jadłam. Bulion był cudownie aromatyczny i zawierał na prawdę dużo dodatków. Moim największym odkryciem wieczoru było jednak **sushi**! Szczerze mówiąc nie wiem dlaczego wcześniej nigdy nie zwróciłam na nie w karcie uwagi i to był kardynalny błąd. Po trzech porcjach jestem zachwycona! Awokado rozpływało się w ustach, a każdy kawałek to małe dzieło sztuki (szczególnie nigiri abogado). W lokalu można dostać również bezglutenowy sos sojowy!
 
 ![zdjecie]({{ site.url }}/assets/img/noreny/1.png)
+
 ![zdjecie]({{ site.url }}/assets/img/noreny/2.png)
 
 Co ciekawe, wczoraj pierwszy raz udało mi się w Norenach zjeść deser. Bezglutenowe, wegańskie "brownie", które było niesamowicie czekoladowym tortem. Niestety zdjęć brak, bo za szybko ciasto zostało pochłonięte :)
