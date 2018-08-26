@@ -3,7 +3,7 @@ layout: post
 title:  "Spaghetti a'la arabiata"
 subtitle: Wegański, kukurydziany makaron.
 date:   2018-04-04
-facebook: assets/img/arabiata/tytul.jpg
+facebook: assets/img/arabiata/polecane.jpg
 comments: true
 tags:
 - wegetariańskie

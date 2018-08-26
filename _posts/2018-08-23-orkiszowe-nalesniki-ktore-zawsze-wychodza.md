@@ -2,7 +2,7 @@
 layout: post
 title:  "Orkiszowe naleśniki, które zawsze wychodzą"
 date:   2018-08-23
-facebook: assets/img/nalesniki/tytul.jpg
+facebook: assets/img/nalesniki/polecane.jpg
 comments: true
 tags:
 - wegetariańskie

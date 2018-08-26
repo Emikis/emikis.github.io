@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Najlepszy niedzielny obiad"
-subtitle: Panierowany kotlet z tofu, młoda kapustka i ziemniaki z koperkiem.
+title:  "Panierowany kotlet z tofu, młoda kapustka i ziemniaki z koperkiem"
+subtitle: Najlepszy niedzielny obiad!
 date:   2018-07-16
-facebook: assets/img/niedziela/tytul.jpg
+facebook: assets/img/niedziela/polecane.jpg
 comments: true
 tags:
 - wegetariańskie
@@ -21,7 +21,8 @@ tags:
 
 Kto powiedział, że nie jedząc mięsa nie można zjeść kotleta? Albo, że nie można zjeść "prawdziwego, polskiego obiadu"? To danie dowodzi, że jest to jak najbardziej możliwe! Proponuję zaserwować je każdemu niedowiarkowi. Na upanierowanie tofu w resztkach bezglutenowego chleba wpadł mój narzeczony, a pomysł tak mi się spodobał, że musiałam się z Wami nim podzielić! Tofu wychodzi idealnie chrupiące, a młode ziemniaki i młoda, podsmażana kapusta są świetnymi (co w sumie wiadomo nie od dziasiaj) do niego dodatkami. Świetnie jednak sprawdzają się również frytki i inne warzywne dodatki jak kiszone ogórki czy mizeria.
 
-## Lista zakupów:
+## Lista zakupów
+
 * tofu ok. 200g
 * bezglutenowa bułka tarta (można kupić gotową, chociaż jej skład jest zazwyczaj kosmiczny, albo, tak jak ja, zrobić ją z podpieczonych piętek bezglutenowego chleba)
 * 1/2 główki młodej kapusty

@@ -3,7 +3,7 @@ layout: post
 title:  "Koktajl na śniadanie?"
 subtitle: A dlaczego nie?
 date:   2018-03-27
-facebook: assets/img/koktajl/tytul.jpg
+facebook: assets/img/koktajl/polecane.jpg
 comments: true
 tags:
 - wegetariańskie

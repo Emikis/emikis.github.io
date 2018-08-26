@@ -2,7 +2,7 @@
 layout: post
 title:  "Wegańskie sajgonki"
 date:   2018-07-19
-facebook: assets/img/sajgonki/tytul.jpg
+facebook: assets/img/sajgonki/polecane.jpg
 comments: true
 tags:
 - wegetariańskie

@@ -3,7 +3,7 @@ layout: post
 title:  "Leczo"
 subtitle: wegańskie, pikantne i lekko wędzone.
 date:   2018-08-06
-facebook: assets/img/leczo/tytul.jpg
+facebook: assets/img/leczo/polecane.jpg
 comments: true
 tags:
 - wegetariańskie

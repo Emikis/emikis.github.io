@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Orkiszowe pączki z przepisu Babci Krysi"
+title:  "Orkiszowe pączki Babci Krysi"
 subtitle: Domowy, szybki sposób na Tłusty Czwartek.
 date:   2018-02-08
-facebook: assets/img/paczki/tytul.jpg
+facebook: assets/img/paczki/polecane.jpg
 comments: true
 tags:
 - wegetariańskie
@@ -36,6 +36,7 @@ Dodatkowo:
 Mąkę i cukier puder przesiewamy, ser gnieciemy w rękach. Łączymy wszystkie składniki na stolnicy, wyrabiamy. 
 
 ![zdjecie]({{ site.url }}/assets/img/paczki/2.jpg)
+
 ![zdjecie]({{ site.url }}/assets/img/paczki/3.jpg)
 
 Rozgrzewamy olej na patelni (ok. 1,5 cm warstwa). Rozwałkowujemy ciasto na grubość ok. 1,5 cm, wycinamy kółeczka o średnicy ok. 3cm. Smażymy na nie za gorącym oleju (pączki muszą się chwilę smażyć, żeby nie były surowe, a gdy olej będzie za gorący za szybko się spalą, ale nie będą gotowe).

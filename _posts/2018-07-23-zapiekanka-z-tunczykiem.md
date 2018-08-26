@@ -2,7 +2,7 @@
 layout: post
 title:  "Makaronowa zapiekanka z tuńczykiem"
 date:   2018-07-23
-facebook: assets/img/tunczyk/tytul.jpg
+facebook: assets/img/tunczyk/polecane.jpg
 comments: true
 tags:
 - tuńczyk

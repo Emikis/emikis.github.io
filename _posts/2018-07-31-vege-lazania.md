@@ -3,7 +3,7 @@ layout: post
 title:  "Vege lazania"
 subtitle: Tak pyszna, że nawet zapaleni mięsożercy nie zauważą braku mięsa!
 date:   2018-07-31
-facebook: assets/img/lazania/tytul.jpg
+facebook: assets/img/lazania/polecane.jpg
 comments: true
 tags:
 - soczewica

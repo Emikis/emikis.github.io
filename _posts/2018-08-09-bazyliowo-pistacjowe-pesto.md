@@ -2,7 +2,7 @@
 layout: post
 title:  "Pesto bazyliowo-pistacjowe"
 date:   2018-08-09
-facebook: assets/img/pesto/tytul.jpg
+facebook: assets/img/pesto/polecane.jpg
 comments: true
 tags:
 - wegetariańskie

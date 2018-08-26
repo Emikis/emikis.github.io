@@ -3,7 +3,7 @@ layout: post
 title:  "Zamienniki w kuchni alergika-wegetarianina,"
 subtitle: czyli co wrzucić do garnka, żeby lepiej smakowało i nie uczulało.
 date:   2018-08-03
-facebook: assets/img/zamienniki/tytul.jpg
+facebook: assets/img/zamienniki/polecane.jpg
 project: true
 comments: true
 ---

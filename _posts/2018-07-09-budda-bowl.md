@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Budda bowl"
+title:  "Buddha bowl"
 subtitle: Kolorowy, lekki, prosty w przygotowaniu lunch.
 date:   2018-07-09
-facebook: assets/img/budda/tytul.jpg
+facebook: assets/img/budda/polecane.jpg
 comments: true
 tags:
 - wegetariańskie
@@ -31,6 +31,7 @@ tags:
 Budda bowle to moje najnowsze odkrycie. Można je skomponować praktycznie ze wszystkich składników, które mamy w domu - od pomidorów przez makaron po resztki hummusu. Pasują też do każdej diety - bezglutenowej, wegańskiej, raw... Poniższa kompozycja jest jedynie przykładowa - wypróbujcie inne! Wystarczy jedynie włączyć wyobraźnię i otworzyć lodówkę. 
 
 ## Lista zakupów (na jedną porcję)
+
 * awokado (1/2)
 * [hummus](http://pokarmlove.com.pl/hummus/) ok. 2 łyżki
 * ciecierzyca z puszki (1/2)
@@ -45,7 +46,8 @@ Budda bowle to moje najnowsze odkrycie. Można je skomponować praktycznie ze ws
 * ocet ryżowy ok. 1/2 łyżeczki
 * cytryna (kilka kropel do awokado)
 
-## Inne możliwości:
+## Inne możliwości
+
 * fasola z puszki
 * kukurydza
 * pomidorki koktajlowe

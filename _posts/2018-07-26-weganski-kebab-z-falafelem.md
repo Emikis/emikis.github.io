@@ -2,7 +2,7 @@
 layout: post
 title:  "Wegański kebab z falafelem"
 date:   2018-07-26
-facebook: assets/img/falafel/tytul.jpg
+facebook: assets/img/falafel/polecane.jpg
 comments: true
 tags:
 - ciecierzyca

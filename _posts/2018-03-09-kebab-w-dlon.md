@@ -3,7 +3,7 @@ layout: post
 title:  "Wegetariański i bezpszeniczny KEBAB"
 subtitle: Który wegetarianin nie tęskni za kebabem niech pierwszy rzuci kamieniem!
 date:   2018-03-09
-facebook: assets/img/kebab/tytul.jpg
+facebook: assets/img/kebab/polecane.jpg
 comments: true
 tags:
 - wegetariańskie
@@ -22,7 +22,7 @@ tags:
 
 Od dawna przechodzenie koło budek z kebabami było dla mnie udręką. No bo jak zjeść kebab, który nie dość, że jest z mięsem, to jeszcze podawany w pszennej bułce i z czosnkowym sosem. Trzy razy nie. Zaraz jednak przypominam sobie, że w sumie to nawet kiedy jadłam mięso, to nęcił mnie tylko zapach kebabów, a jego mogłoby tam wcale nie być. Zaczęłam więc kombinować - jak zrobić danie, które kebabem będzie pachnieć, ale niekoniecznie smakować? Musiało też oczywiście być w bułce, bo bez bułki to przecież zwykłe "mięso" z warzywami na talerzu (jak o tym myślę, zawsze przypominam sobie propozycje "burgera na talerzu" wegańskich burgerowni dla osób, które nie mogą jeść pszenicy - przecież to nie burger...). No i wymyśliłam! Zapraszam:)
 
-## Lista zakupów (na ok. 4 kebaby):
+## Lista zakupów (na ok. 4 kebaby)
 
 * kapusta pekińska
 * pomidor
@@ -41,7 +41,7 @@ Od dawna przechodzenie koło budek z kebabami było dla mnie udręką. No bo jak
 * 3/4 szklanki ciepłej wody (takiej żeby nie zabić drożdży) 
 * cytryna
 
-## Przepis:
+## Przepis
 
 UWAGA! Tofu najlepiej zamarynować dzień wcześniej!
 

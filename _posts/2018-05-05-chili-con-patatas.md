@@ -3,7 +3,7 @@ layout: post
 title:  "Chili con patatas"
 subtitle: Wegańskie chili z ziemniakami.
 date:   2018-05-05
-facebook: assets/img/chili/tytul.jpg
+facebook: assets/img/chili/polecane.jpg
 comments: true
 tags:
 - wegetariańskie

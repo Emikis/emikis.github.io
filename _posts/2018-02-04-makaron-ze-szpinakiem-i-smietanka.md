@@ -3,7 +3,7 @@ layout: post
 title:  "Szpinak w roli głownej,"
 subtitle: czyli błyskawiczny kukurydziany makaron ze śmietanką, szpinakiem i suszonymi pomidorami...
 date:   2018-02-04
-facebook: assets/img/makaron/tytul.png
+facebook: assets/img/makaron/polecane.jpg
 comments: true
 tags:
 - wegetariańskie
@@ -17,7 +17,7 @@ tags:
 - bezlaktozowe 
 ---
 
-![zdjecie]({{ site.url }}/assets/img/makaron/tytul.png)
+![zdjecie]({{ site.url }}/assets/img/makaron/tytul.jpg)
 
 Nie przesadzę jeśli powiem, że moje życie zmieniło się na lepsze, gdy odkryłam, że nie szkodzą mi produkty mleczne bez laktozy (oprócz jednak mleka, którego w żadnej odsłonie nie mogę spożywać). Staram się nie jeść ich jednak zbyt często i w zbyt dużych ilościach ze względów światpoglądowych, ale weganką nie jestem i nie sądzę, że kiedykolwiek nią zostanę (jednak inne jajka niż 0 lub 1 nie przejdą mi przez gardło). Oprócz więc białego sera ze szczypiorkiem i tostów z żółtym serem na naszym stole zagościła odtłuszczona wersja ciężkiego, śmietanowego makaronu ze szpinakiem. Zapraszam po przepis!
 

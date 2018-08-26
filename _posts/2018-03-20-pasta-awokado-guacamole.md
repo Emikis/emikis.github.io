@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "¡Hola, guacamole!"
-subtitle: Najlepsza pasta z najlepszego owocu!
+subtitle: Najlepsza pasta z najlepszego owocu.
 date:   2018-03-20
-facebook: assets/img/guacamole/tytul.jpg
+facebook: assets/img/guacamole/polecane.jpg
 comments: true
 tags:
 - wegetariańskie

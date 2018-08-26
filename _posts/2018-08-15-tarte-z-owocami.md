@@ -2,7 +2,7 @@
 layout: post
 title:  "Mamine ciasto tarte z owocami"
 date:   2018-08-15
-facebook: assets/img/ciasto/tytul.jpg
+facebook: assets/img/placek/polecane.jpg
 comments: true
 tags:
 - wegetariańskie

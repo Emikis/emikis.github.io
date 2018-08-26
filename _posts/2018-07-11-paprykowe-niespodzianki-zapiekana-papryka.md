@@ -3,7 +3,7 @@ layout: post
 title:  "Paprykowe niespodzianki,"
 subtitle: czyli papryka zapiekana z warzywno-jaglanym farszem.
 date:   2018-07-11
-facebook: assets/img/papryka/tytul.jpg
+facebook: assets/img/papryka/polecane.jpg
 comments: true
 tags:
 - wegetariańskie

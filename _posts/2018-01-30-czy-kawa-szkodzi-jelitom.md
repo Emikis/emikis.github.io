@@ -3,14 +3,15 @@ layout: post
 title:  "Jak jest z tą kawą?"
 subtitle: Czy faktycznie źle wpływa na jelita?
 date:   2018-01-30
-facebook: assets/img/kawa/kawa.jpg
+facebook: assets/img/kawa/polecane.jpg
 project: true
 comments: true
 ---
 
-![zdjecie]({{ site.url }}/assets/img/kawa/kawa.jpg)
+![zdjecie]({{ site.url }}/assets/img/kawa/tytul.jpg)
 
 Moje doświadczenia z kawą są lekko mówiąc różne. Po pierwsze to właśnie przy piciu kawy z mlekiem dowiedziałam sie o nietolerancji laktozy. 
+
 Od tamtej pory przerzuciłam się na picie czarnej, mocnej kawy lub tej z roślinnym mlekiem. Niestety po pewnym czasie i taka kawa zaczęła mi szkodzić. Ból brzucha, biegunka... Podobno łącznie z bólem żołądka są to często występujące objawy u wielu ludzi. 
 Najczęściej kawa szkodziła mi wtedy, gdy piłam ją do śniadania, nie daj Boże na pusty żołądek lub połączona z sokiem pomarańczowym. Dlatego po przejściu na dietę FODMAP, choć kawa w małych ilościach jest w niej dozwolona, ja odrzuciłam ją całkowicie. Pozwoliło mi to pozbyć się przykrych problemów, jednak nie wiedziałam do końca czy to z powodu zmiany diety, czy nie picia kawy.
 
