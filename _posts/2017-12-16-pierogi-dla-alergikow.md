@@ -3,7 +3,7 @@ layout: post
 title:  "Bezpszeniczne pierogi - zmora alergików."
 subtitle: Nie wyobrażacie sobie wigilii bez pierogów? Ja też nie, dlatego postanowiłam poeksperymentować...
 date:   2017-12-16
-facebook: assets/img/pierogi/tytul.png
+facebook: assets/img/pierogi/polecane.jpg
 comments: true
 tags:
 - wegetariańskie
@@ -15,7 +15,7 @@ tags:
 - bezlaktozowe 
 ---
 
-![zdjecie]({{ site.url }}/assets/img/pierogi/tytul.png)
+![zdjecie]({{ site.url }}/assets/img/pierogi/tytul.jpg)
 
 ## Ponieważ dużymi krokami zbliża się wigilia, mam dla Was dzisiaj dwa przepisy na pierogi dla alergików. 
 

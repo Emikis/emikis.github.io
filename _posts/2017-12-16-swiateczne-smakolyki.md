@@ -3,20 +3,12 @@ layout: post
 title:  "Smakołyki nie tylko od święta"
 subtitle: Co alergik - wegetarianin może zjeść na przyjęciu świątecznym?
 date:   2017-12-20
-facebook: assets/img/christmas/tytul.png
+facebook: assets/img/christmas/polecane.jpg
+project: true
 comments: true
-tags:
-- wegetariańskie
-- wegańskie
-- sałatka
-- kuchnia polska
-- wigilia
-- przyjęcia
-- bezpszeniczne
-- bezlaktozowe 
 ---
 
-![zdjecie]({{ site.url }}/assets/img/christmas/tytul.png)
+![zdjecie]({{ site.url }}/assets/img/christmas/tytul.jpg)
 
 ![zdjecie]({{ site.url }}/assets/img/christmas/1.png)
 

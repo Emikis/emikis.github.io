@@ -3,7 +3,7 @@ layout: post
 title:  "Wegański sos seczuański"
 subtitle: Pikantny, sycący chiński "gulasz" idealny na zimowe wieczory.
 date:   2017-12-13
-facebook: assets/img/seczuanski/tytul.png
+facebook: assets/img/seczuanski/polecane.jpg
 comments: true
 tags:
 - wegetariańskie
@@ -19,7 +19,7 @@ tags:
 - bez laktozy
 ---
 
-![zdjecie]({{ site.url }}/assets/img/seczuanski/tytul.png)
+![zdjecie]({{ site.url }}/assets/img/seczuanski/tytul.jpg)
 
 Kiedyś jadłam sos seczuański w Restauracji Pod Norenami, o której pisałam [tu](http://pokarmlove.com.pl/pod-norenami-romantyczna-kolacja-w-krakowie/), jednak w składzie dania był czosnek, co obecnie dyskwalifikuje je dla mnie z menu. Spóbowałam jednak odtworzyć je w domu i wyszło całkiem nieźle! Łapcie przepis :)
 
