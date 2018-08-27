@@ -15,6 +15,17 @@ tags:
 - lunch
 - bezpszeniczne
 - bezglutenowe
+- kuchnia azjatycka
+- kuchnia bliskowschodnia
+- FODMAP
+- śniadanie
+- kolacja
+- bezlaktozowe
+- bez laktozy
+- vege
+- bez glutenu
+- bez pszenicy
+- bez cukru
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/jajka/tytul.jpg)
@@ -26,7 +37,7 @@ O garam masala usłyszałam kiedyś, oglądając jakieś show o gotowaniu kręco
 * 4 jajka (pamiętajmy, by były to te z pieczątką 0 lub 1, kury nam podziękują!)
 * puszka pomidorów
 * 1 cała papryka czerwona lub po 1/3 czerwonej, żółtej i zielonej (wtedy potrawa ma bardziej wyrazisty smak)
-* cebula 1/2 dużej lub 1 mała
+* cebula 1/2 dużej lub 1 mała (przy diecie FODMAP pomijamy)
 * garam masala 1 łyżeczka
 * natka pietruszki
 * ostra i słodka papryka (po łyżeczce)

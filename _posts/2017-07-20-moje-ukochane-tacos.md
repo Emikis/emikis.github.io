@@ -6,14 +6,29 @@ date:   2017-07-20
 facebook: assets/img/tacoski/polecane.jpg
 comments: true
 tags:
-- wegetariańskie
-- wegańskie
 - meksykańskie
 - tofu
 - tacos
+- taco
+- fasola
+- kukurydza
+- kolendra
+- pomidory
+- pomidor
+- awokado
+- bez laktozy
+- limonka
 - bezglutenowe
 - bezpszeniczne
 - bezlaktozowe
+- wegetariańskie
+- wegańskie
+- obiad
+- kolacja
+- vege
+- bez glutenu
+- bez pszenicy
+- bez cukru
 - FODMAP
 ---
 
@@ -24,6 +39,7 @@ Taco są po prostu pyszne i kropka. A do tego szybkie, łatwe i nie chcą się z
 ## Przepis I
 
 ## Lista zakupów
+
 * paczka taco (opcjonalnie te same składniki można zawinąć w kukurydzianą tortillę)
 * pomidor
 * ogórek
@@ -45,7 +61,8 @@ Wszystkie składniki pakujemy do taco w dowolnych proporcjach.
 
 ## Przepis II (nie dla diety FODMAP)
 
-## Lista zakupów:
+## Lista zakupów
+
 * paczka taco
 * puszka czerwonej fasoli
 * puszka kukurydzy
@@ -57,4 +74,5 @@ Wszystkie składniki pakujemy do taco w dowolnych proporcjach.
 Fasolę i kukurydzę odsączamy z zalewy, pomidory kroimy w kostkę. Smażymy na małym ogniu do uzyskania zwartej, odparowanej masy. Doprawiamy papryką i kolendrą. Odrobiną majonezu i gulaszem nadziewamy taco.
 
 ![zdjecie]({{ site.url }}/assets/img/tacoski/1.png)
+
 ![zdjecie]({{ site.url }}/assets/img/tacoski/2.png)

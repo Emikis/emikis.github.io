@@ -7,13 +7,23 @@ facebook: assets/img/bananowe/polecane.jpg
 comments: true
 tags:
 - wegetariańskie
-- wegańskie
 - słodycze
 - czekolada
 - deser
 - wypieki
 - bezglutenowe
 - bezpszeniczne
+- bezlaktozowe
+- vege
+- bez glutenu
+- bez pszenicy
+- bez laktozy
+- FODMAP
+- mąka ryżowa
+- banan
+- kakao
+- mleko roślinne
+- jajko
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/bananowe/tytul.jpg)

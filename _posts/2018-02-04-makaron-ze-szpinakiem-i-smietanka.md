@@ -8,6 +8,7 @@ comments: true
 tags:
 - wegetariańskie
 - kuchnia włoska
+- włoskie
 - makaron
 - szpinak
 - śmietanka
@@ -15,6 +16,15 @@ tags:
 - bezpszeniczne
 - bezglutenowe
 - bezlaktozowe 
+- lunch
+- obiad
+- bez laktozy
+- kolacja
+- vege
+- bez glutenu
+- bez pszenicy
+- bez cukru
+- suszone pomidory
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/makaron/tytul.jpg)
@@ -32,7 +42,7 @@ Nie przesadzę jeśli powiem, że moje życie zmieniło się na lepsze, gdy odkr
 * pieprz
 * suszone pomidory (ilość według uznania - ok. 5-7)
 
-## Przepis:
+## Przepis
 
 Bardzo dokładnie płuczemy szpinak (nie smakuje dobrze, gdy piasek zgrzyta w zębach :D). Gotujemy wodę na makaron. Na patelni rozgrzewamy oliwę, kroimy cebulę w drobną kostkę i smażymy ok. 3 minuty (aż będzie zarumieniona). Dodajemy szpinak i dusimy co jakiś czas mieszając, do momentu gdy odparuje z niego woda i będzie "oklapnięty". Wtedy wlewamy na patelnię śmietankę, doprawiamy solą i pieprzem i odparowujemy do uzyskania odpowiedniej konsystencji (tutaj według uznania, ja na przykład nie lubię, gdy makaron w śmietance pływa). Na sam koniec dodajemy do sosu pokrojone na mniejsze kawałki suszone pomidory i makaron i dokładnie mieszamy. Smacznego!
 

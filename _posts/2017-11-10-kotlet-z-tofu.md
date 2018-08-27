@@ -18,6 +18,17 @@ tags:
 - buraczki
 - bezglutenowe
 - bezpszeniczne
+- kuchnia polska
+- FODMAP
+- lunch
+- obiad
+- bezlaktozowe
+- bez laktozy
+- kolacja
+- vege
+- bez glutenu
+- bez pszenicy
+- bez cukru
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/obiad/tytul.jpg)

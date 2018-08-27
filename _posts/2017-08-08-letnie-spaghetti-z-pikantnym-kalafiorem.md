@@ -12,6 +12,18 @@ tags:
 - makaron
 - bezglutenowe
 - bezpszeniczne
+- bezlaktozowe
+- bez laktozy
+- obiad
+- kolacja
+- vege
+- bez glutenu
+- bez pszenicy
+- bez cukru
+- makaron
+- pomidory
+- natka
+- pietruszka
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/spaghetti/tytul.jpg)
@@ -22,14 +34,15 @@ W lecie dużo łatwiej o świeże warzywa a ich różnorodność w porównaniu z
 
 * kalafior średniej wielkości
 * 2 puszki pomidorów
-* suszona papryczka chilli lub płatki czerwonego pieprzu
+* suszona papryczka chili lub płatki czerwonego pieprzu
 * ok. 300g makaronu kukurydzianego
 * natka pietruszki (pół pęczka)
-* parmezan (jeśli nie szkodzi nam laktoza)
+* parmezan bez laktozy
 
 ## Przepis
 
 Kalafiora dzielimy na różyczki (najmniejsze jak się da) i gotujemy w osolonej wodzie ok. 4 minuty. Gotujemy makaron zgodnie z instrukcją na opakowaniu. Na oliwie podsmażamy papryczkę, następnie dodajemy pomidory i kalafiora i smażymy ok. 10 minut. Na koniec dodajemy posiekaną pietruszkę i parmezan.
 
 ![zdjecie]({{ site.url }}/assets/img/spaghetti/img1.png)
+
 ![zdjecie]({{ site.url }}/assets/img/spaghetti/img2.png)

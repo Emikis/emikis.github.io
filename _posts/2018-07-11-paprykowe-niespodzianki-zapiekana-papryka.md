@@ -9,6 +9,7 @@ tags:
 - wegetariańskie
 - wegańskie
 - kasza jaglana
+- kasza
 - obiad
 - kolacja
 - bezglutenowe
@@ -17,20 +18,27 @@ tags:
 - marchewka
 - pietruszka
 - pomidory
-- cebula
+- FODMAP
+- bezlaktozowe
+- bez laktozy
+- vege
+- bez glutenu
+- bez pszenicy
+- bez cukru
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/papryka/tytul.jpg)
 
 Lato latem, ale pogoda nas nie rozpieszcza... Może w takim razie rozpieścić się samemu pysznym jedzeniem? Na przykład idealną na kolację w zimny wieczór we dwoje zapiekaną papryką!
 
-## Lista zakupów:
+## Lista zakupów
+
 * 3 papryki czerwone
 * ok. 80g kaszy jaglanej (suchej)
 * marchewka
 * pietruszka (korzeń)
 * pomidor
-* czerwona cebula
+* czerwona cebula (przy diecie FODMAP pomijamy)
 * pietruszka zielona
 * cynamon
 * ostra papryka mielona

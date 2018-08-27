@@ -9,17 +9,33 @@ tags:
 - wegańskie
 - chińskie
 - przekąska
+- impreza
 - kuchnia azjatycka
 - bezglutenowe
 - bezpszeniczne
 - kolacja
+- kuchnia chińska
+- FODMAP
+- pędy bambusa
+- makaron ryżowy
+- imbir
+- obiad
+- bezlaktozowe
+- bez laktozy
+- vege
+- bez glutenu
+- bez pszenicy
+- bez cukru
+- warzywa
+
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/sajgonki/tytul.jpg)
 
 Przez ostatnie lata diety widząc sajgonki w menu restauracji azjatyckich byłam pewna, że nie mogę ich zjeść - albo ze względu na  pszenicę albo na inne dodatki jak czosnek, dlatego nawet nie pytałam o ich skład - po prostu ich nie jadłam. To zmieniło się, kiedy zobaczyłam przykładowy przepis na sajgonki na opakowaniu chińskiej mieszanki warzywnej - olśniło mnie! Wystaczy tylko podsmażyć warzywa, zawinąć w papier ryżowy i usmażyć, żeby cieszyć się tym wyjątkowym daniem. W czasie jego przygotowania można się ponadto świetnie bawić :)
 
-## Lista zakupów:
+## Lista zakupów
+
 * chińska mieszanka mrożonych warzyw 
 * makaron ryżowy ok. 100g
 * papier ryżowy (ok. 8-12 arkuszy, w zależności od wielkości sajgonek)

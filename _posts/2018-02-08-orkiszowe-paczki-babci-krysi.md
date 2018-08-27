@@ -9,13 +9,24 @@ tags:
 - wegetariańskie
 - pączki
 - słodycze
+- tłusty czwartek
 - bezpszeniczne
 - bezlaktozowe 
+- bezpszeniczne
+- orkisz
+- mąka orkiszowa
+- ser
+- ser biały
+- twargóg
+- bez laktozy
+- vege
+- bez pszenicy
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/paczki/tytul.jpg)
 
-## Lista zakupów: (na ok. 25 małych pączków)
+## Lista zakupów (na ok. 25 małych pączków)
+
 * 25 dag sera białego bez laktozy
 * 25 dag mąki orkiszowej tortowej
 * 1 jajko
@@ -31,7 +42,7 @@ Dodatkowo:
 
 ![zdjecie]({{ site.url }}/assets/img/paczki/1.jpg)
 
-## Przepis:
+## Przepis
 
 Mąkę i cukier puder przesiewamy, ser gnieciemy w rękach. Łączymy wszystkie składniki na stolnicy, wyrabiamy. 
 

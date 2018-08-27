@@ -6,17 +6,28 @@ date:   2017-11-19
 facebook: assets/img/curry/polecane.jpg
 comments: true
 tags:
-- wegetariańskie
-- wegańskie
 - bataty
+- batat
 - kuchnia indyjska
 - warzywa
 - dynia
 - curry
+- soczewica
 - gulasz
 - imbir
 - bezglutenowe
 - bezpszeniczne
+- wegetariańskie
+- wegańskie
+- lunch
+- obiad
+- bezlaktozowe
+- bez laktozy
+- kolacja
+- vege
+- bez glutenu
+- bez pszenicy
+- bez cukru
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/curry/tytul.jpg)

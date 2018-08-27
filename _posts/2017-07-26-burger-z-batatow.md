@@ -8,13 +8,27 @@ comments: true
 tags:
 - wegetariańskie
 - lunch
-- obiad
 - fast food
 - burger
 - bezglutenowe
 - bezpszeniczne
 - bezlaktozowe
+- bez laktozy
+- wegańskie
+- obiad
+- kolacja
+- vege
+- bez glutenu
+- bez pszenicy
+- bez cukru
 - FODMAP
+- batat
+- kasza
+- kasza jaglana
+- tahini
+- mąka amarantusowa
+- mięta
+- kolendra
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/burger-bataty/tytul.jpg)
@@ -23,7 +37,7 @@ Tak to jest z tym “zdrowym” fast foodem, że wcale nie jest taki “fast” 
 
 **Burger z batatów a'la Jadłonomia** jest niesamowity! Rozpływa się w ustach, jest idealnie zwarty i soczysty. Całkowity czas jego przygotowywania to ok. 1,5 godziny, ponieważ trzeba upiec bataty w piekarniku. 
 
-## Lista zakupów:
+## Lista zakupów
 
 * bataty 200g
 * kasza jaglana 90ml (suchej)
@@ -49,6 +63,8 @@ Opcjonalnie:
 * ketchup (Develey Premium nie zawiera “przypraw” w których może czaić się czosnek, glutenu, ani syropu glukozowo-fruktozowego, którego wykluczamy w diecie FODMAP)
 * musztarda (Develey Dijon - bezglutenowa, bez “przypraw” j.w.)
 * majonez (niestety nie znalazłam jeszcze żadnego, który byłby odpowiedni dla diety FODMAP, można jednak zrobić go samemu w domu)
+
+## Przepis
 
 Batata z łupce zawijamy w folię aluminiową i pieczemy w 220 stopniach aż będzie miękki. W tym czasie gotujemy kaszę jaglaną (zgodnie z instrukcją na opakowaniu), kroimy cebulę, zioła, prażymy sezam. Batata po lekkim wystudzeniu obieramy i przeciskamy przez praskę do ziemniaków lub blendujemy. Dodajemy pozostałe składniki. Jeśli mamy blender - blendujemy, jeśli nie, nie jest to konieczne, choć burgery będą wtedy dużo bardziej sypkie (na zdjęciach właśnie taki “niezblendowany” kotlet, gdyż nasz biedny blender poszedł do sanatorium). Formujemy kotlety i grilujemy na elektrycznym grillu (myślę, że taki na węgiel sprawdziłby się jeszcze lepiej lub pieczemy w piekarniku (tego wariantu nie próbowałam, lecz Jadłonomia poleca, by rozgrzać piekarnik do 200 stopni i piec przez ok. 20 minut, później przewrócić i piec kolejne 10 minut)
 

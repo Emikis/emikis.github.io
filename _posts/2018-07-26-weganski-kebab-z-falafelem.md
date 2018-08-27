@@ -10,25 +10,32 @@ tags:
 - kolendra
 - bezpszeniczne
 - pietruszka
+- natka
 - mąka orkiszowa
-- jogurt
+- orkisz
 - ogórek
 - pomidory
 - kapusta pekińska
+- kapusta
+- sałata
 - sałata lodowa
 - kebab
+- laffa
 - bez laktozy
-- wegetariańskie
-- wegańskie
 - obiad
 - fast food
+- wegetariańskie
+- bezlaktozowe
+- kolacja
+- vege
+- bez pszenicy
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/falafel/tytul.jpg)
 
 To już drugi przepis na wegański kebab na Blogu ([tu](http://pokarmlove.com.pl/kebab-w-dlon/) przepis na kebab z tofu). Ten pierwszy tak nam posmakował, że zaczęłam kombinować jakby tu wymyślić jakąś inną kombinację smakową. Muszę przyznać, że z pomocą przyszły mi wszędobylskie budki z kebabami, które teraz na wyścigi zaczęły serwować falafel w każdym możliwym wydaniu - też jako kebab. Pomysł tak mi się spodobał, że spróbowaliśmy oddtworzyć go sami w domu, z dozwolonych składników. Oczywiście z pomocą przyszedł nam najlepszy na świecie przepis Wegan Nerd na falafele (jeśli macie jej książkę, a jeśli nie to i tak polecam z całego serca ją kupić <3 i wypróbowany już niezliczoną ilość razy przepis na orkiszowe pity.
 
-## Lista zakupów (na ok. 4 kebaby):
+## Lista zakupów (na ok. 4 kebaby)
 
 * kapusta pekińska/sałata lodowa
 * pomidor
@@ -65,7 +72,7 @@ Jeżeli zdecydujecie się postępować zgodnie z załączonym powyżej przepisem
 
 ![zdjecie]({{ site.url }}/assets/img/falafel/2.jpg)
 
-## Przepis na bułki:
+## Przepis na bułki
 
 Mąkę, drożdże, szczyptę soli i pół łyżki cukru mieszamy i przesiewamy. Dodajemy łyżkę oliwy i przygotowaną wodę i mieszamy. Ciasto najprawdopodobniej wyjdzie zbyt kleiste lub zbyt suche, wtedy dodajemy odpowiednio więcej mąki lub więcej wody. Ciasto smarujemy odrobiną oliwy i w wysmarowanej oliwą misce odstawiamy w ciepłe miejsce na ok. 30 minut. Kiedy ciasto wyrośnie dzielimy je na 4 części i formujemy bułki (okrągłe placki grube na 1,5-2cm) i pieczemy w piekarniku rozgrzanym do 220 C aż będą suche w środku (sprawdzamy wykałaczką).
 

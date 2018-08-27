@@ -11,7 +11,6 @@ tags:
 - makaron ryżowy
 - makaron z fasoli
 - lunch
-- kolacja
 - bezglutenowe
 - bezpszeniczne
 - ciecierzyca
@@ -24,6 +23,15 @@ tags:
 - fasola
 - kukurydza
 - raw
+- FODMAP
+- obiad
+- bezlaktozowe
+- bez laktozy
+- kolacja
+- vege
+- bez glutenu
+- bez pszenicy
+- bez cukru
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/budda/tytul.jpg)

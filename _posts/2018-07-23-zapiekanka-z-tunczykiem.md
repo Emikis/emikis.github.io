@@ -14,13 +14,25 @@ tags:
 - mozarella
 - bazylia
 - pomidory
+- włoskie
+- kuchnia włoska
+- lunch
+- obiad
+- bezlaktozowe
+- bez laktozy
+- kolacja
+- mozarella
+- bez glutenu
+- bez pszenicy
+- bez cukru
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/tunczyk/tytul.jpg)
 
 Przepis na makaron z tuńczykiem wymyśliłam jeszcze nie będąc na diecie bezpszenicznej - wtedy zapiekałam farsz z tuńczykiem w dużych makaronowych muszlach (conchiglioni). Niestety nigdzie nie mogę znaleźć tego typu bezglutenowego makaronu. Spróbowałam zatem przerobić to danie tak, żeby można je było ugotować z dostępnych (w miarę) powszechnie składników.
 
-## Lista zakupów:
+## Lista zakupów
+
 * makaron kukurydziany (np. lasagne corte) ok. 200 g (suchego)
 * puszka tuńczyka w kawałkach w oleju
 * czarne oliwki (ok. 15)

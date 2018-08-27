@@ -12,14 +12,13 @@ comments: true
 
 ![zdjecie]({{ site.url }}/assets/img/christmas/1.png)
 
-
 Będą to moje pierwsze święta bez pszenicy, dlatego już tydzień wcześniej zabrałam się do zbierania i próbowania przepisów. Co mogę Wam z całego serca polecić?
 
 # 1. SAŁATKA KOKTAJLOWA
 
 ![zdjecie]({{ site.url }}/assets/img/christmas/salatka.png)
 
-## Lista zakupów:
+## Lista zakupów
 
 * puszka ciecierzycy
 * seler naciowy (ok. 5 łodyg)
@@ -34,13 +33,14 @@ Będą to moje pierwsze święta bez pszenicy, dlatego już tydzień wcześniej 
 * sól
 * oliwa
 
-## Przepis:
+## Przepis
 
 Winogrona kroimy na połówki. Ciecierzycę smażymy na oliwie, doprawiamy solą i pieprzem. Selera naciowego i morele kroimy na paseczki. Z jogurtu, majonezu, cytryny, miodu i przypraw robimy sos. Sałatka jest przepyszna!
 
 # 2. SMALEC Z FASOLI
 
-## Lista zakupów:
+## Lista zakupów
+
 * biała fasola (1 szklanka)
 * cebula
 * 4 suszone śliwki
@@ -61,7 +61,7 @@ Winogrona kroimy na połówki. Ciecierzycę smażymy na oliwie, doprawiamy solą
 
 # 3. PASZTET Z FASOLI:
 
-## Lista zakupów:
+## Lista zakupów
 
 * szklanka białej fasoli
 * 100g kaszy jaglanej

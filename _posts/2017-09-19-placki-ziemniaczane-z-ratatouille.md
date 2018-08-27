@@ -16,6 +16,21 @@ tags:
 - kuchnia polska
 - bezglutenowe
 - bezpszeniczne
+- lunch
+- bezlaktozowe
+- bez laktozy
+- obiad
+- kolacja
+- vege
+- bez glutenu
+- bez pszenicy
+- bez cukru
+- FODMAP
+- cukinia
+- bakłażan
+- papryka
+- marchewka
+- pomidory
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/placki/tytul.jpg)
@@ -28,7 +43,7 @@ PS. Gulasz można oczywiście jeść z innym dodatkiem jak np. makaron, ale loja
 ## Lista zakupów
 
 * ziemniaki 1kg
-* 1 jajko
+* 1 jajko (jajko można zastąpić mąką z ciecierzycy)
 * gałka muszkatołowa
 * oliwa (ok. 3 łyżki, ale więcej nie zaszkodzi - będą bardziej chrupiące)
 * cukinia

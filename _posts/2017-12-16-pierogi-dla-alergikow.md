@@ -7,12 +7,31 @@ facebook: assets/img/pierogi/polecane.jpg
 comments: true
 tags:
 - wegetariańskie
+- ser biały
 - wegańskie
 - kuchnia polska
 - wigilia
 - kasza gryczana
 - bezpszeniczne
 - bezlaktozowe 
+- ziemniaki
+- ser
+- twaróg
+- orkisz
+- mąka orkiszowa
+- kasza gryczana
+- mąka gryczana
+- mąka ziemniaczana
+- lunch
+- obiad
+- bezlaktozowe
+- bez laktozy
+- kolacja
+- vege
+- bez pszenicy
+- bez cukru
+- bez glutenu
+- bezglutenowe
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/pierogi/tytul.jpg)
@@ -23,7 +42,8 @@ Pierwszy - **pierogi z mąki orkiszkowej** - to prawdziwy strzał w dziesiątkę
 
 ## Przepis nr 1 (ok. na ok. 60 pierogów)
 
-## Lista zakupów:
+## Lista zakupów
+
 * ziemniaki 1kg
 * cebula
 * twaróg wiejski półtłusty bez laktozy (ok. 100g - jeśli ktoś lubi bardziej serowe pierogi, wtedy dodajemy go więcej)
@@ -63,7 +83,8 @@ Kilka tygodni temu z zaprzyjaźnioną Panią, która z pewnością pierogi lepi�
 
 ## Przepis nr 2 (ok. 25 pierogów jeśli umiemy je lepić tak, aby się nie rozpadały)
 
-## Lista zakupów:
+## Lista zakupów
+
 * 250g mąki gryczanej
 * 100g mąki ziemniaczanej
 * 100g kaszy gryczanej prażonej
@@ -75,6 +96,8 @@ Kilka tygodni temu z zaprzyjaźnioną Panią, która z pewnością pierogi lepi�
 * przygotowujemy 250ml wrzątku
 
 ![zdjecie]({{ site.url }}/assets/img/pierogi/img.png)
+
+## Przepis
 
 Gotujemy kaszę gryczaną zgodnie z instrukcją na opakowaniu. Mieszamy z serem, posiekanymi ziołami, solą i pieprzem.
 Wyrabiamy ciasto. Na blat wysypujemy zmieszane mąki, robimy dziurkę i wlewamy po trochę wrzątku. Masę mieszamy widelcem, a gdy cała woda wsiąknie zaczynamy wyrabiać rękami. Nie należy podsypywać mąką, ani dodawać jej więcej niż wskazane jest w przepisie, bo ciasto będzie się jeszcze bardziej rozklejać. Ciasto rozwałkowujemy (między dwoma arkuszami papieru do pieczenia, bo wtedy nie będzie się tak kleić) i wykrawamy kółka. Nakładamy farsz (na tyle mało, aby pierogi się nie rozdzierały) i sklejamy, najlepiej dociskając brzegi widelcem. Jak najszybciej gotujemy w osolonej wodzie, aż będą miękkie.

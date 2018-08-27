@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mocno czekoladowe brownie"
+title:  "Kokosowy jagielnik"
 subtitle: Szybkie, proste ciasta, które zaspokoją ochotę na cukier każdego alergika.
 date:   2017-08-28
 facebook: assets/img/jagielnik/polecane.jpg
@@ -9,11 +9,25 @@ tags:
 - wegetariańskie
 - wegańskie
 - słodycze
-- czekolada
 - deser
 - wypieki
 - bezglutenowe
 - bezpszeniczne
+- bezlaktozowe
+- bez laktozy
+- vege
+- bez glutenu
+- bez pszenicy
+- FODMAP
+- owoce
+- maliny
+- borówki
+- jagody
+- kasza
+- kasza jaglana
+- mleko roślinne
+- wiórki kokosowe
+- kokos
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/jagielnik/tytul.jpg)

@@ -13,6 +13,16 @@ tags:
 - wypieki
 - bezglutenowe
 - bezpszeniczne
+- vege
+- bez glutenu
+- bez pszenicy
+- bezglutenowe
+- bezlaktozowe
+- bez laktozy
+- jajka
+- mąka ryżowa
+- mąka kukurydziana
+- mąka ziemniaczana
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/brownie/tytul.jpg)

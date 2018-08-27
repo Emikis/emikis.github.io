@@ -13,6 +13,25 @@ tags:
 - kuchnia azjatycka
 - bezglutenowe
 - bezpszeniczne
+- lunch
+- bezlaktozowe
+- bez laktozy
+- obiad
+- kolacja
+- vege
+- bez glutenu
+- bez pszenicy
+- bez cukru
+- pietruszka
+- natka
+- glony 
+- wakame
+- nori
+- seler
+- por 
+- marchewka
+- grzyby mun
+- grzyby shitake
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/miso/tytul.jpg)

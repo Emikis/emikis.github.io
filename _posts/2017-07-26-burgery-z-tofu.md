@@ -6,16 +6,26 @@ date:   2017-07-26
 facebook: assets/img/burger-tofu/polecane.jpg
 comments: true
 tags:
-- wegetariańskie
 - lunch
-- obiad
 - fast food
 - tofu
 - burger
 - bezglutenowe
 - bezpszeniczne
 - bezlaktozowe
+- wegetariańskie
+- wegańskie
+- obiad
+- kolacja
+- vege
+- bez glutenu
+- bez pszenicy
+- bez cukru
+- bez laktozy
 - FODMAP
+- hummus
+- cukinia
+- papryka
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/burger-tofu/tytul.jpg)
@@ -26,9 +36,9 @@ Tak to jest z tym “zdrowym” fast foodem, że wcale nie jest taki “fast” 
 
 Stare, dobre tofu. Tym daniem przekonałam swoją siostrę do jedzenia wegetariańskich burgerów, więc jest on dla mnie wyjątkowo ważny. Dodatkowo przepis jest w pełni autorski.
 
-# Przepis wersja I:
+# Przepis wersja I
 
-## Lista zakupów:
+## Lista zakupów
 
 * tofu ok. 200g
 * bułki do burgerów bezglutenowe
@@ -40,11 +50,13 @@ Stare, dobre tofu. Tym daniem przekonałam swoją siostrę do jedzenia wegetaria
 Opcjonalnie:
 * dodatki: sałata, kiełki, pomidor, ogórek, papryka, szpinak, awokado, sosy.
 
+## Przepis
+
 Tofu marynujemy w ketchupie i przyprawach, najlepiej dzień wcześniej - im dłużej tofu się marynuje tym lepsze będą burgery. Kotleciki smażymy na patelni grilowej lub zwykłej z dodatkiem odrobiny tłuszczu. Podajemy z dodatkami.
 
-# Przepis wersja II:
+# Przepis wersja II
 
-## Lista zakupów:
+## Lista zakupów
 
 * tofu ok. 100g
 * bułki do burgerów bezglutenowe
@@ -57,6 +69,9 @@ Tofu marynujemy w ketchupie i przyprawach, najlepiej dzień wcześniej - im dłu
 * hummus (najlepiej [ten](http://pokarmlove.com.pl/hummus/) domowej roboty, ok. 1 łyżki na jednego burgera)
 * opcjonalnie inne warzywa (np. pomidor)
 
+## Przepis
+
 Tofu marynujemy w sosie sojowym i occie ryżowym. Czerwoną cebulę kroimy w pióra, paprykę na grube paski a cukinię w plastry. Warzywa grilujemy na patelni grilowej z dodatkiem niewielkiej ilości oleju. 
+
 Bułkę przekrawamy i podpiekamy w piekarniku. Smarujemy obie połówki hummusem i nakładamy resztę dodatków:)
 

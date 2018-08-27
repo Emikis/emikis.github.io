@@ -16,6 +16,19 @@ tags:
 - kuchnia wschodnia
 - gyros
 - bezpszeniczne
+- bezglutenowe
+- bezlaktozowe
+- bez laktozy
+- kolacja
+- vege
+- bez glutenu
+- bez pszenicy
+- kapusta
+- kapusta pekińska
+- pomidory
+- mąka orkiszowa
+- laffa
+- fast food
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/kebab/tytul.jpg)

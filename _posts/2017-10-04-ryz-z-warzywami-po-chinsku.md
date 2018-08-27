@@ -4,8 +4,29 @@ title:  "Ryż z warzywami po chińsku"
 subtitle: Lunche do zabrania ze sobą i odgrzania w pracy
 date:   2017-10-04
 facebook: assets/img/ryz/polecane.jpg
-project: true
 comments: true
+tags:
+- wegetariańskie
+- wegańskie
+- kuchnia chińska
+- chińskie
+- FODMAP
+- pędy bambusa
+- ryż
+- mieszanka chińska
+- warzywa
+- tofu
+- bezglutenowe
+- bezpszeniczne
+- lunch
+- obiad
+- bezlaktozowe
+- bez laktozy
+- kolacja
+- vege
+- bez glutenu
+- bez pszenicy
+- bez cukru
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/ryz/tytul.jpg)

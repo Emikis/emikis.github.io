@@ -12,11 +12,30 @@ tags:
 - kuchnia azjatycka
 - warzywa
 - papryka
+- pieczarki
+- mąka kukurydziana
+- pietruszka
+- natka
 - gulasz
 - tofu
 - bezglutenowe
 - bezpszeniczne
 - bez laktozy
+- kuchnia chińska
+- chińskie
+- FODMAP
+- pędy bambusa
+- makaron ryżowy
+- marchewka
+- lunch
+- obiad
+- bezlaktozowe
+- bez laktozy
+- kolacja
+- vege
+- bez glutenu
+- bez pszenicy
+- bez cukru
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/seczuanski/tytul.jpg)
@@ -36,7 +55,7 @@ Kiedyś jadłam sos seczuański w Restauracji Pod Norenami, o której pisałam [
 * sól
 * cukier
 * olej/oliwa
-* suszone chilli (jeśli ktoś preferuje bardziej pikantną wersję, proponuję świeżą papryczkę)
+* suszone chili (jeśli ktoś preferuje bardziej pikantną wersję, proponuję świeżą papryczkę)
 * słodka papryka
 * imbir
 * przecier pomidorowy (4 łyżeczki)
@@ -45,7 +64,7 @@ Kiedyś jadłam sos seczuański w Restauracji Pod Norenami, o której pisałam [
 * ok. 100g fistaszków w łupkach
 * ryż lub makaron gryczany
 
-## Przepis:
+## Przepis
 
 Warzywa obieramy (oprócz papryki). Kroimy na dość duże kawałki.
 
@@ -64,6 +83,7 @@ Sos jest gotowy, gdy jesteśmy zadowoleni z jego konsystencji:)
 Na koniec obieramy orzeszki, siekamy pietruszkę i posypujemy nimi danie.
 
 ![zdjecie]({{ site.url }}/assets/img/seczuanski/3.png)
+
 ![zdjecie]({{ site.url }}/assets/img/seczuanski/4.png)
 
 PS. Za pierwszym razem, gdy robiłam sos seczuański w domu zdecydowanie przesadziłam z ilością ostrej papryki, także radzę na nią uważać! Przygotowanie dania jest dość czasochłonne, jednak smakuje on zdecydowanie lepiej niż "gotowce" ze słoików, a przede wszystkim mamy pewność, że wszystkie produkty, jakie dodaliśmy na patelnię nam nie zaszkodzą!

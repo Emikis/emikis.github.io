@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Szaszłyki z grilla."
+title:  "Szaszłyki z grilla"
 subtitle: “Nie wiesz co zjeść w gorący dzień a czasu masz pod dostatkiem? Grill!”
 date:   2017-06-22
 facebook: assets/img/szaszlyki/polecane.jpg
@@ -8,11 +8,23 @@ comments: true
 tags:
 - wegetariańskie
 - wegańskie
+- obiad
+- kolacja
+- vege
+- bez glutenu
+- bez pszenicy
+- bez cukru
+- bezglutenowe
+- bez laktozy
+- bezpszeniczne
+- bezlaktozowe
+- bez laktozy
+- papryka
+- pomidorki koktajlowe
 - grill
+- lato
 - tofu
 - cukinia
-- bezglutenowe
-- bezpszeniczne
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/szaszlyki/tytul.jpg)
@@ -22,7 +34,8 @@ A koniecznie szaszłyki inspirowane [Jadłonomią](http://www.jadlonomia.com/). 
 Moje szaszłyki są kompozycją z papryki, cukinii, pomidorków koktajlowych i tofu. Marynata została pozbawiona oryginalnie użytego w przepisie czosnku, nie jest to niestety idealna propozycja dla stosujących dietę FODMAP, gdyż zalewa składa się w dużej części z miodu, który nie jest w niej dozwolony.
 Uwaga! Tofu zamarynować należy dzień wcześniej!
 
-## Lista zakupów:
+## Lista zakupów
+
 * ok. 100g tofu
 * ½ papryki (u mnie czerwona, ale żółta też się sprawdzi)
 * ½ cukinii zielonej

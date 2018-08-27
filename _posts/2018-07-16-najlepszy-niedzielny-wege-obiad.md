@@ -14,7 +14,13 @@ tags:
 - bezpszeniczne
 - kapusta
 - przecier pomidorowy
-- cebula
+- bezlaktozowe
+- bez laktozy
+- kolacja
+- vege
+- bez glutenu
+- bez pszenicy
+- bez cukru
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/niedziela/tytul.jpg)

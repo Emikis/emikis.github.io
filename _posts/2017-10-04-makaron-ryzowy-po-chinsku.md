@@ -4,8 +4,27 @@ title:  "Makaron ryżowy po chińsku"
 subtitle: Lunche do zabrania ze sobą i odgrzania w pracy
 date:   2017-10-04
 facebook: assets/img/ryzowy/polecane.jpg
-project: true
 comments: true
+tags:
+- wegetariańskie
+- wegańskie
+- kuchnia chińska
+- chińskie
+- FODMAP
+- pędy bambusa
+- makaron ryżowy
+- marchewka
+- bezglutenowe
+- bezpszeniczne
+- lunch
+- obiad
+- bezlaktozowe
+- bez laktozy
+- kolacja
+- vege
+- bez glutenu
+- bez pszenicy
+- bez cukru
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/ryzowy/tytul.jpg)
