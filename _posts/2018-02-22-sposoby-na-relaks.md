@@ -3,7 +3,7 @@ layout: post
 title:  "Sposoby na relaks przy IBS i stanach lękowych,"
 subtitle: czyli jak poradzić sobie z chorobą i żyć pełnią życia.
 date:   2018-02-22
-facebook: assets/img/relaks/tytul.jpg
+facebook: assets/img/relaks/polecane.jpg
 project: true
 comments: true
 ---
