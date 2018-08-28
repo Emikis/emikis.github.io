@@ -6,16 +6,28 @@ date:   2018-08-06
 facebook: assets/img/leczo/polecane.jpg
 comments: true
 tags:
-- wegetariańskie
-- wegańskie
 - cukinia
 - papryka
 - pomidory
 - lato
-- obiad
-- bezpszeniczne
+- wegetariańskie
+- lunch
 - bezglutenowe
-- bezlaktozowe 
+- bezpszeniczne
+- bezlaktozowe
+- bez laktozy
+- wegańskie
+- obiad
+- kolacja
+- vege
+- bez glutenu
+- bez pszenicy
+- bez cukru
+- FODMAP
+- gulasz
+- zupa
+- bez nabiału
+- beznabiałowe
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/leczo/tytul.jpg)
@@ -24,13 +36,13 @@ Sezon na letnie warzywa otwarty i trzeba się nim nacieszyć. Nie ma chyba bardz
 
 Wieść gminna niesie, że leczo można zawekować na zimę. Jeszcze nie próbowałam, ale w tym roku chyba się na ten eksperyment zdecyduję. Takie leczo, jak z poniższego przepisu na pewno miło będzie odgrzać i przypomnieć sobie o upalnym sierpniu, gdy za oknami będzie szaleć śnieżyca! ;D
 
-## Lista zakupów (na ok. 2 litry, czyli ok. 4 porcje):
+## Lista zakupów (na ok. 2 litry, czyli ok. 4 porcje)
 
 * cukinia 1kg
 * papryka czerwona 2-3 sztuki
-* pęczek młodej cebuli lub 1 zwykła cebula
+* pęczek młodej cebuli lub 1 zwykła cebula (przy diecie FODMAP pomijamy)
 * 2 pomidory
-* 3 łyżki koncentratu pomidorowego
+* 2 łyżki koncentratu pomidorowego (lub 3 pomidory więcej)
 * oliwa/olej
 * sól
 * pieprz
@@ -38,11 +50,10 @@ Wieść gminna niesie, że leczo można zawekować na zimę. Jeszcze nie próbow
 * 1 mała suszona ostra papryczka chili
 * cząber ok. 1/2 łyżeczki
 * estragon ok. 1/2 łyżeczki
-* czosnek niedźwiedzi ok. 1 łyżki
+* czosnek niedźwiedzi ok. 1 łyżki (przy diecie FODMAP pomijamy)
 * bulion ok. 1/2 litra (najlepiej przygotowany wcześniej [bulion z resztek](http://pokarmlove.com.pl/zero-waste/))
 
-
-## Przepis:
+## Przepis
 
 Z papryki wycinamy pestki, kroimy ją na duże kawałki. Cebulę kroimy w kostkę. Cukinię kroimy na grube plastry, później na ćwiartki (ja cukinię obrałam, ale nie jest to konieczne). Obieramy pomidory i kroimy w kostkę.
 

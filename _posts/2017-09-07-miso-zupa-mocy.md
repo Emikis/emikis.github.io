@@ -32,6 +32,8 @@ tags:
 - marchewka
 - grzyby mun
 - grzyby shitake
+- beznabiałowe
+- bez nabiału
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/miso/tytul.jpg)

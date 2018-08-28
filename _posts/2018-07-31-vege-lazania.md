@@ -15,19 +15,28 @@ tags:
 - lazania
 - bakłażan
 - cukinia
-- cebula
 - bez laktozy
 - wegetariańskie
 - obiad
 - kolacja
 - strączki
+- lunch
+- kuchnia włoska
+- włoskie
+- bezglutenowe
+- bezpszeniczne
+- bezlaktozowe
+- vege
+- bez glutenu
+- bez pszenicy
+- bez cukru
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/lazania/tytul.jpg)
 
 Wiele razy próbowałam ugotować wegetariańską lazanię. Kombinowałam z różnymi proporcjami różnych warzyw i strączków. Niestety smaki nie chciały ze sobą współgrać. Sekretem okazała się mała ilość czerwonej soczewicy i dwa rodzaje cebuli - czerwona i zwykła. Smak lazanii podreśla też wspaniale zapieczona, ciągnąca się mozarella (oczywiście bez laktozy, ale sprawdzi się również ta w wersji wegańskiej)! Co do makaronu - polecam bezglutenową lazanię Schär (praktycznie nie jest wyczuwalna różnica w smaku pomiędzy nim a zwykłym, pszennym makaronem).
 
-## Lista zakupów (porcja dla 4 osób):
+## Lista zakupów (porcja dla 4 osób)
 
 * bezglutenowy makaron do lazanii (np. Schär) - ok. 9 płatów
 * 2 puszki pomidorów

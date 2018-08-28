@@ -29,6 +29,7 @@ tags:
 - kolacja
 - vege
 - bez pszenicy
+- strączki
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/falafel/tytul.jpg)

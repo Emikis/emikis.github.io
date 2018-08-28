@@ -28,6 +28,8 @@ tags:
 - mleko roślinne
 - wiórki kokosowe
 - kokos
+- beznabiałowe
+- bez nabiału
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/jagielnik/tytul.jpg)

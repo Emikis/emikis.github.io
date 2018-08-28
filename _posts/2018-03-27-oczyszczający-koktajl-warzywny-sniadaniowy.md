@@ -20,6 +20,8 @@ tags:
 - kurkuma
 - bezglutenowe
 - bezpszeniczne
+- beznabiałowe
+- bez nabiału
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/koktajl/tytul.jpg)

@@ -25,6 +25,7 @@ tags:
 - bez glutenu
 - bez pszenicy
 - bez cukru
+- strączki
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/koktajlowa/tytul.jpg)

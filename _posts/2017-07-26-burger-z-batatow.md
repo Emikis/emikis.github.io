@@ -29,6 +29,8 @@ tags:
 - mąka amarantusowa
 - mięta
 - kolendra
+- beznabiałowe
+- bez nabiału
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/burger-bataty/tytul.jpg)

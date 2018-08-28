@@ -19,6 +19,15 @@ tags:
 - pistacje
 - parmezan
 - kuchnia włoska
+- lunch
+- bez laktozy
+- wegańskie
+- kolacja
+- vege
+- bez glutenu
+- bez pszenicy
+- bez cukru
+- FODMAP
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/pesto/tytul.jpg)
@@ -27,7 +36,7 @@ Pesto bazyliowo-pistacjowe to jedno z tych dań, które praktycznie samo się ro
 Pesto można przygotować wcześniej lub zrobić w większej ilości (na kilka obiadów), bo spokojnie może poleżeć w lodówce kilka dni. 
 To co - macie ochotę na kluchy? :)
 
-## Lista zakupów (na ok. 2 porcje):
+## Lista zakupów (na ok. 2 porcje)
 
 * garść świeżej bazylii
 * pistacje (ok. 80-90 g, zważone w łupkach)
@@ -39,7 +48,7 @@ Opcjonalnie:
 * czosnek niedźwiedzi ok. 1 łyżeczki (choć i bez niego pesto jest pyszne)
 * pokrojone suszone pomidorki/pomidorki koktajlowe
 
-## Przepis:
+## Przepis
 
 Myjemy liście bazylii, obieramy pistacje. Wszystkie składniki blendujemy. Dodajemy taką ilość oliwy, żeby pesto miało konsystencję jaka nam odpowiada (ja wolę pesto bardziej sypkie, mniej tłuste, ale niektórzy preferują takie z dużą ilością oliwy). Gotujemy makaron. Wszystko mieszamy w garnku, żeby pesto równomiernie rozprowadziło się po makaronie. Podajemy najlepiej z pomidorkami suszonymi.
 

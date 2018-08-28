@@ -30,6 +30,8 @@ tags:
 - bez glutenu
 - bez pszenicy
 - bez cukru
+- beznabiałowe
+- bez nabiału
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/zapiekanka/tytul.png)

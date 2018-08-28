@@ -26,6 +26,8 @@ tags:
 - hummus
 - cukinia
 - papryka
+- beznabiałowe
+- bez nabiału
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/burger-tofu/tytul.jpg)

@@ -25,6 +25,7 @@ tags:
 - bez glutenu
 - bez pszenicy
 - bez cukru
+- ryby
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/tunczyk/tytul.jpg)

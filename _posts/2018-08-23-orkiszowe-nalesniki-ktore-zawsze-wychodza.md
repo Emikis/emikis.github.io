@@ -21,6 +21,15 @@ tags:
 - bezlaktozowe 
 - orkisz
 - orkiszowe
+- mąka orkiszowa
+- wegetariańskie
+- lunch
+- bez laktozy
+- wegańskie
+- kolacja
+- vege
+- bez pszenicy
+- jajka
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/nalesniki/tytul.jpg)

@@ -24,6 +24,8 @@ tags:
 - kakao
 - mleko roślinne
 - jajko
+- beznabiałowe
+- bez nabiału
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/bananowe/tytul.jpg)

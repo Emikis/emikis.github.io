@@ -27,6 +27,8 @@ tags:
 - bez pszenicy
 - chipsy kukurydziane
 - bez cukru
+- beznabiałowe
+- bez nabiału
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/guacamole/tytul.jpg)

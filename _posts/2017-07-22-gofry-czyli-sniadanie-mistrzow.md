@@ -23,6 +23,8 @@ tags:
 - mąka gryczana
 - mąka amarantusowa
 - jajka
+- beznabiałowe
+- bez nabiału
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/gofry/tytul.jpg)

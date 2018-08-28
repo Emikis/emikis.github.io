@@ -30,6 +30,9 @@ tags:
 - kasza
 - natka
 - pietruszka
+- beznabiałowe
+- bez nabiału
+- strączki
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/burger-buraki/tytul.jpg)

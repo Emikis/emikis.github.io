@@ -31,6 +31,8 @@ tags:
 - papryka
 - marchewka
 - pomidory
+- beznabiałowe
+- bez nabiału
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/placki/tytul.jpg)

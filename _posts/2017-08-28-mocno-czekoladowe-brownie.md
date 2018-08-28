@@ -23,6 +23,8 @@ tags:
 - mąka ryżowa
 - mąka kukurydziana
 - mąka ziemniaczana
+- beznabiałowe
+- bez nabiału
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/brownie/tytul.jpg)

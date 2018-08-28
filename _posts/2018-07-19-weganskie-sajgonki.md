@@ -27,7 +27,8 @@ tags:
 - bez pszenicy
 - bez cukru
 - warzywa
-
+- beznabiałowe
+- bez nabiału
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/sajgonki/tytul.jpg)

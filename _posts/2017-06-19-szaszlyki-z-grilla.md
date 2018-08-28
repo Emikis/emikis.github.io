@@ -25,6 +25,8 @@ tags:
 - lato
 - tofu
 - cukinia
+- beznabiałowe
+- bez nabiału
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/szaszlyki/tytul.jpg)

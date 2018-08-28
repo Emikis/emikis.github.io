@@ -28,6 +28,9 @@ tags:
 - bez glutenu
 - bez pszenicy
 - bez cukru
+- beznabiałowe
+- bez nabiału
+- strączki
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/curry/tytul.jpg)

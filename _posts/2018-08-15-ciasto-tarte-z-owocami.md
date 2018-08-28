@@ -8,6 +8,7 @@ tags:
 - wegetariańskie
 - deser
 - ciasto
+- wypieki
 - słodycze
 - bez cukru
 - bezcukrowe
@@ -21,6 +22,16 @@ tags:
 - bezpszeniczne
 - bezlaktozowe 
 - bez nabiału
+- beznabiałowe
+- bez laktozy
+- vege
+- bez pszenicy
+- bez cukru
+- FODMAP
+- orkisz
+- orkiszowe
+- mąka orkiszowa
+- jajka
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/placek/tytul.jpg)

@@ -30,6 +30,9 @@ tags:
 - bez glutenu
 - bez pszenicy
 - bez cukru
+- strączki
+- bez nabiału
+- beznabiałowe
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/chili/tytul.jpg)

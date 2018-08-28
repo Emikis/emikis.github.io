@@ -24,6 +24,8 @@ tags:
 - pomidory
 - natka
 - pietruszka
+- beznabiałowe
+- bez nabiału
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/spaghetti/tytul.jpg)
@@ -37,7 +39,7 @@ W lecie dużo łatwiej o świeże warzywa a ich różnorodność w porównaniu z
 * suszona papryczka chili lub płatki czerwonego pieprzu
 * ok. 300g makaronu kukurydzianego
 * natka pietruszki (pół pęczka)
-* parmezan bez laktozy
+* parmezan bez laktozy (przy diecie FODMAP pomijamy)
 
 ## Przepis
 

@@ -30,6 +30,8 @@ tags:
 - bez pszenicy
 - bez cukru
 - FODMAP
+- beznabiałowe
+- bez nabiału
 ---
 
 ![zdjecie]({{ site.url }}/assets/img/tacoski/tytul.jpg)
