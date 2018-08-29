@@ -63,10 +63,10 @@ To już drugi przepis na wegański kebab na Blogu ([tu](http://pokarmlove.com.pl
 * cytryna (ok. 1 łyżka)
 * czosnek niedźwiedzi (ok. 2 łyżeczki)
 
-## [Przepis na falafele](http://www.jadlonomia.com/przepisy/falafel-idealny/)
+## Przepis na falafele
 
 Jeśli posiadacie książkę Alicji Rokickiej (Wegan Nerd) "Moja kuchnia roślinna" to z całego serca polecam zrobić falafele z jej przepisu. 
-Jeśli nie, to możecie znaleźć mnóstwo innych przepisów w internecie, np. Jadłonomii, który podlinkowałam :)
+Jeśli nie, to możecie znaleźć mnóstwo innych przepisów w internecie, np. Jadłonomii, który [podlinkowałam](http://www.jadlonomia.com/przepisy/falafel-idealny/) :)
 Jeżeli zdecydujecie się postępować zgodnie z załączonym powyżej przepisem - zamiast 300g ciecierzycy do kebabów wystarczy 200g i zamiast całej cebuli połówka. Ci z was, którzy tak jak ja nie mogą jeść czosnku być może będą mogli zastąpić go suszonym czosnkiem niedźwiedzim (sprawdzi się też do sosu "majonezowo-czosnkowego"). Dając do falafeli świeżą kolendrę można też podarować sobie dawanie tej w kulkach, warto również dorzucić do masy świeżą miętę.
 
 ![zdjecie]({{ site.url }}/assets/img/falafel/1.jpg)
