@@ -2,7 +2,7 @@
 layout: post
 title:  "Spaghetti ze szpinakiem i pomidorkami koktajlowymi"
 subtitle: Wegański, szybki makaron.
-date:   2018-04-04
+date:   2018-08-30
 facebook: assets/img/koktajlowe/polecane.jpg
 comments: true
 tags:
