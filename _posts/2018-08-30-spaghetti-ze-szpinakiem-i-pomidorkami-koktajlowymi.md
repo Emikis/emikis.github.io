@@ -16,7 +16,7 @@ tags:
 - kolacja
 - bezglutenowe
 - bezpszeniczne
-- szpinka
+- szpinak
 - pomidorki
 - pomidorki koktajlowe
 - pomidory koktajlowe
